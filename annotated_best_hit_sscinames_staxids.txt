@@ -1,0 +1,5116 @@
+ASV_1	Sander vitreus	283036
+ASV_2	Sebastes auriculatus	72057
+ASV_3	Bos taurus	9913
+ASV_4	Clupea harengus	7950
+ASV_5	Nematobrycon palmeri	272066
+ASV_6	
+ASV_7	Hippocampus abdominalis	109274
+ASV_8	Sebastes caurinus	72063
+ASV_9	
+ASV_10	Chrysiptera parasema	206155
+ASV_11	Mesomycoplasma bovoculi M165/69	743966
+ASV_12	uncultured rumen bacterium	136703
+ASV_13	Homo sapiens	9606
+ASV_14	Aracana aurita	1206982
+ASV_15	Phractocephalus hemioliopterus	221419
+ASV_16	Acanthurus maculiceps	2080250
+ASV_17	uncultured bacterium	77133
+ASV_18	Caranx hippos	173312
+ASV_19	Anarrhichthys ocellatus	433405
+ASV_20	Piaractus brachypomus	42529
+ASV_21	Sebastes paucispinis	72093
+ASV_22	Sus scrofa	9823
+ASV_23	Zebrasoma velifer	1311505
+ASV_24	Lutjanus bengalensis	520515
+ASV_25	Pseudanthias pleurotaenia	428427
+ASV_26	Acanthurus olivaceus	238053
+ASV_27	Allomycterus pilatus	303708
+ASV_28	Hippocampus abdominalis	109274
+ASV_29	
+ASV_30	Hemitaurichthys zoster	109924
+ASV_31	uncultured marine bacterium	56765
+ASV_32	Semaprochilodus sp. CBM:ZF:12566	1772041
+ASV_33	Naso vlamingii	238067
+ASV_34	Sebastes mystinus	72088
+ASV_35	Tatia intermedia	238666
+ASV_36	Conodon nobilis	722433
+ASV_37	uncultured Alteromonadales bacterium	293343
+ASV_38	Heniochus monoceros	466131
+ASV_39	uncultured bacterium	77133
+ASV_40	Macroramphosus gracilis	1311459
+ASV_41	Microcanthus strigatus	163146
+ASV_42	uncultured Gammaproteobacteria bacterium	86473
+ASV_43	Naso vlamingii	238067
+ASV_44	uncultured bacterium	77133
+ASV_45	Siganus virgatus;Siganus corallinus	225759;406536
+ASV_47	Acanthurus guttatus	75013
+ASV_48	Gymnothorax kidako	139722
+ASV_49	Pseudanthias squamipinnis	270578
+ASV_50	Centropyge vrolikii	109736
+ASV_51	Plectorhinchus vittatus	1010711
+ASV_52	Pseudomonas fragi	296
+ASV_53	Naso unicornis	175444
+ASV_54	Homo sapiens	9606
+ASV_55	Pseudomonas poae	200451
+ASV_56	Enchelycore pardalis	586820
+ASV_57	Pterophyllum scalare	74131
+ASV_58	uncultured Limnohabitans sp.	768543
+ASV_59	Gymnothorax kidako	139722
+ASV_60	Paracheirodon axelrodi	268476
+ASV_61	Stenotrophomonas maltophilia	40324
+ASV_62	uncultured bacterium	77133
+ASV_63	Bibersteinia trehalosi	47735
+ASV_64	Oncorhynchus gorbuscha	8017
+ASV_65	Pseudanthias pleurotaenia	428427
+ASV_66	Enoplosus armatus	215367
+ASV_67	Pseudanthias pleurotaenia	428427
+ASV_68	
+ASV_69	Cichla kelberi	613157
+ASV_70	Marivita litorea	505251
+ASV_71	Zebrasoma flavescens	175439
+ASV_72	uncultured Flavobacteriia bacterium	212695
+ASV_73	uncultured fungus	175245
+ASV_74	uncultured Gammaproteobacteria bacterium	86473
+ASV_75	Acanthurus triostegus	175435
+ASV_76	uncultured prokaryote	198431
+ASV_77	uncultured fungus	175245
+ASV_78	uncultured beta proteobacterium	86027
+ASV_79	Pseudanthias pleurotaenia	428427
+ASV_80	Meleagris gallopavo	9103
+ASV_81	uncultured bacterium	77133
+ASV_82	uncultured bacterium	77133
+ASV_83	Embiotoca lateralis	229144
+ASV_84	Chaetodon lunula	109694
+ASV_85	Nemateleotris decora	586835
+ASV_86	uncultured Epsilonproteobacteria bacterium	120858
+ASV_87	Mallotus villosus	30960
+ASV_88	Granulicatella sp.	2049028
+ASV_89	Moraxella cuniculi	34061
+ASV_90	uncultured fungus	175245
+ASV_91	uncultured bacterium	77133
+ASV_92	Paracanthurus hepatus	75030
+ASV_93	Pygocentrus nattereri	42514
+ASV_94	Macolor macularis	1099943
+ASV_95	Odonus niger	392902
+ASV_96	uncultured bacterium	77133
+ASV_97	Bos taurus	9913
+ASV_98	
+ASV_99	
+ASV_100	Lutjanus quinquelineatus	396789
+ASV_101	Chaetodontoplus septentrionalis	215363
+ASV_102	uncultured bacterium	77133
+ASV_103	Halichoeres melanurus	215378
+ASV_104	Homo sapiens	9606
+ASV_105	uncultured rumen bacterium	136703
+ASV_106	Polynucleobacter tropicus	1743174
+ASV_107	Pterois volitans	185886
+ASV_108	Acanthochromis polyacanthus	80966
+ASV_109	uncultured bacterium	77133
+ASV_110	Crossocheilus atrilimes	1093611
+ASV_111	uncultured Actinomycetales bacterium	239730
+ASV_112	uncultured bacterium	77133
+ASV_113	Achromobacter insolitus	217204
+ASV_114	Clupea harengus	7950
+ASV_115	Acanthurus olivaceus	238053
+ASV_116	Chrysiptera cyanea	83874
+ASV_117	Moritella sp. Norgb1	1293794
+ASV_118	uncultured prokaryote	198431
+ASV_119	Naso brevirostris	238055
+ASV_120	uncultured Verrucomicrobia bacterium	156588
+ASV_121	Bos taurus	9913
+ASV_123	Limnohabitans sp. Se3Pw_3627	1364184
+ASV_124	uncultured bacterium	77133
+ASV_125	Alysiella crassa	153491
+ASV_126	Ptereleotris zebra	150319
+ASV_127	uncultured bacterium	77133
+ASV_128	Coris gaimard	241281
+ASV_129	Brevundimonas vesicularis	41276
+ASV_130	Acanthurus japonicus	390296
+ASV_131	uncultured bacterium	77133
+ASV_132	Acanthurus maculiceps	2080250
+ASV_133	uncultured bacterium	77133
+ASV_134	bacterium enrichment culture	207831
+ASV_135	Curvibacter sp.	1888168
+ASV_136	
+ASV_137	Clupea harengus	7950
+ASV_138	Psychrobacter sp.	56811
+ASV_139	Pseudoalteromonas sp.	53249
+ASV_140	
+ASV_141	Pterois volitans	185886
+ASV_142	Bos taurus	9913
+ASV_143	Holacanthus ciliaris	75024
+ASV_144	uncultured rumen bacterium	136703
+ASV_145	Myloplus rubripinnis	42550
+ASV_146	
+ASV_147	Moraxella bovis	476
+ASV_148	Moraxella sp. ZY201224	2904122
+ASV_149	Pseudoalteromonas sp.	53249
+ASV_150	uncultured bacterium	77133
+ASV_151	uncultured bacterium	77133
+ASV_152	Pseudoalteromonas tunicata	314281
+ASV_153	uncultured bacterium	77133
+ASV_154	Homo sapiens	9606
+ASV_155	Gymnothorax favagineus	473454
+ASV_156	Acanthurus lineatus	483362
+ASV_157	Mesomycoplasma dispar	86660
+ASV_158	
+ASV_159	Monocentris japonicus	181435
+ASV_160	Gymnothorax fimbriatus	473455
+ASV_161	uncultured bacterium	77133
+ASV_162	Gemella morbillorum	29391
+ASV_163	Bos taurus	9913
+ASV_164	uncultured Mannheimia sp.	509546
+ASV_165	Plectorhinchus chaetodonoides	531329
+ASV_166	Bos taurus	9913
+ASV_167	uncultured Rhodoferax sp.	223188
+ASV_168	Microcanthus strigatus	163146
+ASV_169	
+ASV_170	Phreatobacter stygius	1940610
+ASV_171	Taonella mepensis	1155801
+ASV_172	Siganus unimaculatus	215396
+ASV_173	Amphiprion perideraion	80973
+ASV_174	Pseudanthias huchtii	586854
+ASV_175	Paralabrax clathratus	172714
+ASV_176	Hypanus americanus	2484686
+ASV_177	Sander vitreus	283036
+ASV_178	uncultured bacterium	77133
+ASV_179	Epinephelus bontoides	1167616
+ASV_180	uncultured rumen bacterium	136703
+ASV_181	Acanthurus leucosternon	459747
+ASV_182	Paraperlucidibaca baekdonensis	748120
+ASV_183	
+ASV_184	
+ASV_185	Mannheimia ovis	2679994
+ASV_187	uncultured bacterium	77133
+ASV_188	uncultured bacterium	77133
+ASV_189	Bos taurus	9913
+ASV_190	
+ASV_191	Homo sapiens	9606
+ASV_192	Bos taurus	9913
+ASV_193	uncultured diatom	137771
+ASV_194	Bradyrhizobium sp.	376
+ASV_195	Methylorubrum extorquens	408
+ASV_196	Bos taurus	9913
+ASV_197	uncultured bacterium	77133
+ASV_198	uncultured bacterium	77133
+ASV_199	Mesomycoplasma bovoculi M165/69	743966
+ASV_200	Hydrogenophaga sp.	1904254
+ASV_201	Homo sapiens	9606
+ASV_202	Amphiprion ocellaris	80972
+ASV_203	Neptuniibacter sp.	1962643
+ASV_204	uncultured rumen bacterium	136703
+ASV_205	
+ASV_206	Comamonadaceae bacterium Se1Ps_1989	1361864
+ASV_207	uncultured bacterium	77133
+ASV_208	Hypostomus sp. LAGEEVO-1737	2768090
+ASV_209	Neocirrhites armatus	587057
+ASV_210	uncultured bacterium	77133
+ASV_211	uncultured bacterium	77133
+ASV_212	rumen bacterium	2267272
+ASV_213	uncultured Rhodobacteraceae bacterium	157276
+ASV_214	uncultured bacterium	77133
+ASV_215	Bos taurus	9913
+ASV_216	
+ASV_217	
+ASV_218	Caranx latus	75015
+ASV_219	uncultured Planctomycetota bacterium	120965
+ASV_220	Bos taurus	9913
+ASV_221	uncultured bacterium	77133
+ASV_222	uncultured bacterium	77133
+ASV_223	uncultured Bacteroidetes bacterium	152509
+ASV_224	Shigella sonnei	624
+ASV_226	Allomycterus pilatus	303708
+ASV_227	
+ASV_228	Bos taurus	9913
+ASV_229	uncultured rumen bacterium	136703
+ASV_230	uncultured bacterium	77133
+ASV_231	uncultured Alphaproteobacteria bacterium	91750
+ASV_232	Pseudoplatystoma tigrinum	459635
+ASV_233	uncultured bacterium	77133
+ASV_234	uncultured euryarchaeote	114243
+ASV_235	Pygoplites diacanthus	109741
+ASV_236	Mesomycoplasma bovoculi M165/69	743966
+ASV_237	uncultured bacterium	77133
+ASV_238	uncultured bacterium	77133
+ASV_239	uncultured rumen bacterium	136703
+ASV_240	uncultured Novosphingobium sp.	292277
+ASV_241	Bos taurus	9913
+ASV_242	Mesomycoplasma bovoculi M165/69	743966
+ASV_243	uncultured Candidatus Gracilibacteria bacterium	363504
+ASV_244	Psychrobacillus psychrodurans	126157
+ASV_245	Amphiprion clarkii	80970
+ASV_246	uncultured bacterium	77133
+ASV_247	uncultured Nevskia sp.	228950
+ASV_248	uncultured bacterium	77133
+ASV_249	uncultured bacterium	77133
+ASV_250	uncultured fungus	175245
+ASV_251	Myloplus rubripinnis	42550
+ASV_252	uncultured Bacteroidetes bacterium	152509
+ASV_253	uncultured bacterium	77133
+ASV_254	Hippocampus abdominalis	109274
+ASV_255	Epinephelus moara x Epinephelus lanceolatus;Epinephelus akaara x Epinephelus lanceolatus	1849795;1979539
+ASV_256	uncultured bacterium	77133
+ASV_257	uncultured bacterium	77133
+ASV_258	Allomycterus pilatus	303708
+ASV_259	uncultured bacterium	77133
+ASV_260	Bos taurus	9913
+ASV_261	uncultured bacterium	77133
+ASV_262	uncultured Kingella sp.	159270
+ASV_263	
+ASV_264	Moraxella canis	90239
+ASV_265	Meiacanthus kamoharai	1405651
+ASV_266	Homo sapiens	9606
+ASV_267	
+ASV_268	
+ASV_269	bacterium	1869227
+ASV_270	Bos taurus	9913
+ASV_271	
+ASV_272	uncultured prokaryote	198431
+ASV_273	uncultured bacterium	77133
+ASV_274	uncultured bacterium	77133
+ASV_275	uncultured bacterium	77133
+ASV_276	Brachyistius frenatus	100188
+ASV_277	uncultured beta proteobacterium	86027
+ASV_278	uncultured bacterium	77133
+ASV_279	Bos taurus	9913
+ASV_280	Homo sapiens	9606
+ASV_281	uncultured bacterium	77133
+ASV_282	uncultured bacterium	77133
+ASV_283	uncultured rumen bacterium	136703
+ASV_284	
+ASV_285	uncultured prokaryote	198431
+ASV_286	uncultured bacterium	77133
+ASV_287	uncultured phototrophic eukaryote	172788
+ASV_288	uncultured bacterium	77133
+ASV_289	uncultured bacterium	77133
+ASV_290	Sebastes auriculatus	72057
+ASV_291	Alkalihalophilus pseudofirmus	79885
+ASV_292	uncultured rumen bacterium	136703
+ASV_293	uncultured bacterium	77133
+ASV_294	Genicanthus melanospilos	109923
+ASV_295	Sargocentron praslin	1223610
+ASV_296	Epinephelus moara x Epinephelus lanceolatus;Epinephelus akaara x Epinephelus lanceolatus	1849795;1979539
+ASV_297	Polynucleobacter sp.	2029855
+ASV_298	uncultured rumen bacterium	136703
+ASV_299	uncultured Lachnospiraceae bacterium	297314
+ASV_300	uncultured bacterium	77133
+ASV_301	uncultured bacterium	77133
+ASV_302	
+ASV_303	Sebastes caurinus	72063
+ASV_304	uncultured Paraprevotella sp.	910951
+ASV_305	
+ASV_306	Hydrogenophaga sp. Ri2Pw_6039	1360735
+ASV_307	Homo sapiens	9606
+ASV_308	uncultured rumen bacterium	136703
+ASV_309	Polynucleobacter difficilis	556054
+ASV_310	uncultured bacterium	77133
+ASV_311	uncultured bacterium	77133
+ASV_312	uncultured prokaryote	198431
+ASV_313	Psychrobacter aquaticus	248452
+ASV_314	uncultured bacterium	77133
+ASV_315	Planococcus glaciei	459472
+ASV_316	uncultured bacterium	77133
+ASV_317	uncultured Gammaproteobacteria bacterium	86473
+ASV_318	Bos taurus	9913
+ASV_319	uncultured Bacteroidetes bacterium	152509
+ASV_320	uncultured bacterium	77133
+ASV_321	Bos taurus	9913
+ASV_322	Bos taurus	9913
+ASV_323	Hippocampus abdominalis	109274
+ASV_324	uncultured bacterium	77133
+ASV_325	Mannheimia bovis	2770636
+ASV_326	Tabrizicola sp.	2005166
+ASV_327	uncultured bacterium	77133
+ASV_328	uncultured Bacteroidetes bacterium	152509
+ASV_329	Mesomycoplasma bovoculi M165/69	743966
+ASV_330	uncultured Sporobacter sp.	867686
+ASV_331	uncultured bacterium	77133
+ASV_332	Photobacterium damselae	38293
+ASV_333	uncultured marine bacterium	56765
+ASV_334	Bos taurus	9913
+ASV_335	Mannheimia sp.	2081794
+ASV_336	uncultured bacterium	77133
+ASV_337	uncultured bacterium	77133
+ASV_338	uncultured bacterium	77133
+ASV_339	Bos taurus	9913
+ASV_340	Glabratella patelliformis	109231
+ASV_341	uncultured bacterium	77133
+ASV_342	Scomber australasicus	29150
+ASV_343	uncultured bacterium	77133
+ASV_344	Homo sapiens	9606
+ASV_345	
+ASV_346	uncultured bacterium	77133
+ASV_347	Homo sapiens	9606
+ASV_348	Bos taurus	9913
+ASV_349	uncultured rumen bacterium	136703
+ASV_350	uncultured bacterium	77133
+ASV_351	Homo sapiens	9606
+ASV_352	uncultured rumen bacterium	136703
+ASV_353	
+ASV_354	uncultured bacterium	77133
+ASV_355	uncultured bacterium	77133
+ASV_356	uncultured prokaryote	198431
+ASV_357	Mesomycoplasma bovoculi M165/69	743966
+ASV_358	Homo sapiens	9606
+ASV_359	uncultured archaeon	115547
+ASV_360	Homo sapiens	9606
+ASV_361	uncultured bacterium	77133
+ASV_362	uncultured prokaryote	198431
+ASV_363	uncultured Gammaproteobacteria bacterium	86473
+ASV_364	Mesomycoplasma bovoculi M165/69	743966
+ASV_365	uncultured bacterium	77133
+ASV_366	uncultured marine bacterium	56765
+ASV_367	
+ASV_368	Homo sapiens	9606
+ASV_369	Allomycterus pilatus	303708
+ASV_370	uncultured bacterium	77133
+ASV_371	uncultured prokaryote	198431
+ASV_372	Bos taurus	9913
+ASV_373	uncultured bacterium	77133
+ASV_374	uncultured Arcobacter sp.	165434
+ASV_375	Pterygoplichthys pardalis	103477
+ASV_376	uncultured bacterium	77133
+ASV_377	Bos taurus	9913
+ASV_378	Homo sapiens	9606
+ASV_379	Rhamphocottus richardsonii	283636
+ASV_380	Massilia sp.	1882437
+ASV_381	Bos taurus	9913
+ASV_382	uncultured rumen bacterium	136703
+ASV_383	
+ASV_384	Ancistrus trinitatis	2841642
+ASV_385	Caranx hippos	173312
+ASV_386	uncultured Bacteroidia bacterium	1129257
+ASV_387	uncultured bacterium	77133
+ASV_388	Genicanthus bellus	1156109
+ASV_389	Bos taurus	9913
+ASV_390	uncultured rumen bacterium	136703
+ASV_391	
+ASV_392	
+ASV_393	uncultured rumen bacterium	136703
+ASV_394	uncultured Lachnospiraceae bacterium	297314
+ASV_395	Hydrogenophaga sp.	1904254
+ASV_396	Bos taurus	9913
+ASV_397	uncultured bacterium	77133
+ASV_398	Acinetobacter harbinensis	1353941
+ASV_399	uncultured rumen bacterium	136703
+ASV_400	Serratia proteamaculans	28151
+ASV_401	uncultured bacterium	77133
+ASV_402	uncultured Planctomycetota bacterium	120965
+ASV_403	
+ASV_404	Aracana aurita	1206982
+ASV_405	uncultured bacterium	77133
+ASV_406	uncultured bacterium	77133
+ASV_407	uncultured bacterium	77133
+ASV_408	uncultured rumen bacterium	136703
+ASV_409	Bos taurus	9913
+ASV_410	bacterium	1869227
+ASV_411	Sebastes auriculatus	72057
+ASV_412	Anisotremus scapularis	531323
+ASV_413	Moraxella bovoculi	386891
+ASV_414	uncultured rumen bacterium	136703
+ASV_415	Homo sapiens	9606
+ASV_416	Halamphora americana	2305497
+ASV_417	uncultured bacterium	77133
+ASV_418	uncultured bacterium	77133
+ASV_419	uncultured rumen bacterium	136703
+ASV_420	uncultured Lachnospiraceae bacterium	297314
+ASV_421	uncultured Ralstonia sp.	114715
+ASV_422	uncultured bacterium	77133
+ASV_423	uncultured rumen bacterium	136703
+ASV_424	Caranx hippos	173312
+ASV_425	uncultured bacterium	77133
+ASV_426	Bos taurus	9913
+ASV_427	uncultured bacterium	77133
+ASV_428	uncultured bacterium	77133
+ASV_429	Polaromonas jejuensis	457502
+ASV_430	uncultured Emticicia sp.	443073
+ASV_431	uncultured bacterium	77133
+ASV_432	Bos taurus	9913
+ASV_433	uncultured bacterium	77133
+ASV_434	
+ASV_435	uncultured Mannheimia sp.	509546
+ASV_436	uncultured rumen bacterium	136703
+ASV_437	uncultured bacterium	77133
+ASV_438	uncultured bacterium	77133
+ASV_439	Homo sapiens	9606
+ASV_440	Planomicrobium okeanokoites;Planomicrobium sp. REN14	244;2782551
+ASV_441	uncultured Cycloclasticus sp.	172194
+ASV_442	uncultured bacterium	77133
+ASV_443	uncultured bacterium	77133
+ASV_444	uncultured bacterium	77133
+ASV_446	Moraxella sp. feline oral taxon 350	1577430
+ASV_447	Siccirubricoccus deserti	2013562
+ASV_448	Bos taurus	9913
+ASV_449	uncultured fungus	175245
+ASV_450	uncultured rumen bacterium	136703
+ASV_451	uncultured Pirellulaceae bacterium	2706754
+ASV_452	uncultured bacterium	77133
+ASV_453	Hippocampus abdominalis	109274
+ASV_454	Scyliorhinus retifer	107947
+ASV_455	Bos taurus	9913
+ASV_456	uncultured bacterium	77133
+ASV_457	uncultured bacterium	77133
+ASV_458	uncultured bacterium	77133
+ASV_459	uncultured bacterium	77133
+ASV_460	uncultured Nitrospira sp.	157176
+ASV_461	Synchiropus splendidus	270530
+ASV_462	uncultured bacterium	77133
+ASV_463	uncultured rumen bacterium	136703
+ASV_464	uncultured bacterium	77133
+ASV_465	Bos taurus	9913
+ASV_466	uncultured rumen bacterium	136703
+ASV_467	uncultured Stenotrophomonas sp.	165438
+ASV_468	
+ASV_469	uncultured rumen bacterium	136703
+ASV_470	uncultured candidate division SR1 bacterium	221237
+ASV_471	uncultured bacterium	77133
+ASV_473	uncultured bacterium	77133
+ASV_474	uncultured Gammaproteobacteria bacterium	86473
+ASV_475	uncultured rumen bacterium	136703
+ASV_476	Bibersteinia sp. 306_10	1207429
+ASV_477	uncultured rumen bacterium	136703
+ASV_478	Thermomonas carbonis	1463158
+ASV_479	
+ASV_480	uncultured proteobacterium	153809
+ASV_481	uncultured rumen bacterium	136703
+ASV_482	Porphyrobacter sp.	1113
+ASV_483	uncultured bacterium	77133
+ASV_484	Bos taurus	9913
+ASV_485	uncultured bacterium	77133
+ASV_486	uncultured bacterium	77133
+ASV_487	
+ASV_488	uncultured Candidatus Gracilibacteria bacterium	363504
+ASV_489	Pimephales promelas	90988
+ASV_490	Canis lupus familiaris	9615
+ASV_491	Mesomycoplasma bovoculi M165/69	743966
+ASV_492	uncultured bacterium	77133
+ASV_493	Pseudanthias ignitus	2507732
+ASV_494	uncultured Actinomycetales bacterium	239730
+ASV_495	Alysiella crassa	153491
+ASV_496	
+ASV_497	uncultured bacterium	77133
+ASV_498	uncultured rumen bacterium	136703
+ASV_499	uncultured prokaryote	198431
+ASV_500	
+ASV_501	uncultured rumen bacterium	136703
+ASV_502	
+ASV_503	uncultured bacterium	77133
+ASV_504	uncultured bacterium	77133
+ASV_505	uncultured bacterium	77133
+ASV_506	Clupea harengus	7950
+ASV_507	uncultured bacterium	77133
+ASV_508	Bos taurus	9913
+ASV_509	uncultured bacterium	77133
+ASV_510	Euthynnus alletteratus	8228
+ASV_511	uncultured marine bacterium	56765
+ASV_512	uncultured bacterium	77133
+ASV_513	
+ASV_514	Lutjanus quinquelineatus	396789
+ASV_515	uncultured rumen bacterium	136703
+ASV_516	uncultured rumen bacterium	136703
+ASV_517	
+ASV_518	uncultured bacterium	77133
+ASV_519	uncultured bacterium	77133
+ASV_520	Moritella sp.	78556
+ASV_521	Janthinobacterium lividum	29581
+ASV_522	uncultured bacterium	77133
+ASV_523	uncultured bacterium	77133
+ASV_524	Roseococcus sp. Se3Pw_3495	1364735
+ASV_526	uncultured bacterium	77133
+ASV_527	
+ASV_528	Pterois volitans	185886
+ASV_529	uncultured bacterium	77133
+ASV_530	uncultured fungus	175245
+ASV_531	Rhizobacter sp. Se3Ps_2566	1363458
+ASV_532	Bos taurus	9913
+ASV_533	uncultured bacterium	77133
+ASV_534	uncultured bacterium	77133
+ASV_535	uncultured prokaryote	198431
+ASV_536	Mallotus villosus	30960
+ASV_537	Chrysiptera springeri	646022
+ASV_538	Mesomycoplasma bovoculi M165/69	743966
+ASV_539	uncultured rumen bacterium	136703
+ASV_540	uncultured Lachnospiraceae bacterium	297314
+ASV_541	Homo sapiens	9606
+ASV_542	uncultured Gammaproteobacteria bacterium	86473
+ASV_543	uncultured rumen bacterium	136703
+ASV_544	uncultured bacterium	77133
+ASV_545	Rhodoferax sp. Se3Pw_3531	1364733
+ASV_546	uncultured fungus	175245
+ASV_547	Homo sapiens	9606
+ASV_548	Hippocampus abdominalis	109274
+ASV_549	uncultured bacterium	77133
+ASV_550	uncultured bacterium	77133
+ASV_551	uncultured Acidovorax sp.	158751
+ASV_552	
+ASV_553	uncultured organism	155900
+ASV_554	uncultured Ruminococcus sp.	165186
+ASV_555	Luteimonas sp.	1873125
+ASV_556	
+ASV_557	uncultured bacterium	77133
+ASV_558	uncultured bacterium	77133
+ASV_559	uncultured bacterium	77133
+ASV_560	Acanthurus olivaceus	238053
+ASV_561	uncultured Actinomycetes bacterium	152507
+ASV_562	Sphingomonas sp.	28214
+ASV_563	uncultured prokaryote	198431
+ASV_564	
+ASV_565	uncultured marine bacterium	56765
+ASV_566	Homo sapiens	9606
+ASV_567	Bos taurus	9913
+ASV_568	Stenotrophomonas maltophilia	40324
+ASV_569	uncultured rumen bacterium	136703
+ASV_570	rumen bacterium 7/94-26	371788
+ASV_571	uncultured prokaryote	198431
+ASV_572	uncultured Fibrobacter sp.	261512
+ASV_573	uncultured bacterium	77133
+ASV_574	Bos taurus	9913
+ASV_575	uncultured rumen bacterium	136703
+ASV_576	Clupea harengus	7950
+ASV_577	uncultured Firmicutes bacterium	344338
+ASV_578	uncultured rumen bacterium	136703
+ASV_579	uncultured bacterium	77133
+ASV_580	
+ASV_581	uncultured Planctomycetota bacterium	120965
+ASV_582	Pomacanthus imperator	109711
+ASV_583	Gymnothorax kidako	139722
+ASV_584	uncultured Chelatococcus sp.	316083
+ASV_585	Sphingomonadaceae bacterium Ri2Pw_6011	1360717
+ASV_586	Mesomycoplasma bovoculi M165/69	743966
+ASV_587	Stenotrophomonas maltophilia	40324
+ASV_588	uncultured bacterium	77133
+ASV_589	uncultured rumen bacterium	136703
+ASV_590	Bos taurus	9913
+ASV_591	uncultured bacterium	77133
+ASV_592	uncultured archaeon	115547
+ASV_593	Acinetobacter harbinensis	1353941
+ASV_594	
+ASV_595	uncultured bacterium	77133
+ASV_596	Bos taurus	9913
+ASV_597	uncultured bacterium	77133
+ASV_598	uncultured bacterium	77133
+ASV_599	
+ASV_600	uncultured prokaryote	198431
+ASV_601	Meleagris gallopavo	9103
+ASV_602	uncultured bacterium	77133
+ASV_603	uncultured bacterium	77133
+ASV_604	bacterium AC3007	1451591
+ASV_605	uncultured rumen bacterium	136703
+ASV_606	Pseudomonas fragi	296
+ASV_607	uncultured bacterium	77133
+ASV_608	uncultured bacterium	77133
+ASV_609	uncultured rumen bacterium	136703
+ASV_610	uncultured Bacteroidetes bacterium	152509
+ASV_611	uncultured bacterium	77133
+ASV_612	uncultured bacterium	77133
+ASV_613	Bos taurus	9913
+ASV_614	Xanthobacter flavus	281
+ASV_615	Bos taurus	9913
+ASV_616	
+ASV_617	uncultured bacterium	77133
+ASV_618	Planomicrobium okeanokoites;Planomicrobium sp. REN14	244;2782551
+ASV_619	uncultured rumen bacterium	136703
+ASV_620	Mannheimia varigena	85404
+ASV_621	Bos taurus	9913
+ASV_622	Pseudomonas fragi	296
+ASV_623	uncultured bacterium	77133
+ASV_624	uncultured rumen bacterium	136703
+ASV_625	Pseudomonas fragi	296
+ASV_626	uncultured rumen bacterium	136703
+ASV_627	Homo sapiens	9606
+ASV_628	Achromobacter sp. NBHCO3	1343094
+ASV_629	uncultured Pseudomonas sp.	114707
+ASV_630	uncultured bacterium	77133
+ASV_631	uncultured rumen bacterium	136703
+ASV_632	Caranx hippos	173312
+ASV_633	uncultured bacterium	77133
+ASV_634	uncultured bacterium	77133
+ASV_635	uncultured bacterium	77133
+ASV_636	Zanclus cornutus	75044
+ASV_637	Bos taurus	9913
+ASV_638	Bos taurus	9913
+ASV_639	Caulobacteraceae bacterium Se2Pw_3357	1362976
+ASV_640	uncultured bacterium	77133
+ASV_641	Bos taurus	9913
+ASV_642	
+ASV_643	uncultured bacterium	77133
+ASV_644	uncultured bacterium	77133
+ASV_645	uncultured rumen bacterium	136703
+ASV_646	uncultured rumen bacterium	136703
+ASV_647	uncultured bacterium	77133
+ASV_648	uncultured Saccharofermentans sp.	1434378
+ASV_649	uncultured rumen bacterium	136703
+ASV_650	uncultured organism	155900
+ASV_651	Lutjanus bengalensis	520515
+ASV_652	uncultured bacterium	77133
+ASV_653	uncultured bacterium	77133
+ASV_654	uncultured bacterium	77133
+ASV_655	uncultured rumen bacterium	136703
+ASV_656	bacterium LB2010	1451802
+ASV_657	uncultured Sphingomonadaceae bacterium	169976
+ASV_658	Acanthurus maculiceps	2080250
+ASV_659	Pseudoalteromonas sp.	53249
+ASV_660	Bos taurus	9913
+ASV_661	Mannheimia varigena	85404
+ASV_662	uncultured bacterium	77133
+ASV_663	Ochrosphaera neapolitana	35137
+ASV_664	uncultured bacterium	77133
+ASV_665	uncultured rumen bacterium	136703
+ASV_666	uncultured prokaryote	198431
+ASV_667	uncultured Planctomycetota bacterium	120965
+ASV_668	Homo sapiens	9606
+ASV_669	Merluccius productus	89952
+ASV_670	uncultured rumen bacterium	136703
+ASV_671	uncultured bacterium	77133
+ASV_672	uncultured bacterium	77133
+ASV_673	uncultured rumen bacterium	136703
+ASV_674	uncultured bacterium	77133
+ASV_675	uncultured rumen bacterium	136703
+ASV_676	uncultured Oscillospiraceae bacterium	707003
+ASV_677	Bos taurus	9913
+ASV_678	uncultured bacterium	77133
+ASV_679	Bos taurus	9913
+ASV_680	Halamphora americana	2305497
+ASV_681	uncultured bacterium	77133
+ASV_682	Mesomycoplasma bovoculi M165/69	743966
+ASV_683	uncultured rumen bacterium	136703
+ASV_684	
+ASV_685	Mesomycoplasma bovoculi M165/69	743966
+ASV_686	Photobacterium sp.	660
+ASV_687	uncultured bacterium	77133
+ASV_688	uncultured bacterium	77133
+ASV_690	Mannheimia ovis	2679994
+ASV_691	Planococcus maritimus	192421
+ASV_692	Pseudomonas fragi	296
+ASV_693	uncultured bacterium	77133
+ASV_694	
+ASV_695	Homo sapiens	9606
+ASV_696	uncultured Gammaproteobacteria bacterium	86473
+ASV_697	uncultured bacterium	77133
+ASV_698	Bos taurus	9913
+ASV_699	unidentified	32644
+ASV_700	uncultured bacterium	77133
+ASV_701	Bos taurus	9913
+ASV_702	uncultured bacterium	77133
+ASV_703	Bos taurus	9913
+ASV_704	
+ASV_705	uncultured Streptococcus sp.	83427
+ASV_706	uncultured bacterium	77133
+ASV_707	Bos taurus	9913
+ASV_708	Bradyrhizobium sp. Iri 5/5	1499263
+ASV_709	Roseateles depolymerans	76731
+ASV_710	uncultured bacterium	77133
+ASV_711	Burkholderiales bacterium Se1Pw_3120	1362930
+ASV_712	uncultured bacterium	77133
+ASV_713	uncultured bacterium	77133
+ASV_714	uncultured rumen bacterium	136703
+ASV_715	uncultured bacterium	77133
+ASV_716	uncultured bacterium	77133
+ASV_717	Bos taurus	9913
+ASV_718	Bos taurus	9913
+ASV_719	Erythrobacteraceae bacterium Ri2Ps_5137	1360181
+ASV_720	uncultured bacterium	77133
+ASV_721	uncultured bacterium	77133
+ASV_722	uncultured Limnohabitans sp.	768543
+ASV_723	Stenotrophomonas maltophilia	40324
+ASV_724	uncultured bacterium	77133
+ASV_725	uncultured bacterium	77133
+ASV_726	Homo sapiens	9606
+ASV_727	uncultured bacterium	77133
+ASV_728	Butyrivibrio proteoclasticus	43305
+ASV_729	Homo sapiens	9606
+ASV_730	uncultured bacterium	77133
+ASV_731	
+ASV_732	uncultured bacterium	77133
+ASV_733	Phreatobacter stygius	1940610
+ASV_734	uncultured bacterium	77133
+ASV_735	Vibrio sp.	678
+ASV_736	uncultured bacterium	77133
+ASV_737	uncultured bacterium	77133
+ASV_738	Paracanthurus hepatus	75030
+ASV_739	
+ASV_740	uncultured Xanthomonadales bacterium	412058
+ASV_741	uncultured Xanthomonadales bacterium	412058
+ASV_742	uncultured bacterium	77133
+ASV_743	uncultured Stomatobaculum sp.	1662277
+ASV_744	uncultured bacterium	77133
+ASV_745	uncultured beta proteobacterium	86027
+ASV_746	uncultured bacterium	77133
+ASV_747	uncultured rumen bacterium	136703
+ASV_748	
+ASV_749	uncultured Azorhizophilus sp.	2042993
+ASV_750	Pseudomonas fragi	296
+ASV_751	Planoglabratella opercularis	109238
+ASV_752	Dermasterias imbricata	7590
+ASV_753	uncultured bacterium	77133
+ASV_754	uncultured bacterium	77133
+ASV_755	uncultured bacterium	77133
+ASV_756	uncultured bacterium	77133
+ASV_757	Bos taurus	9913
+ASV_758	Mannheimia bovis	2770636
+ASV_759	Clupea harengus	7950
+ASV_760	uncultured rumen bacterium	136703
+ASV_761	uncultured prokaryote	198431
+ASV_762	uncultured bacterium	77133
+ASV_763	uncultured rumen bacterium	136703
+ASV_764	uncultured bacterium	77133
+ASV_765	uncultured rumen bacterium	136703
+ASV_766	
+ASV_767	
+ASV_768	uncultured bacterium	77133
+ASV_769	uncultured bacterium	77133
+ASV_770	uncultured Butyrivibrio sp.	370801
+ASV_771	uncultured rumen bacterium	136703
+ASV_772	uncultured rumen bacterium	136703
+ASV_773	uncultured bacterium	77133
+ASV_774	Bos taurus	9913
+ASV_775	
+ASV_776	uncultured bacterium	77133
+ASV_777	Bos taurus	9913
+ASV_778	uncultured bacterium	77133
+ASV_779	Moraxella bovoculi	386891
+ASV_780	uncultured bacterium	77133
+ASV_781	uncultured bacterium	77133
+ASV_782	Mesomycoplasma bovoculi M165/69	743966
+ASV_783	Hydrogenophaga sp. Ri2Pw_6039	1360735
+ASV_784	uncultured Mannheimia sp.	509546
+ASV_785	Stenotrophomonas pavanii	487698
+ASV_786	Pseudomonas fragi	296
+ASV_787	Mannheimia varigena	85404
+ASV_788	Lutjanus bengalensis	520515
+ASV_789	uncultured Arcobacter sp.	165434
+ASV_790	uncultured bacterium	77133
+ASV_791	uncultured bacterium	77133
+ASV_792	uncultured rumen bacterium	136703
+ASV_793	Bradyrhizobium sp. PSBB068	2715960
+ASV_794	uncultured rumen bacterium	136703
+ASV_795	uncultured bacterium	77133
+ASV_796	uncultured rumen bacterium	136703
+ASV_797	Stenotrophomonas maltophilia	40324
+ASV_798	uncultured bacterium	77133
+ASV_799	
+ASV_800	uncultured bacterium	77133
+ASV_801	Bos taurus	9913
+ASV_802	uncultured bacterium	77133
+ASV_803	Bos taurus	9913
+ASV_804	Allomycterus pilatus	303708
+ASV_805	uncultured bacterium	77133
+ASV_806	uncultured bacterium	77133
+ASV_807	Gymnothorax favagineus	473454
+ASV_808	uncultured bacterium	77133
+ASV_809	uncultured bacterium	77133
+ASV_810	uncultured rumen bacterium	136703
+ASV_811	Bos taurus	9913
+ASV_812	uncultured Gemmatimonas sp.	221169
+ASV_813	uncultured bacterium	77133
+ASV_814	uncultured bacterium	77133
+ASV_815	Clostridium sp. PT168	1917720
+ASV_816	uncultured marine bacterium	56765
+ASV_817	uncultured bacterium	77133
+ASV_818	uncultured prokaryote	198431
+ASV_819	Brevundimonas vesicularis	41276
+ASV_820	uncultured bacterium	77133
+ASV_821	Bos taurus	9913
+ASV_822	Mesomycoplasma bovoculi M165/69	743966
+ASV_824	uncultured rumen bacterium	136703
+ASV_825	uncultured bacterium	77133
+ASV_826	Pseudomonas fragi	296
+ASV_827	uncultured bacterium	77133
+ASV_828	Pasteurella sp. 37234	116030
+ASV_829	uncultured rumen bacterium	136703
+ASV_830	Pasteurella sp. 37234	116030
+ASV_831	Stenotrophomonas sp.	69392
+ASV_832	uncultured rumen bacterium	136703
+ASV_833	uncultured Oscillospiraceae bacterium	707003
+ASV_834	uncultured bacterium	77133
+ASV_835	Sphingomonadaceae bacterium Ri2Pw_6011	1360717
+ASV_837	Bibersteinia trehalosi	47735
+ASV_838	uncultured bacterium	77133
+ASV_839	uncultured bacterium	77133
+ASV_840	Enchelycore pardalis	586820
+ASV_841	uncultured bacterium	77133
+ASV_842	Moraxella cuniculi	34061
+ASV_843	uncultured bacterium	77133
+ASV_844	uncultured bacterium	77133
+ASV_845	uncultured marine bacterium	56765
+ASV_846	Clupea harengus	7950
+ASV_847	uncultured bacterium	77133
+ASV_848	Bos taurus	9913
+ASV_849	Staphylococcus agnetis	985762
+ASV_850	Bibersteinia trehalosi	47735
+ASV_851	Enterococcus faecium	1352
+ASV_852	uncultured archaeon	115547
+ASV_853	Homo sapiens	9606
+ASV_854	uncultured bacterium	77133
+ASV_855	uncultured rumen bacterium	136703
+ASV_856	uncultured rumen bacterium	136703
+ASV_857	uncultured Ruminococcus sp.	165186
+ASV_858	Alysiella crassa	153491
+ASV_859	uncultured bacterium	77133
+ASV_860	uncultured rumen bacterium	136703
+ASV_861	uncultured bacterium	77133
+ASV_862	uncultured bacterium	77133
+ASV_863	uncultured bacterium	77133
+ASV_864	Moraxella cuniculi	34061
+ASV_865	uncultured bacterium	77133
+ASV_866	uncultured rumen bacterium	136703
+ASV_867	uncultured rumen bacterium	136703
+ASV_868	Moritella sp. Norgb1	1293794
+ASV_869	uncultured bacterium	77133
+ASV_870	uncultured bacterium	77133
+ASV_872	Allomycterus pilatus	303708
+ASV_873	uncultured rumen bacterium	136703
+ASV_874	Gymnothorax kidako	139722
+ASV_875	uncultured bacterium	77133
+ASV_876	uncultured Mannheimia sp.	509546
+ASV_877	Meleagris gallopavo	9103
+ASV_878	Bibersteinia trehalosi	47735
+ASV_879	uncultured bacterium	77133
+ASV_880	Ruminococcus sp.	41978
+ASV_881	uncultured bacterium	77133
+ASV_882	uncultured Rhodobacter sp.	204728
+ASV_883	uncultured bacterium	77133
+ASV_884	uncultured prokaryote	198431
+ASV_885	Clupea harengus	7950
+ASV_886	uncultured bacterium	77133
+ASV_887	uncultured bacterium	77133
+ASV_888	uncultured bacterium	77133
+ASV_889	Polynucleobacter sp.	2029855
+ASV_890	
+ASV_891	uncultured bacterium	77133
+ASV_892	uncultured Sporobacter sp.	867686
+ASV_893	uncultured bacterium	77133
+ASV_894	uncultured rumen bacterium	136703
+ASV_895	uncultured rumen bacterium	136703
+ASV_896	Nannocystis exedens	54
+ASV_897	uncultured rumen bacterium	136703
+ASV_898	uncultured Limnohabitans sp.	768543
+ASV_899	uncultured rumen bacterium	136703
+ASV_900	Methylobacter sp.	2051955
+ASV_901	uncultured bacterium	77133
+ASV_902	Polycyclovorans sp.	2024852
+ASV_903	uncultured bacterium	77133
+ASV_904	Shewanella psychrophila	225848
+ASV_905	Acinetobacter marinus	281375
+ASV_906	Phreatobacter stygius	1940610
+ASV_907	Bos taurus	9913
+ASV_908	uncultured Parcubacteria group bacterium	221218
+ASV_909	
+ASV_910	Mallotus villosus	30960
+ASV_911	Taonella mepensis	1155801
+ASV_912	uncultured bacterium	77133
+ASV_913	Cirrhilabrus lunatus	1856444
+ASV_914	uncultured bacterium	77133
+ASV_915	uncultured bacterium	77133
+ASV_916	Alysiella crassa	153491
+ASV_917	uncultured Oscillospiraceae bacterium	707003
+ASV_918	uncultured rumen bacterium	136703
+ASV_919	uncultured bacterium	77133
+ASV_920	Pseudoalteromonas sp.	53249
+ASV_921	uncultured bacterium	77133
+ASV_922	uncultured bacterium	77133
+ASV_923	Bos taurus	9913
+ASV_924	Siganus virgatus;Siganus corallinus	225759;406536
+ASV_925	uncultured rumen bacterium	136703
+ASV_926	
+ASV_927	uncultured rumen bacterium	136703
+ASV_928	
+ASV_929	uncultured rumen bacterium	136703
+ASV_930	uncultured bacterium	77133
+ASV_931	Aquincola sp.	1872589
+ASV_932	uncultured bacterium	77133
+ASV_933	Bos taurus	9913
+ASV_934	uncultured bacterium	77133
+ASV_935	uncultured bacterium	77133
+ASV_936	Acinetobacter marinus	281375
+ASV_937	uncultured bacterium	77133
+ASV_938	uncultured Oscillospiraceae bacterium	707003
+ASV_939	Pterygoplichthys sp. TEP-2017	2019911
+ASV_940	uncultured archaeon	115547
+ASV_941	Notropis blennius	111846
+ASV_942	uncultured Streptococcus sp.	83427
+ASV_943	Moraxella bovis	476
+ASV_944	uncultured bacterium	77133
+ASV_945	Aracana aurita	1206982
+ASV_946	uncultured fungus	175245
+ASV_947	uncultured rumen bacterium	136703
+ASV_948	Stenotrophomonas maltophilia	40324
+ASV_949	uncultured bacterium	77133
+ASV_950	uncultured rumen bacterium	136703
+ASV_951	uncultured bacterium	77133
+ASV_952	uncultured bacterium	77133
+ASV_953	uncultured bacterium	77133
+ASV_954	uncultured prokaryote	198431
+ASV_955	Listeria monocytogenes	1639
+ASV_956	uncultured bacterium	77133
+ASV_957	uncultured Achromobacter sp.	182690
+ASV_958	uncultured Bacteroides sp.	162156
+ASV_959	Moraxella boevrei	346665
+ASV_960	uncultured bacterium	77133
+ASV_961	uncultured rumen bacterium	136703
+ASV_962	uncultured bacterium	77133
+ASV_963	
+ASV_964	uncultured bacterium	77133
+ASV_965	uncultured bacterium	77133
+ASV_966	uncultured bacterium	77133
+ASV_967	Mannheimia haemolytica	75985
+ASV_968	uncultured prokaryote	198431
+ASV_969	uncultured bacterium	77133
+ASV_970	uncultured bacterium	77133
+ASV_971	Hydrogenophaga sp.	1904254
+ASV_972	uncultured rumen bacterium	136703
+ASV_973	Virgulinella fragilis	243198
+ASV_974	Bos taurus	9913
+ASV_975	uncultured bacterium	77133
+ASV_976	uncultured bacterium	77133
+ASV_977	Massilia violaceinigra	2045208
+ASV_978	uncultured rumen bacterium	136703
+ASV_979	uncultured Bacteroidetes bacterium	152509
+ASV_980	Pseudomonas fragi	296
+ASV_981	uncultured rumen bacterium	136703
+ASV_982	Granulicatella sp.	2049028
+ASV_983	uncultured bacterium	77133
+ASV_984	Hydrogenophaga sp.	1904254
+ASV_985	uncultured bacterium	77133
+ASV_986	Polaromonas sp.	1869339
+ASV_987	Bos taurus	9913
+ASV_988	uncultured prokaryote	198431
+ASV_989	uncultured bacterium	77133
+ASV_990	Neptuniibacter sp.	1962643
+ASV_991	Bos taurus	9913
+ASV_992	Bos taurus	9913
+ASV_993	uncultured Gammaproteobacteria bacterium	86473
+ASV_994	uncultured rumen bacterium	136703
+ASV_995	Terriglobus roseus	392734
+ASV_996	Acidovorax sp.	1872122
+ASV_997	Labroides dimidiatus	241309
+ASV_998	uncultured rumen bacterium	136703
+ASV_999	uncultured rumen bacterium	136703
+ASV_1000	uncultured bacterium	77133
+ASV_1001	Butyrivibrio hungatei	185008
+ASV_1002	Pasteurella sp. 37234	116030
+ASV_1003	Homo sapiens	9606
+ASV_1004	uncultured bacterium	77133
+ASV_1005	Homo sapiens	9606
+ASV_1006	uncultured Porphyromonadaceae bacterium	348578
+ASV_1007	uncultured bacterium	77133
+ASV_1008	uncultured bacterium	77133
+ASV_1009	uncultured bacterium	77133
+ASV_1010	Phreatobacter stygius	1940610
+ASV_1011	uncultured bacterium	77133
+ASV_1012	uncultured bacterium	77133
+ASV_1013	Pseudobutyrivibrio xylanivorans	185007
+ASV_1014	Bos taurus	9913
+ASV_1015	Mannheimia varigena	85404
+ASV_1016	uncultured rumen bacterium	136703
+ASV_1017	Pseudomonas viridiflava	33069
+ASV_1018	uncultured rumen bacterium	136703
+ASV_1019	uncultured rumen bacterium	136703
+ASV_1020	Pseudomonas fragi	296
+ASV_1021	uncultured prokaryote	198431
+ASV_1022	Oncorhynchus gorbuscha	8017
+ASV_1023	uncultured Hyphomicrobiales bacterium	208549
+ASV_1024	Streptococcus parasanguinis	1318
+ASV_1025	uncultured bacterium	77133
+ASV_1026	uncultured Lachnospiraceae bacterium	297314
+ASV_1027	
+ASV_1028	uncultured bacterium	77133
+ASV_1029	Lactococcus plantarum	1365
+ASV_1030	Bos taurus	9913
+ASV_1031	uncultured bacterium	77133
+ASV_1032	Pseudomonas poae	200451
+ASV_1033	Fuscibacter oryzae	2803939
+ASV_1034	uncultured bacterium	77133
+ASV_1035	uncultured Gammaproteobacteria bacterium	86473
+ASV_1036	Homo sapiens	9606
+ASV_1037	uncultured Sphingomonas sp.	158754
+ASV_1038	Bibersteinia trehalosi	47735
+ASV_1039	Pseudoxanthomonas suwonensis	314722
+ASV_1040	uncultured bacterium	77133
+ASV_1041	Pseudanthias squamipinnis	270578
+ASV_1042	uncultured bacterium	77133
+ASV_1043	Moraxella cuniculi	34061
+ASV_1044	uncultured rumen bacterium	136703
+ASV_1045	Planomicrobium okeanokoites;Planomicrobium sp. REN14	244;2782551
+ASV_1046	Acanthurus guttatus	75013
+ASV_1047	Sus scrofa	9823
+ASV_1048	Bos taurus	9913
+ASV_1049	Bos taurus	9913
+ASV_1050	uncultured rumen bacterium	136703
+ASV_1051	Photobacterium sp.	660
+ASV_1052	uncultured Planctomycetaceae bacterium	100233
+ASV_1053	uncultured rumen bacterium	136703
+ASV_1054	Moraxella cuniculi	34061
+ASV_1055	uncultured bacterium	77133
+ASV_1056	uncultured bacterium	77133
+ASV_1057	Bacteroidetes bacterium SCGC AAA027-L18	938704
+ASV_1058	Meleagris gallopavo	9103
+ASV_1059	uncultured bacterium	77133
+ASV_1060	uncultured prokaryote	198431
+ASV_1061	
+ASV_1062	uncultured bacterium	77133
+ASV_1063	uncultured bacterium	77133
+ASV_1064	uncultured bacterium	77133
+ASV_1065	uncultured bacterium	77133
+ASV_1066	uncultured Alphaproteobacteria bacterium	91750
+ASV_1067	uncultured bacterium	77133
+ASV_1068	Planococcus glaciei	459472
+ASV_1069	Marivita litorea	505251
+ASV_1070	uncultured rumen bacterium	136703
+ASV_1071	uncultured rumen bacterium	136703
+ASV_1072	uncultured bacterium	77133
+ASV_1073	Bibersteinia trehalosi	47735
+ASV_1074	uncultured bacterium	77133
+ASV_1075	uncultured marine bacterium	56765
+ASV_1076	uncultured bacterium	77133
+ASV_1078	uncultured bacterium	77133
+ASV_1079	Comamonadaceae bacterium Se1Ps_1989	1361864
+ASV_1080	uncultured bacterium	77133
+ASV_1081	Moraxella cuniculi	34061
+ASV_1082	Psychrobacter sp.	56811
+ASV_1083	uncultured bacterium	77133
+ASV_1084	uncultured bacterium	77133
+ASV_1085	Acanthurus olivaceus	238053
+ASV_1086	uncultured bacterium	77133
+ASV_1087	Acanthurus triostegus	175435
+ASV_1088	uncultured bacterium	77133
+ASV_1089	Chaetodontoplus conspicillatus	1633020
+ASV_1090	Faecalibacterium prausnitzii	853
+ASV_1091	Zebrasoma flavescens	175439
+ASV_1092	uncultured bacterium	77133
+ASV_1093	Moraxella bovoculi	386891
+ASV_1094	Epinephelus bontoides	1167616
+ASV_1095	
+ASV_1096	uncultured bacterium	77133
+ASV_1097	Planococcus glaciei	459472
+ASV_1098	uncultured bacterium	77133
+ASV_1099	uncultured rumen bacterium	136703
+ASV_1100	uncultured bacterium	77133
+ASV_1101	uncultured bacterium	77133
+ASV_1102	uncultured bacterium	77133
+ASV_1103	uncultured fungus	175245
+ASV_1104	uncultured Butyrivibrio sp.	370801
+ASV_1105	uncultured prokaryote	198431
+ASV_1106	uncultured prokaryote	198431
+ASV_1107	uncultured prokaryote	198431
+ASV_1108	Sus scrofa	9823
+ASV_1109	Bacillus paramycoides	2026194
+ASV_1110	Alysiella crassa	153491
+ASV_1111	uncultured bacterium	77133
+ASV_1112	Phreatobacter stygius	1940610
+ASV_1113	uncultured bacterium	77133
+ASV_1114	uncultured bacterium	77133
+ASV_1115	uncultured Polynucleobacter sp.	312149
+ASV_1116	Homo sapiens	9606
+ASV_1117	uncultured bacterium	77133
+ASV_1118	Homo sapiens	9606
+ASV_1119	uncultured bacterium	77133
+ASV_1120	Planomicrobium okeanokoites;Planomicrobium sp. REN14	244;2782551
+ASV_1121	Microvirga arsenatis	2692265
+ASV_1122	uncultured rumen bacterium	136703
+ASV_1123	uncultured bacterium	77133
+ASV_1124	uncultured bacterium	77133
+ASV_1125	uncultured bacterium	77133
+ASV_1126	uncultured prokaryote	198431
+ASV_1127	uncultured bacterium	77133
+ASV_1128	uncultured rumen bacterium	136703
+ASV_1129	Bibersteinia trehalosi	47735
+ASV_1130	Bradyrhizobium sp.	376
+ASV_1131	uncultured bacterium	77133
+ASV_1132	uncultured beta proteobacterium	86027
+ASV_1133	
+ASV_1134	uncultured bacterium	77133
+ASV_1135	Romboutsia sedimentorum	1368474
+ASV_1136	uncultured bacterium	77133
+ASV_1137	uncultured bacterium	77133
+ASV_1138	uncultured rumen bacterium	136703
+ASV_1139	uncultured bacterium	77133
+ASV_1140	Bos taurus	9913
+ASV_1141	
+ASV_1142	Brevundimonas vesicularis	41276
+ASV_1143	uncultured prokaryote	198431
+ASV_1144	uncultured bacterium	77133
+ASV_1145	uncultured bacterium	77133
+ASV_1146	Mannheimia sp.	2081794
+ASV_1147	uncultured bacterium	77133
+ASV_1148	
+ASV_1149	
+ASV_1151	uncultured rumen bacterium	136703
+ASV_1152	uncultured bacterium	77133
+ASV_1153	uncultured Eubacterium sp.	165185
+ASV_1154	uncultured rumen bacterium	136703
+ASV_1155	uncultured bacterium	77133
+ASV_1156	uncultured rumen bacterium	136703
+ASV_1157	Bos taurus	9913
+ASV_1158	uncultured bacterium	77133
+ASV_1159	uncultured bacterium	77133
+ASV_1160	Polaromonas sp.	1869339
+ASV_1161	uncultured prokaryote	198431
+ASV_1162	uncultured bacterium	77133
+ASV_1163	uncultured bacterium	77133
+ASV_1164	
+ASV_1165	Planomicrobium okeanokoites;Planomicrobium sp. REN14	244;2782551
+ASV_1166	Stenotrophomonas maltophilia	40324
+ASV_1167	uncultured rumen bacterium	136703
+ASV_1168	uncultured bacterium	77133
+ASV_1169	uncultured bacterium	77133
+ASV_1170	uncultured bacterium	77133
+ASV_1171	uncultured bacterium	77133
+ASV_1172	uncultured bacterium	77133
+ASV_1173	uncultured bacterium	77133
+ASV_1174	uncultured bacterium	77133
+ASV_1175	uncultured Treponema sp.	162155
+ASV_1176	Ruthenibacterium lactatiformans	1550024
+ASV_1177	uncultured Actinobacteridae bacterium	197512
+ASV_1178	uncultured prokaryote	198431
+ASV_1180	
+ASV_1181	Bos taurus	9913
+ASV_1182	Homo sapiens	9606
+ASV_1183	Bos taurus	9913
+ASV_1184	uncultured rumen bacterium	136703
+ASV_1185	uncultured bacterium	77133
+ASV_1186	Bos taurus	9913
+ASV_1187	uncultured bacterium	77133
+ASV_1188	uncultured bacterium	77133
+ASV_1189	Sphingomonas astaxanthinifaciens	407019
+ASV_1190	uncultured bacterium	77133
+ASV_1191	uncultured Verrucomicrobiae bacterium	412056
+ASV_1192	Bos taurus	9913
+ASV_1193	Moraxella cuniculi	34061
+ASV_1194	
+ASV_1195	Gymnothorax kidako	139722
+ASV_1196	uncultured bacterium	77133
+ASV_1197	uncultured Alphaproteobacteria bacterium	91750
+ASV_1198	uncultured bacterium	77133
+ASV_1199	Massilia violaceinigra	2045208
+ASV_1200	uncultured Firmicutes bacterium	344338
+ASV_1201	uncultured bacterium	77133
+ASV_1202	uncultured beta proteobacterium	86027
+ASV_1203	uncultured bacterium	77133
+ASV_1204	uncultured bacterium	77133
+ASV_1205	uncultured bacterium	77133
+ASV_1206	Rhizobacter sp. Se3Ps_2566	1363458
+ASV_1207	Homo sapiens	9606
+ASV_1208	uncultured bacterium	77133
+ASV_1209	uncultured bacterium	77133
+ASV_1210	uncultured prokaryote	198431
+ASV_1211	uncultured Fragilaria	1501331
+ASV_1212	uncultured bacterium	77133
+ASV_1213	uncultured bacterium	77133
+ASV_1214	Anarrhichthys ocellatus	433405
+ASV_1215	Bibersteinia sp. 306_10	1207429
+ASV_1216	Psychrobacillus sp.	1871623
+ASV_1217	uncultured Prosthecobacter sp.	522608
+ASV_1218	uncultured bacterium	77133
+ASV_1219	Moraxella sp. ZY201224	2904122
+ASV_1220	Odonus niger	392902
+ASV_1221	Acanthurus guttatus	75013
+ASV_1222	Massilia sp.	1882437
+ASV_1223	uncultured phototrophic eukaryote	172788
+ASV_1224	uncultured bacterium	77133
+ASV_1225	uncultured bacterium	77133
+ASV_1226	uncultured bacterium	77133
+ASV_1227	Faecalibacterium prausnitzii	853
+ASV_1228	uncultured bacterium	77133
+ASV_1229	Bos taurus	9913
+ASV_1230	Carcharhinus plumbeus	7808
+ASV_1231	uncultured rumen bacterium	136703
+ASV_1232	uncultured rumen bacterium	136703
+ASV_1233	uncultured bacterium	77133
+ASV_1234	unidentified	32644
+ASV_1235	uncultured bacterium	77133
+ASV_1236	Brochothrix sp.	1993875
+ASV_1237	uncultured rumen bacterium	136703
+ASV_1238	uncultured Lactobacillales bacterium	339167
+ASV_1239	uncultured bacterium	77133
+ASV_1241	Homo sapiens	9606
+ASV_1242	uncultured rumen bacterium	136703
+ASV_1243	uncultured rumen bacterium	136703
+ASV_1244	uncultured prokaryote	198431
+ASV_1245	uncultured bacterium	77133
+ASV_1246	uncultured bacterium	77133
+ASV_1247	uncultured rumen bacterium	136703
+ASV_1248	uncultured prokaryote	198431
+ASV_1250	
+ASV_1251	Novosphingobium sp.	1874826
+ASV_1252	Acinetobacter sp. NEB 394	2743575
+ASV_1253	uncultured prokaryote	198431
+ASV_1254	Aliivibrio sp.	1872443
+ASV_1255	uncultured bacterium	77133
+ASV_1256	
+ASV_1257	uncultured prokaryote	198431
+ASV_1258	Pseudobutyrivibrio xylanivorans	185007
+ASV_1259	uncultured Candidatus Saccharibacteria bacterium	179883
+ASV_1260	Bos taurus	9913
+ASV_1261	Massilia violaceinigra	2045208
+ASV_1262	uncultured Aquincola sp.	886556
+ASV_1263	uncultured beta proteobacterium	86027
+ASV_1264	Stenotrophomonas maltophilia	40324
+ASV_1265	uncultured rumen bacterium	136703
+ASV_1266	Bos taurus	9913
+ASV_1267	Meleagris gallopavo	9103
+ASV_1268	Asinibacterium sp. ZJ6106	1612199
+ASV_1269	uncultured Lachnospiraceae bacterium	297314
+ASV_1270	uncultured bacterium	77133
+ASV_1271	
+ASV_1272	Granulicatella sp.	2049028
+ASV_1273	uncultured Solirubrobacter sp.	211446
+ASV_1274	Pseudanthias pleurotaenia	428427
+ASV_1275	Bos taurus	9913
+ASV_1276	uncultured bacterium	77133
+ASV_1277	uncultured bacterium	77133
+ASV_1278	Limnohabitans sp. Se3Pw_3627	1364184
+ASV_1279	Niallia circulans	1397
+ASV_1280	Stenotrophomonas maltophilia	40324
+ASV_1281	Microbacterium foliorum	104336
+ASV_1282	uncultured bacterium	77133
+ASV_1283	uncultured bacterium	77133
+ASV_1284	uncultured Streptococcus sp.	83427
+ASV_1285	Planococcus maritimus	192421
+ASV_1286	uncultured Oleispira sp.	261015
+ASV_1287	
+ASV_1288	
+ASV_1289	Hydrogenophaga sp. Ri2Pw_6039	1360735
+ASV_1290	Bos taurus	9913
+ASV_1291	uncultured Arcobacter sp.	165434
+ASV_1292	Naso unicornis	175444
+ASV_1293	uncultured rumen bacterium	136703
+ASV_1294	uncultured Oscillospiraceae bacterium	707003
+ASV_1295	uncultured bacterium	77133
+ASV_1296	uncultured rumen bacterium	136703
+ASV_1297	uncultured bacterium	77133
+ASV_1298	uncultured bacterium	77133
+ASV_1299	uncultured bacterium	77133
+ASV_1300	uncultured Delftia sp.	191464
+ASV_1301	uncultured bacterium	77133
+ASV_1302	unidentified rumen bacterium JW28	65756
+ASV_1303	uncultured bacterium	77133
+ASV_1304	uncultured fungus	175245
+ASV_1305	uncultured bacterium	77133
+ASV_1306	
+ASV_1307	Sebastes paucispinis	72093
+ASV_1308	uncultured bacterium	77133
+ASV_1309	uncultured bacterium	77133
+ASV_1310	Moraxella cuniculi	34061
+ASV_1311	Bos taurus	9913
+ASV_1312	uncultured bacterium	77133
+ASV_1313	uncultured prokaryote	198431
+ASV_1314	uncultured bacterium	77133
+ASV_1315	Moraxella boevrei	346665
+ASV_1316	uncultured proteobacterium	153809
+ASV_1317	Sebastes paucispinis	72093
+ASV_1318	Stenotrophomonas maltophilia	40324
+ASV_1319	Sphingorhabdus sp.	1902408
+ASV_1320	uncultured prokaryote	198431
+ASV_1321	uncultured Kingella sp.	159270
+ASV_1322	uncultured bacterium	77133
+ASV_1323	uncultured bacterium	77133
+ASV_1324	Moraxella cuniculi	34061
+ASV_1325	uncultured bacterium	77133
+ASV_1326	uncultured bacterium	77133
+ASV_1327	uncultured bacterium	77133
+ASV_1328	
+ASV_1329	uncultured Hydrogenophaga sp.	199683
+ASV_1331	Methylorubrum extorquens	408
+ASV_1332	
+ASV_1333	Bradyrhizobium sp.	376
+ASV_1334	uncultured Pseudomonadaceae bacterium	220135
+ASV_1335	uncultured bacterium	77133
+ASV_1336	uncultured Bacteroidetes bacterium	152509
+ASV_1337	uncultured bacterium	77133
+ASV_1338	uncultured bacterium	77133
+ASV_1339	uncultured rumen bacterium	136703
+ASV_1341	uncultured bacterium	77133
+ASV_1342	uncultured bacterium	77133
+ASV_1343	uncultured bacterium	77133
+ASV_1344	uncultured proteobacterium	153809
+ASV_1345	uncultured bacterium	77133
+ASV_1346	uncultured Kingella sp.	159270
+ASV_1347	uncultured bacterium	77133
+ASV_1348	uncultured bacterium	77133
+ASV_1349	uncultured bacterium	77133
+ASV_1350	uncultured bacterium	77133
+ASV_1351	uncultured bacterium	77133
+ASV_1352	uncultured Methylophilaceae bacterium	239732
+ASV_1353	uncultured Comamonadaceae bacterium	165437
+ASV_1355	Novosphingobium sp.	1874826
+ASV_1356	uncultured Lachnospiraceae bacterium	297314
+ASV_1357	uncultured bacterium	77133
+ASV_1358	
+ASV_1359	uncultured Kingella sp.	159270
+ASV_1360	uncultured Butyrivibrio sp.	370801
+ASV_1361	Rahnella sp.	1873497
+ASV_1362	uncultured rumen bacterium	136703
+ASV_1363	Taonella mepensis	1155801
+ASV_1364	uncultured Mesorhizobium sp.	233795
+ASV_1365	
+ASV_1366	Chrysiptera springeri	646022
+ASV_1367	uncultured bacterium	77133
+ASV_1368	uncultured bacterium	77133
+ASV_1369	uncultured rumen bacterium	136703
+ASV_1370	uncultured bacterium	77133
+ASV_1371	Bibersteinia trehalosi	47735
+ASV_1372	uncultured bacterium	77133
+ASV_1373	Thermomonas carbonis	1463158
+ASV_1374	uncultured rumen bacterium	136703
+ASV_1375	uncultured Oscillospiraceae bacterium	707003
+ASV_1376	uncultured prokaryote	198431
+ASV_1377	uncultured Rhodobacteraceae bacterium	157276
+ASV_1378	uncultured rumen bacterium	136703
+ASV_1379	Chrysiptera springeri	646022
+ASV_1380	uncultured bacterium	77133
+ASV_1381	
+ASV_1382	Bibersteinia trehalosi	47735
+ASV_1383	uncultured bacterium	77133
+ASV_1384	uncultured bacterium	77133
+ASV_1385	Pseudomonas trivialis	200450
+ASV_1386	Alysiella crassa	153491
+ASV_1387	uncultured bacterium	77133
+ASV_1388	uncultured bacterium	77133
+ASV_1389	Mesomycoplasma bovoculi M165/69	743966
+ASV_1390	uncultured bacterium	77133
+ASV_1391	uncultured bacterium	77133
+ASV_1392	
+ASV_1393	Moraxella sp. ZY201224	2904122
+ASV_1394	uncultured Acidobacteria bacterium	171953
+ASV_1395	uncultured bacterium	77133
+ASV_1396	uncultured bacterium	77133
+ASV_1397	uncultured rumen bacterium	136703
+ASV_1398	Butyrivibrio sp. INlla4	1095186
+ASV_1399	
+ASV_1400	uncultured bacterium	77133
+ASV_1401	uncultured bacterium	77133
+ASV_1402	uncultured bacterium	77133
+ASV_1403	unidentified microorganism	81726
+ASV_1404	uncultured prokaryote	198431
+ASV_1405	Stenotrophomonas maltophilia	40324
+ASV_1406	uncultured bacterium	77133
+ASV_1407	uncultured Moraxella sp.	263769
+ASV_1408	uncultured rumen bacterium	136703
+ASV_1409	Granulicatella sp.	2049028
+ASV_1410	Acinetobacter sp. D36	1204688
+ASV_1411	uncultured beta proteobacterium	86027
+ASV_1412	uncultured bacterium	77133
+ASV_1413	uncultured Limnohabitans sp.	768543
+ASV_1414	uncultured bacterium	77133
+ASV_1415	uncultured bacterium	77133
+ASV_1416	uncultured bacterium	77133
+ASV_1417	Microcanthus strigatus	163146
+ASV_1418	Rhizobium pusense	648995
+ASV_1419	uncultured bacterium	77133
+ASV_1420	uncultured Saccharofermentans sp.	1434378
+ASV_1421	uncultured bacterium	77133
+ASV_1422	Granulicatella sp.	2049028
+ASV_1423	uncultured bacterium	77133
+ASV_1424	uncultured bacterium	77133
+ASV_1425	uncultured bacterium	77133
+ASV_1426	uncultured rumen bacterium	136703
+ASV_1427	Gemella morbillorum	29391
+ASV_1428	Moraxella cuniculi	34061
+ASV_1429	uncultured bacterium	77133
+ASV_1430	Colwellia sp. ZB2144	2614970
+ASV_1431	
+ASV_1432	uncultured bacterium	77133
+ASV_1433	uncultured bacterium	77133
+ASV_1434	Clostridiales bacterium canine oral taxon 100	1151623
+ASV_1435	Pseudomonas deceptionensis	882211
+ASV_1436	uncultured bacterium	77133
+ASV_1437	uncultured rumen bacterium	136703
+ASV_1438	uncultured bacterium	77133
+ASV_1439	uncultured bacterium	77133
+ASV_1440	uncultured prokaryote	198431
+ASV_1441	Cellvibrio sp. Ri2Pw_6052	1360747
+ASV_1442	Pantoea endophytica	92488
+ASV_1443	Planococcus glaciei	459472
+ASV_1444	uncultured bacterium	77133
+ASV_1445	bacterium	1869227
+ASV_1446	Bos taurus	9913
+ASV_1447	
+ASV_1448	Stenotrophomonas maltophilia	40324
+ASV_1449	uncultured bacterium	77133
+ASV_1450	Bodianus dictynna	1328952
+ASV_1451	Pseudomonas fragi	296
+ASV_1452	Limnohabitans sp. Se3Pw_3627	1364184
+ASV_1453	uncultured bacterium	77133
+ASV_1454	uncultured Stenotrophomonas sp.	165438
+ASV_1455	Evansella caseinilytica	1503961
+ASV_1456	uncultured prokaryote	198431
+ASV_1457	Haemophilus parainfluenzae	729
+ASV_1458	uncultured bacterium	77133
+ASV_1459	Microbacterium sp.	51671
+ASV_1460	
+ASV_1461	uncultured bacterium	77133
+ASV_1462	uncultured bacterium	77133
+ASV_1463	uncultured microorganism	358574
+ASV_1464	Naso vlamingii	238067
+ASV_1465	uncultured bacterium	77133
+ASV_1466	Bos taurus	9913
+ASV_1467	uncultured bacterium	77133
+ASV_1468	uncultured Sporobacter sp.	867686
+ASV_1469	uncultured bacterium	77133
+ASV_1470	uncultured bacterium	77133
+ASV_1471	uncultured bacterium	77133
+ASV_1472	Achromobacter insolitus	217204
+ASV_1473	Mesomycoplasma bovoculi M165/69	743966
+ASV_1474	uncultured bacterium	77133
+ASV_1475	uncultured bacterium	77133
+ASV_1476	uncultured prokaryote	198431
+ASV_1477	uncultured bacterium	77133
+ASV_1478	uncultured rumen bacterium	136703
+ASV_1479	Pseudomonas fragi	296
+ASV_1480	Bos taurus	9913
+ASV_1481	uncultured Solirubrobacter sp.	211446
+ASV_1482	uncultured bacterium	77133
+ASV_1483	uncultured bacterium	77133
+ASV_1484	Clupea harengus	7950
+ASV_1485	Alysiella crassa	153491
+ASV_1486	Bos taurus	9913
+ASV_1487	uncultured marine bacterium	56765
+ASV_1488	uncultured bacterium	77133
+ASV_1489	
+ASV_1490	
+ASV_1491	uncultured bacterium	77133
+ASV_1492	uncultured bacterium	77133
+ASV_1493	Planomicrobium okeanokoites;Planomicrobium sp. REN14	244;2782551
+ASV_1494	Tetracoccus sp.	2047557
+ASV_1495	uncultured prokaryote	198431
+ASV_1496	
+ASV_1497	uncultured Limnohabitans sp.	768543
+ASV_1498	
+ASV_1499	Acinetobacter marinus	281375
+ASV_1500	uncultured Streptococcus sp.	83427
+ASV_1501	uncultured bacterium	77133
+ASV_1502	uncultured bacterium	77133
+ASV_1503	uncultured bacterium	77133
+ASV_1504	uncultured bacterium	77133
+ASV_1505	uncultured prokaryote	198431
+ASV_1506	uncultured bacterium	77133
+ASV_1507	
+ASV_1508	Bibersteinia trehalosi	47735
+ASV_1509	uncultured bacterium	77133
+ASV_1510	uncultured bacterium	77133
+ASV_1511	Massilia sp.	1882437
+ASV_1512	Alysiella crassa	153491
+ASV_1513	Brevundimonas vesicularis	41276
+ASV_1514	Gemella morbillorum	29391
+ASV_1515	uncultured rumen bacterium	136703
+ASV_1516	uncultured bacterium	77133
+ASV_1517	uncultured rumen bacterium	136703
+ASV_1518	uncultured bacterium	77133
+ASV_1519	uncultured rumen bacterium	136703
+ASV_1520	uncultured diatom	137771
+ASV_1521	bacterium	1869227
+ASV_1522	uncultured bacterium	77133
+ASV_1523	Pseudomonas deceptionensis	882211
+ASV_1524	uncultured bacterium	77133
+ASV_1525	Pseudomonas extremaustralis	359110
+ASV_1526	uncultured Oscillospiraceae bacterium	707003
+ASV_1527	
+ASV_1528	uncultured bacterium	77133
+ASV_1529	uncultured marine bacterium	56765
+ASV_1531	uncultured bacterium	77133
+ASV_1532	uncultured bacterium	77133
+ASV_1533	uncultured prokaryote	198431
+ASV_1534	
+ASV_1535	uncultured Terrisporobacter sp.	1505654
+ASV_1536	uncultured bacterium	77133
+ASV_1537	Homo sapiens	9606
+ASV_1538	
+ASV_1539	uncultured bacterium	77133
+ASV_1540	uncultured bacterium	77133
+ASV_1541	Burkholderiales bacterium Se1Pw_3120	1362930
+ASV_1542	uncultured bacterium	77133
+ASV_1543	Fibrobacter succinogenes	833
+ASV_1544	uncultured bacterium	77133
+ASV_1545	uncultured bacterium	77133
+ASV_1546	uncultured rumen bacterium	136703
+ASV_1547	uncultured bacterium	77133
+ASV_1548	uncultured bacterium	77133
+ASV_1549	uncultured prokaryote	198431
+ASV_1550	uncultured prokaryote	198431
+ASV_1551	uncultured bacterium	77133
+ASV_1552	uncultured Oscillospiraceae bacterium	707003
+ASV_1553	Enterococcus cecorum	44008
+ASV_1554	uncultured bacterium	77133
+ASV_1555	uncultured Rhodobacteraceae bacterium	157276
+ASV_1556	bacterium MD3002	1452002
+ASV_1557	uncultured bacterium	77133
+ASV_1558	uncultured bacterium	77133
+ASV_1559	uncultured prokaryote	198431
+ASV_1560	uncultured prokaryote	198431
+ASV_1561	Mallotus villosus	30960
+ASV_1562	uncultured bacterium	77133
+ASV_1563	
+ASV_1564	uncultured bacterium	77133
+ASV_1565	Polynucleobacter tropicus	1743174
+ASV_1566	uncultured bacterium	77133
+ASV_1567	uncultured rumen bacterium	136703
+ASV_1568	uncultured bacterium	77133
+ASV_1569	uncultured rumen bacterium	136703
+ASV_1570	Carollia brevicauda	138695
+ASV_1571	uncultured bacterium	77133
+ASV_1572	uncultured marine bacterium	56765
+ASV_1573	uncultured prokaryote	198431
+ASV_1574	uncultured bacterium	77133
+ASV_1575	uncultured bacterium	77133
+ASV_1576	uncultured fungus	175245
+ASV_1577	Acinetobacter lwoffii	28090
+ASV_1578	Streptococcus suis	1307
+ASV_1579	uncultured bacterium	77133
+ASV_1580	uncultured Gemmatimonadetes bacterium	203437
+ASV_1581	uncultured bacterium	77133
+ASV_1582	Vogesella indigofera	45465
+ASV_1583	uncultured bacterium	77133
+ASV_1584	Nannochloropsis limnetica	120807
+ASV_1585	uncultured bacterium	77133
+ASV_1586	uncultured bacterium	77133
+ASV_1587	Mallotus villosus	30960
+ASV_1588	uncultured bacterium	77133
+ASV_1589	uncultured bacterium	77133
+ASV_1590	uncultured bacterium	77133
+ASV_1591	uncultured bacterium	77133
+ASV_1592	uncultured bacterium	77133
+ASV_1593	Enoplosus armatus	215367
+ASV_1594	uncultured prokaryote	198431
+ASV_1595	Mannheimia haemolytica	75985
+ASV_1596	uncultured bacterium	77133
+ASV_1597	uncultured bacterium	77133
+ASV_1598	uncultured rumen bacterium	136703
+ASV_1599	uncultured bacterium	77133
+ASV_1600	Mesomycoplasma bovoculi M165/69	743966
+ASV_1601	uncultured bacterium	77133
+ASV_1602	Enchelycore pardalis	586820
+ASV_1603	uncultured bacterium	77133
+ASV_1604	Bos taurus	9913
+ASV_1605	
+ASV_1606	uncultured bacterium	77133
+ASV_1607	
+ASV_1608	uncultured bacterium	77133
+ASV_1609	uncultured rumen bacterium	136703
+ASV_1610	uncultured Mannheimia sp.	509546
+ASV_1611	Bos taurus	9913
+ASV_1612	uncultured prokaryote	198431
+ASV_1613	uncultured rumen bacterium	136703
+ASV_1614	Bos taurus	9913
+ASV_1615	uncultured bacterium	77133
+ASV_1616	uncultured prokaryote	198431
+ASV_1617	uncultured rumen bacterium	136703
+ASV_1618	Pseudomonas fluorescens	294
+ASV_1619	
+ASV_1620	Aquabacterium sp. Ri2Pw_6125	1360797
+ASV_1621	uncultured bacterium	77133
+ASV_1622	uncultured bacterium	77133
+ASV_1623	Granulicatella sp.	2049028
+ASV_1624	uncultured Pseudobutyrivibrio sp.	557192
+ASV_1625	uncultured bacterium	77133
+ASV_1626	Bos taurus	9913
+ASV_1627	uncultured Planctomycetota bacterium	120965
+ASV_1628	uncultured prokaryote	198431
+ASV_1629	uncultured bacterium	77133
+ASV_1630	uncultured bacterium	77133
+ASV_1631	uncultured Paraprevotella sp.	910951
+ASV_1632	Pseudomonas fluorescens	294
+ASV_1633	uncultured bacterium	77133
+ASV_1634	Bos mutus	72004
+ASV_1635	uncultured bacterium	77133
+ASV_1636	uncultured bacterium	77133
+ASV_1637	uncultured bacterium	77133
+ASV_1638	Homo sapiens	9606
+ASV_1639	Hydrogenophaga sp.	1904254
+ASV_1640	uncultured rumen bacterium	136703
+ASV_1641	uncultured bacterium	77133
+ASV_1642	Clostridium sp.	1506
+ASV_1643	uncultured bacterium	77133
+ASV_1644	uncultured diatom	137771
+ASV_1645	Mannheimia varigena	85404
+ASV_1646	uncultured bacterium	77133
+ASV_1647	uncultured bacterium	77133
+ASV_1648	uncultured Mannheimia sp.	509546
+ASV_1649	
+ASV_1650	Heniochus monoceros	466131
+ASV_1651	Simplicispira sp.	2015802
+ASV_1652	uncultured bacterium	77133
+ASV_1653	Bos taurus	9913
+ASV_1654	uncultured bacterium	77133
+ASV_1655	uncultured bacterium	77133
+ASV_1656	uncultured bacterium	77133
+ASV_1657	uncultured cyanobacterium	1211
+ASV_1658	Aminobacter sp.	1872490
+ASV_1659	uncultured prokaryote	198431
+ASV_1660	uncultured bacterium	77133
+ASV_1661	uncultured bacterium	77133
+ASV_1662	unidentified rumen bacterium RC6	60605
+ASV_1663	Bos taurus	9913
+ASV_1664	uncultured prokaryote	198431
+ASV_1665	Bibersteinia trehalosi	47735
+ASV_1666	uncultured bacterium	77133
+ASV_1667	uncultured bacterium	77133
+ASV_1668	Pseudomonas poae	200451
+ASV_1669	Phreatobacter stygius	1940610
+ASV_1670	uncultured prokaryote	198431
+ASV_1671	Alysiella crassa	153491
+ASV_1672	Homo sapiens	9606
+ASV_1673	Lepomis macrochirus	13106
+ASV_1674	uncultured bacterium	77133
+ASV_1676	Pseudomonas extremaustralis	359110
+ASV_1677	Alysiella crassa	153491
+ASV_1678	bacterium AE2015	1451644
+ASV_1679	Homo sapiens	9606
+ASV_1680	uncultured Bacteroidetes bacterium	152509
+ASV_1681	uncultured bacterium	77133
+ASV_1682	Moraxella sp. feline oral taxon 350	1577430
+ASV_1683	uncultured bacterium	77133
+ASV_1684	uncultured bacterium	77133
+ASV_1685	Paracoccus communis	1282439
+ASV_1686	Comamonas jiangduensis	1194168
+ASV_1687	Halichoeres chrysus	161903
+ASV_1688	Pseudomonas fragi	296
+ASV_1689	uncultured bacterium	77133
+ASV_1690	Alysiella crassa	153491
+ASV_1691	Alysiella crassa	153491
+ASV_1692	uncultured bacterium	77133
+ASV_1693	uncultured prokaryote	198431
+ASV_1694	uncultured marine bacterium	56765
+ASV_1695	Hydrogenophaga sp.	1904254
+ASV_1696	
+ASV_1697	uncultured Porphyrobacter sp.	227949
+ASV_1698	uncultured bacterium;uncultured Gemmiger sp.	77133;1623490
+ASV_1699	Burkholderiales bacterium Se2Ps_2311	1362934
+ASV_1700	uncultured bacterium	77133
+ASV_1701	uncultured bacterium	77133
+ASV_1702	uncultured prokaryote	198431
+ASV_1703	uncultured rumen bacterium	136703
+ASV_1704	uncultured bacterium	77133
+ASV_1705	uncultured bacterium	77133
+ASV_1707	uncultured bacterium	77133
+ASV_1708	uncultured rumen bacterium	136703
+ASV_1709	uncultured Neisseriaceae bacterium	208548
+ASV_1710	uncultured prokaryote	198431
+ASV_1711	uncultured bacterium	77133
+ASV_1712	Cichla ocellaris	50735
+ASV_1713	Macropharyngodon negrosensis	317483
+ASV_1714	uncultured prokaryote	198431
+ASV_1715	uncultured bacterium	77133
+ASV_1716	uncultured bacterium	77133
+ASV_1717	Homo sapiens	9606
+ASV_1718	uncultured rumen bacterium	136703
+ASV_1719	uncultured bacterium	77133
+ASV_1720	uncultured bacterium	77133
+ASV_1721	uncultured fungus	175245
+ASV_1722	uncultured bacterium	77133
+ASV_1723	uncultured bacterium	77133
+ASV_1724	uncultured bacterium	77133
+ASV_1725	uncultured bacterium	77133
+ASV_1726	Homo sapiens	9606
+ASV_1727	Moraxella sp.	479
+ASV_1728	uncultured bacterium	77133
+ASV_1729	uncultured Clostridiales Family IV bacterium	1689141
+ASV_1730	
+ASV_1731	uncultured rumen bacterium	136703
+ASV_1732	Achromobacter insolitus	217204
+ASV_1733	uncultured bacterium	77133
+ASV_1734	
+ASV_1735	uncultured prokaryote	198431
+ASV_1736	uncultured Paraprevotella sp.	910951
+ASV_1737	uncultured bacterium	77133
+ASV_1738	uncultured Halieaceae bacterium	2735679
+ASV_1739	Metabacillus idriensis	324768
+ASV_1740	uncultured bacterium	77133
+ASV_1741	uncultured Butyrivibrio sp.	370801
+ASV_1742	uncultured Streptococcus sp.	83427
+ASV_1743	uncultured Porphyromonas sp.	159274
+ASV_1744	Candidatus Uabimicrobium amorphum	2596890
+ASV_1745	uncultured bacterium	77133
+ASV_1746	uncultured rumen bacterium	136703
+ASV_1747	
+ASV_1748	uncultured bacterium	77133
+ASV_1749	Polaromonas sp.	1869339
+ASV_1750	uncultured rumen bacterium	136703
+ASV_1751	uncultured Sinobacteraceae bacterium	694021
+ASV_1752	Bacillus sp. (in: firmicutes)	1409
+ASV_1753	uncultured bacterium	77133
+ASV_1754	
+ASV_1755	uncultured bacterium	77133
+ASV_1756	uncultured prokaryote	198431
+ASV_1757	uncultured bacterium	77133
+ASV_1758	uncultured bacterium	77133
+ASV_1759	uncultured rumen bacterium	136703
+ASV_1760	uncultured bacterium	77133
+ASV_1761	uncultured rumen bacterium	136703
+ASV_1762	uncultured rumen bacterium	136703
+ASV_1763	Planococcus sp. St20	1483436
+ASV_1764	uncultured bacterium	77133
+ASV_1765	Moraxella sp. ZY201224	2904122
+ASV_1766	uncultured bacterium	77133
+ASV_1767	Aestuariihabitans sp.	1872404
+ASV_1768	uncultured Alphaproteobacteria bacterium	91750
+ASV_1769	uncultured beta proteobacterium	86027
+ASV_1770	uncultured prokaryote	198431
+ASV_1771	Bos taurus	9913
+ASV_1772	Homo sapiens	9606
+ASV_1773	uncultured bacterium	77133
+ASV_1774	uncultured bacterium	77133
+ASV_1775	
+ASV_1776	Shewanella sp.	50422
+ASV_1777	Escherichia coli O157	1045010
+ASV_1778	Alsobacter sp.	1872479
+ASV_1779	uncultured Thiobacillus sp.	189996
+ASV_1780	uncultured beta proteobacterium	86027
+ASV_1781	uncultured bacterium	77133
+ASV_1782	uncultured bacterium	77133
+ASV_1783	Gemella sp.	1966354
+ASV_1784	uncultured anaerobic ammonium-oxidizing bacterium	265882
+ASV_1785	Moraxella sp. feline oral taxon 350	1577430
+ASV_1786	uncultured Lachnospiraceae bacterium	297314
+ASV_1787	Acanthurus maculiceps	2080250
+ASV_1788	uncultured bacterium	77133
+ASV_1789	uncultured bacterium	77133
+ASV_1790	uncultured bacterium	77133
+ASV_1791	
+ASV_1792	Stenotrophomonas maltophilia	40324
+ASV_1793	unidentified marine bacterioplankton	13136
+ASV_1794	uncultured bacterium	77133
+ASV_1795	Pseudomonas fragi	296
+ASV_1796	uncultured bacterium	77133
+ASV_1797	Moraxella cuniculi	34061
+ASV_1798	uncultured bacterium	77133
+ASV_1799	uncultured bacterium	77133
+ASV_1800	Paracoccus sp. (in: a-proteobacteria)	267
+ASV_1801	uncultured bacterium	77133
+ASV_1802	uncultured bacterium	77133
+ASV_1803	Bibersteinia trehalosi	47735
+ASV_1804	uncultured bacterium	77133
+ASV_1805	uncultured rumen bacterium	136703
+ASV_1806	uncultured prokaryote	198431
+ASV_1807	Vibrio alginolyticus	663
+ASV_1808	uncultured prokaryote	198431
+ASV_1809	uncultured bacterium	77133
+ASV_1810	
+ASV_1811	Aminobacter sp.	1872490
+ASV_1812	
+ASV_1813	Bos taurus	9913
+ASV_1814	
+ASV_1815	uncultured bacterium	77133
+ASV_1816	uncultured bacterium	77133
+ASV_1817	uncultured bacterium	77133
+ASV_1818	Gemella morbillorum	29391
+ASV_1819	uncultured bacterium	77133
+ASV_1820	uncultured Mannheimia sp.	509546
+ASV_1821	
+ASV_1822	uncultured bacterium	77133
+ASV_1823	uncultured Lachnospiraceae bacterium	297314
+ASV_1824	uncultured bacterium	77133
+ASV_1825	uncultured Oscillospiraceae bacterium	707003
+ASV_1826	
+ASV_1827	Homo sapiens	9606
+ASV_1828	uncultured fungus	175245
+ASV_1829	
+ASV_1830	uncultured bacterium	77133
+ASV_1831	Bos taurus	9913
+ASV_1832	uncultured bacterium	77133
+ASV_1833	uncultured prokaryote	198431
+ASV_1834	uncultured prokaryote	198431
+ASV_1835	Bacillus sp. mixed culture X5-45	1717996
+ASV_1836	Polaromonas jejuensis	457502
+ASV_1837	uncultured Prevotellaceae bacterium	370804
+ASV_1838	uncultured bacterium	77133
+ASV_1839	uncultured archaeon	115547
+ASV_1840	Microbacterium foliorum	104336
+ASV_1841	uncultured bacterium	77133
+ASV_1842	
+ASV_1843	uncultured rumen bacterium	136703
+ASV_1844	uncultured Lachnospiraceae bacterium	297314
+ASV_1845	uncultured bacterium	77133
+ASV_1846	
+ASV_1847	Moraxella canis	90239
+ASV_1848	uncultured bacterium	77133
+ASV_1849	
+ASV_1850	uncultured bacterium	77133
+ASV_1851	
+ASV_1852	Aurantimicrobium minutum	708131
+ASV_1853	uncultured bacterium	77133
+ASV_1854	uncultured Planctomycetota bacterium	120965
+ASV_1855	uncultured prokaryote	198431
+ASV_1856	Rhizobiales bacterium Se3Pw_3539	1364641
+ASV_1857	uncultured bacterium	77133
+ASV_1858	Enchelycore pardalis	586820
+ASV_1859	uncultured Ruminococcus sp.	165186
+ASV_1860	Bos taurus	9913
+ASV_1861	uncultured Gammaproteobacteria bacterium	86473
+ASV_1862	uncultured bacterium	77133
+ASV_1863	uncultured bacterium	77133
+ASV_1864	Bos taurus	9913
+ASV_1865	uncultured marine bacterium	56765
+ASV_1866	uncultured bacterium	77133
+ASV_1867	uncultured marine bacterium	56765
+ASV_1868	Cyprinus carpio	7962
+ASV_1869	uncultured Candidatus Saccharibacteria bacterium	179883
+ASV_1870	uncultured bacterium	77133
+ASV_1871	Planomicrobium okeanokoites;Planomicrobium sp. REN14	244;2782551
+ASV_1872	uncultured bacterium	77133
+ASV_1873	uncultured bacterium	77133
+ASV_1874	uncultured bacterium	77133
+ASV_1875	uncultured bacterium	77133
+ASV_1876	Hydrogenophaga sp.	1904254
+ASV_1877	Polaromonas cryoconiti	866565
+ASV_1878	uncultured prokaryote	198431
+ASV_1879	uncultured fungus	175245
+ASV_1880	Vogesella perlucida	450366
+ASV_1881	uncultured bacterium	77133
+ASV_1882	uncultured prokaryote	198431
+ASV_1883	uncultured bacterium	77133
+ASV_1884	uncultured bacterium	77133
+ASV_1885	Homo sapiens	9606
+ASV_1886	uncultured bacterium	77133
+ASV_1887	uncultured bacterium	77133
+ASV_1888	uncultured bacterium	77133
+ASV_1889	
+ASV_1890	Alysiella crassa	153491
+ASV_1891	uncultured prokaryote	198431
+ASV_1892	uncultured bacterium	77133
+ASV_1893	Stenotrophomonas maltophilia	40324
+ASV_1894	uncultured bacterium	77133
+ASV_1895	uncultured bacterium	77133
+ASV_1896	uncultured prokaryote	198431
+ASV_1897	Rhodobacteraceae bacterium Ri3Pw_6389	1362494
+ASV_1898	Pseudomonas fragi	296
+ASV_1899	uncultured bacterium	77133
+ASV_1900	uncultured bacterium	77133
+ASV_1901	uncultured bacterium	77133
+ASV_1902	Pentapodus caninus	390362
+ASV_1903	uncultured Acidobacteria bacterium	171953
+ASV_1904	
+ASV_1906	uncultured Prevotella sp.	159272
+ASV_1907	uncultured Bacteroidetes bacterium	152509
+ASV_1908	uncultured bacterium	77133
+ASV_1909	uncultured bacterium	77133
+ASV_1910	uncultured Firmicutes bacterium	344338
+ASV_1912	uncultured fungus	175245
+ASV_1913	bacterium	1869227
+ASV_1914	uncultured Comamonadaceae bacterium	165437
+ASV_1915	bacterium;rumen bacterium	1869227;2267272
+ASV_1916	
+ASV_1917	uncultured bacterium	77133
+ASV_1918	Ptereleotris zebra	150319
+ASV_1919	uncultured archaeon	115547
+ASV_1920	Pseudomonas viridiflava	33069
+ASV_1921	uncultured bacterium	77133
+ASV_1922	uncultured rumen bacterium	136703
+ASV_1923	uncultured bacterium	77133
+ASV_1924	
+ASV_1925	uncultured bacterium	77133
+ASV_1926	uncultured bacterium	77133
+ASV_1927	uncultured Phycisphaeraceae bacterium	904980
+ASV_1928	uncultured bacterium	77133
+ASV_1929	uncultured Hyphomicrobiales bacterium	208549
+ASV_1930	
+ASV_1931	uncultured prokaryote	198431
+ASV_1932	uncultured bacterium	77133
+ASV_1933	uncultured bacterium	77133
+ASV_1934	uncultured bacterium	77133
+ASV_1935	uncultured bacterium	77133
+ASV_1936	Streptococcus dysgalactiae	1334
+ASV_1937	uncultured bacterium	77133
+ASV_1938	Microbacterium sp.	51671
+ASV_1939	Moraxella canis	90239
+ASV_1940	uncultured Planctomycetaceae bacterium	100233
+ASV_1941	uncultured prokaryote	198431
+ASV_1942	
+ASV_1943	uncultured rumen bacterium	136703
+ASV_1944	Acinetobacter lwoffii	28090
+ASV_1945	Polaromonas sp.	1869339
+ASV_1946	uncultured prokaryote	198431
+ASV_1947	Moraxella cuniculi	34061
+ASV_1948	uncultured bacterium	77133
+ASV_1949	uncultured bacterium	77133
+ASV_1950	
+ASV_1951	Homo sapiens	9606
+ASV_1952	Bos taurus	9913
+ASV_1953	uncultured bacterium	77133
+ASV_1954	uncultured bacterium	77133
+ASV_1955	Bacillus sp. (in: firmicutes)	1409
+ASV_1956	uncultured bacterium	77133
+ASV_1957	uncultured bacterium	77133
+ASV_1958	uncultured Eubacterium sp.	165185
+ASV_1959	uncultured bacterium	77133
+ASV_1960	uncultured bacterium	77133
+ASV_1961	uncultured bacterium	77133
+ASV_1962	Taonella mepensis	1155801
+ASV_1963	Collimonas sp. E1BS24_907R	1837548
+ASV_1964	Psychrobacter aquaticus	248452
+ASV_1965	uncultured bacterium	77133
+ASV_1966	uncultured bacterium	77133
+ASV_1967	uncultured bacterium	77133
+ASV_1968	Psychrobacillus sp.	1871623
+ASV_1969	uncultured bacterium	77133
+ASV_1970	uncultured bacterium	77133
+ASV_1971	uncultured Methylophilaceae bacterium	239732
+ASV_1972	uncultured bacterium	77133
+ASV_1973	
+ASV_1974	uncultured bacterium	77133
+ASV_1975	
+ASV_1976	uncultured bacterium	77133
+ASV_1977	uncultured Actinomycetes bacterium	152507
+ASV_1978	uncultured bacterium	77133
+ASV_1979	uncultured prokaryote	198431
+ASV_1980	uncultured bacterium	77133
+ASV_1981	uncultured prokaryote	198431
+ASV_1982	uncultured bacterium	77133
+ASV_1983	uncultured bacterium	77133
+ASV_1984	uncultured bacterium	77133
+ASV_1985	uncultured bacterium	77133
+ASV_1986	uncultured fungus	175245
+ASV_1987	uncultured bacterium	77133
+ASV_1988	uncultured prokaryote	198431
+ASV_1989	uncultured Solirubrobacter sp.	211446
+ASV_1990	Alysiella crassa	153491
+ASV_1991	uncultured rumen bacterium	136703
+ASV_1992	uncultured bacterium	77133
+ASV_1993	uncultured rumen bacterium	136703
+ASV_1994	Planococcus sp. St20	1483436
+ASV_1995	uncultured bacterium	77133
+ASV_1996	uncultured bacterium	77133
+ASV_1997	uncultured prokaryote	198431
+ASV_1998	uncultured Fibrobacter sp.	261512
+ASV_1999	uncultured bacterium	77133
+ASV_2000	Fibrobacter succinogenes	833
+ASV_2001	Bos taurus	9913
+ASV_2002	Mycolicibacterium smegmatis	1772
+ASV_2003	uncultured bacterium	77133
+ASV_2004	uncultured bacterium	77133
+ASV_2005	uncultured prokaryote	198431
+ASV_2006	Rhodobacteraceae bacterium Ri3Pw_6180	1362493
+ASV_2007	uncultured bacterium	77133
+ASV_2008	uncultured bacterium	77133
+ASV_2009	
+ASV_2011	Mannheimia varigena	85404
+ASV_2012	Brevundimonas vesicularis	41276
+ASV_2013	uncultured Bacteroides sp.	162156
+ASV_2014	uncultured prokaryote	198431
+ASV_2015	uncultured Moraxella sp.	263769
+ASV_2016	uncultured Planctomycetota bacterium	120965
+ASV_2017	uncultured bacterium	77133
+ASV_2018	
+ASV_2019	uncultured prokaryote	198431
+ASV_2020	Bos taurus	9913
+ASV_2021	uncultured rumen bacterium	136703
+ASV_2022	uncultured bacterium	77133
+ASV_2023	uncultured bacterium	77133
+ASV_2024	uncultured bacterium	77133
+ASV_2025	uncultured bacterium	77133
+ASV_2026	uncultured bacterium	77133
+ASV_2027	Pseudomonas migulae	78543
+ASV_2028	uncultured rumen bacterium	136703
+ASV_2029	uncultured bacterium	77133
+ASV_2030	uncultured Planctomycetaceae bacterium	100233
+ASV_2031	uncultured bacterium	77133
+ASV_2032	uncultured bacterium	77133
+ASV_2033	Moraxella cuniculi	34061
+ASV_2034	
+ASV_2035	Butyrivibrio hungatei	185008
+ASV_2036	uncultured bacterium	77133
+ASV_2037	
+ASV_2038	
+ASV_2039	Moraxella canis	90239
+ASV_2040	Mesomycoplasma dispar	86660
+ASV_2041	uncultured Bacteroides sp.	162156
+ASV_2042	
+ASV_2043	uncultured bacterium	77133
+ASV_2044	uncultured marine bacterium	56765
+ASV_2045	
+ASV_2046	uncultured rumen bacterium	136703
+ASV_2047	Porphyrobacter sp.	1113
+ASV_2048	uncultured beta proteobacterium	86027
+ASV_2049	Meleagris gallopavo	9103
+ASV_2050	uncultured bacterium	77133
+ASV_2051	Stenotrophomonas sp.	69392
+ASV_2052	Bos taurus	9913
+ASV_2053	
+ASV_2054	uncultured rumen bacterium	136703
+ASV_2055	Nematobrycon palmeri	272066
+ASV_2056	uncultured bacterium	77133
+ASV_2057	uncultured bacterium	77133
+ASV_2058	uncultured Oscillospiraceae bacterium	707003
+ASV_2059	uncultured prokaryote	198431
+ASV_2060	uncultured organism	155900
+ASV_2061	uncultured Sinobacteraceae bacterium	694021
+ASV_2062	uncultured Lachnospiraceae bacterium	297314
+ASV_2063	
+ASV_2064	
+ASV_2065	Acinetobacter lwoffii	28090
+ASV_2066	uncultured Nitrospira sp.	157176
+ASV_2067	Stenotrophomonas rhizophila	216778
+ASV_2068	uncultured bacterium	77133
+ASV_2069	uncultured prokaryote	198431
+ASV_2070	Pseudomonas fragi	296
+ASV_2071	uncultured bacterium	77133
+ASV_2072	Tetracoccus sp.	2047557
+ASV_2073	uncultured bacterium	77133
+ASV_2074	Notamacropus eugenii	9315
+ASV_2075	uncultured Gammaproteobacteria bacterium	86473
+ASV_2076	uncultured bacterium	77133
+ASV_2077	uncultured Desulfovibrio sp.	167968
+ASV_2078	uncultured Bacillaceae bacterium	197516
+ASV_2079	Bos taurus	9913
+ASV_2080	Meleagris gallopavo	9103
+ASV_2081	Plesiomonas shigelloides	703
+ASV_2082	uncultured bacterium	77133
+ASV_2083	uncultured bacterium	77133
+ASV_2084	uncultured bacterium	77133
+ASV_2085	Bos taurus	9913
+ASV_2086	uncultured bacterium	77133
+ASV_2087	uncultured bacterium	77133
+ASV_2088	uncultured rumen bacterium	136703
+ASV_2089	
+ASV_2090	uncultured bacterium	77133
+ASV_2091	Caranx hippos	173312
+ASV_2092	uncultured prokaryote	198431
+ASV_2093	
+ASV_2094	Virgulinella fragilis	243198
+ASV_2095	uncultured bacterium	77133
+ASV_2096	uncultured bacterium	77133
+ASV_2097	Cellulomonas sp.	40001
+ASV_2098	uncultured bacterium	77133
+ASV_2099	Canis lupus familiaris	9615
+ASV_2100	
+ASV_2101	Rhodobacter sp.	1062
+ASV_2102	Bos taurus	9913
+ASV_2103	uncultured archaeon	115547
+ASV_2104	uncultured bacterium	77133
+ASV_2105	uncultured bacterium	77133
+ASV_2106	uncultured bacterium	77133
+ASV_2107	uncultured bacterium	77133
+ASV_2108	uncultured Planctomycetota bacterium	120965
+ASV_2109	uncultured prokaryote	198431
+ASV_2110	uncultured bacterium	77133
+ASV_2111	uncultured bacterium	77133
+ASV_2112	uncultured rumen bacterium	136703
+ASV_2113	uncultured Chloroflexi bacterium	166587
+ASV_2114	uncultured Candidatus Saccharibacteria bacterium	179883
+ASV_2115	uncultured bacterium	77133
+ASV_2116	uncultured Bacteroidetes bacterium	152509
+ASV_2117	uncultured rumen bacterium	136703
+ASV_2118	uncultured Bacteroidetes bacterium	152509
+ASV_2119	uncultured bacterium	77133
+ASV_2120	uncultured prokaryote	198431
+ASV_2121	Robertmurraya massiliosenegalensis	1287657
+ASV_2122	bacterium MB2022	1451951
+ASV_2123	uncultured bacterium	77133
+ASV_2124	uncultured bacterium	77133
+ASV_2125	
+ASV_2126	uncultured Janthinobacterium sp.	242828
+ASV_2127	uncultured bacterium	77133
+ASV_2128	uncultured bacterium	77133
+ASV_2129	uncultured bacterium	77133
+ASV_2130	uncultured bacterium	77133
+ASV_2131	uncultured rumen bacterium	136703
+ASV_2132	uncultured Achromobacter sp.	182690
+ASV_2134	uncultured bacterium	77133
+ASV_2135	
+ASV_2136	uncultured Porphyromonas sp.	159274
+ASV_2137	uncultured bacterium	77133
+ASV_2138	uncultured Planctomycetota bacterium	120965
+ASV_2139	uncultured Anaeroplasma sp.	538969
+ASV_2140	Phreatobacter stygius	1940610
+ASV_2141	uncultured bacterium	77133
+ASV_2142	uncultured rumen bacterium	136703
+ASV_2143	uncultured rumen bacterium	136703
+ASV_2144	uncultured delta proteobacterium	34034
+ASV_2145	uncultured bacterium	77133
+ASV_2146	Pseudomonas fragi	296
+ASV_2147	uncultured bacterium	77133
+ASV_2148	Agrobacterium larrymoorei	160699
+ASV_2149	uncultured rumen bacterium	136703
+ASV_2150	Taonella mepensis	1155801
+ASV_2151	uncultured bacterium	77133
+ASV_2152	uncultured bacterium	77133
+ASV_2153	uncultured bacterium	77133
+ASV_2154	uncultured rumen bacterium	136703
+ASV_2155	uncultured bacterium	77133
+ASV_2156	uncultured bacterium	77133
+ASV_2157	uncultured bacterium	77133
+ASV_2158	
+ASV_2159	uncultured prokaryote	198431
+ASV_2160	uncultured prokaryote	198431
+ASV_2161	uncultured Firmicutes bacterium	344338
+ASV_2162	uncultured Gammaproteobacteria bacterium	86473
+ASV_2163	uncultured Sphingobacteriales bacterium	212696
+ASV_2164	uncultured prokaryote	198431
+ASV_2165	Psychrobacillus psychrodurans	126157
+ASV_2166	uncultured bacterium	77133
+ASV_2167	uncultured bacterium	77133
+ASV_2168	uncultured bacterium	77133
+ASV_2169	uncultured bacterium	77133
+ASV_2170	uncultured Solirubrobacterales bacterium	768556
+ASV_2171	Bos taurus	9913
+ASV_2172	Acinetobacter albensis	1673609
+ASV_2173	uncultured prokaryote	198431
+ASV_2174	uncultured bacterium	77133
+ASV_2175	uncultured Pseudobutyrivibrio sp.	557192
+ASV_2176	uncultured rumen bacterium	136703
+ASV_2177	uncultured bacterium	77133
+ASV_2178	uncultured bacterium	77133
+ASV_2179	uncultured Streptococcus sp.	83427
+ASV_2180	uncultured bacterium	77133
+ASV_2181	uncultured bacterium	77133
+ASV_2182	
+ASV_2183	uncultured bacterium	77133
+ASV_2184	Acinetobacter marinus	281375
+ASV_2185	uncultured Planctomycetota bacterium	120965
+ASV_2186	
+ASV_2187	uncultured Gammaproteobacteria bacterium	86473
+ASV_2188	uncultured bacterium	77133
+ASV_2189	uncultured bacterium	77133
+ASV_2190	uncultured bacterium	77133
+ASV_2191	uncultured prokaryote	198431
+ASV_2192	uncultured bacterium	77133
+ASV_2193	uncultured bacterium	77133
+ASV_2194	uncultured bacterium	77133
+ASV_2195	uncultured bacterium	77133
+ASV_2196	Trichococcus flocculiformis	82803
+ASV_2197	Sphingomonas sp. So3Pw_1041	1364767
+ASV_2198	Psychrobacter sp.	56811
+ASV_2199	uncultured Acidimicrobiales bacterium	310071
+ASV_2200	uncultured bacterium	77133
+ASV_2201	uncultured Sinobacteraceae bacterium	694021
+ASV_2202	uncultured bacterium	77133
+ASV_2203	uncultured bacterium	77133
+ASV_2204	uncultured bacterium	77133
+ASV_2205	uncultured rumen bacterium	136703
+ASV_2206	uncultured bacterium	77133
+ASV_2207	uncultured bacterium	77133
+ASV_2208	Erythrobacter sanguineus	198312
+ASV_2209	uncultured rumen bacterium	136703
+ASV_2210	uncultured bacterium	77133
+ASV_2211	uncultured bacterium	77133
+ASV_2212	
+ASV_2213	uncultured bacterium	77133
+ASV_2214	Reyranella sp.	1929291
+ASV_2215	uncultured bacterium	77133
+ASV_2216	uncultured Candidatus Gracilibacteria bacterium	363504
+ASV_2217	
+ASV_2218	uncultured bacterium	77133
+ASV_2219	uncultured bacterium	77133
+ASV_2220	Aquabacterium sp.	1872578
+ASV_2221	uncultured bacterium	77133
+ASV_2222	uncultured Alphaproteobacteria bacterium	91750
+ASV_2223	Brevoortia tyrannus	224708
+ASV_2224	uncultured bacterium	77133
+ASV_2225	uncultured bacterium	77133
+ASV_2226	uncultured bacterium	77133
+ASV_2227	uncultured bacterium	77133
+ASV_2228	Acidovorax sp.	1872122
+ASV_2229	uncultured bacterium	77133
+ASV_2230	uncultured bacterium	77133
+ASV_2231	uncultured bacterium	77133
+ASV_2232	uncultured prokaryote	198431
+ASV_2233	uncultured bacterium	77133
+ASV_2234	uncultured bacterium	77133
+ASV_2235	Janthinobacterium sp.	1871054
+ASV_2236	uncultured bacterium	77133
+ASV_2237	uncultured bacterium	77133
+ASV_2238	uncultured prokaryote	198431
+ASV_2239	uncultured bacterium	77133
+ASV_2240	uncultured bacterium	77133
+ASV_2241	uncultured bacterium	77133
+ASV_2242	uncultured bacterium	77133
+ASV_2243	uncultured Alphaproteobacteria bacterium	91750
+ASV_2244	
+ASV_2245	uncultured bacterium	77133
+ASV_2246	uncultured bacterium	77133
+ASV_2247	uncultured bacterium	77133
+ASV_2248	uncultured Comamonadaceae bacterium	165437
+ASV_2249	uncultured bacterium	77133
+ASV_2250	uncultured bacterium	77133
+ASV_2251	uncultured Skermanella sp.	316073
+ASV_2252	uncultured prokaryote	198431
+ASV_2253	uncultured bacterium	77133
+ASV_2254	
+ASV_2255	uncultured bacterium	77133
+ASV_2256	uncultured Sphingomonas sp.	158754
+ASV_2257	uncultured bacterium	77133
+ASV_2258	uncultured bacterium	77133
+ASV_2259	uncultured bacterium	77133
+ASV_2260	uncultured rumen bacterium	136703
+ASV_2261	uncultured Moraxella sp.	263769
+ASV_2262	Pseudomonas sp.	306
+ASV_2263	uncultured Campylobacter sp.	218934
+ASV_2264	uncultured bacterium	77133
+ASV_2265	uncultured bacterium	77133
+ASV_2266	
+ASV_2267	uncultured bacterium	77133
+ASV_2268	uncultured bacterium	77133
+ASV_2269	Bos taurus	9913
+ASV_2270	Bos taurus	9913
+ASV_2271	
+ASV_2272	uncultured bacterium	77133
+ASV_2273	uncultured bacterium	77133
+ASV_2274	Brevundimonas sp.	1871086
+ASV_2275	uncultured bacterium	77133
+ASV_2276	uncultured bacterium	77133
+ASV_2277	uncultured bacterium	77133
+ASV_2278	uncultured rumen bacterium	136703
+ASV_2279	uncultured Gammaproteobacteria bacterium	86473
+ASV_2280	uncultured prokaryote	198431
+ASV_2281	uncultured prokaryote	198431
+ASV_2282	Bos taurus	9913
+ASV_2283	uncultured rumen bacterium	136703
+ASV_2284	uncultured Omnitrophica bacterium	174292
+ASV_2285	Centropyge vrolikii	109736
+ASV_2286	
+ASV_2287	uncultured rumen bacterium	136703
+ASV_2288	Pseudomonas fragi	296
+ASV_2289	uncultured bacterium	77133
+ASV_2290	uncultured Sphingomonadaceae bacterium	169976
+ASV_2291	uncultured bacterium	77133
+ASV_2292	uncultured bacterium	77133
+ASV_2293	uncultured bacterium	77133
+ASV_2294	Methylorubrum extorquens	408
+ASV_2295	Mallotus villosus	30960
+ASV_2296	uncultured prokaryote	198431
+ASV_2297	
+ASV_2298	Ruminococcus sp.	41978
+ASV_2299	uncultured bacterium	77133
+ASV_2300	uncultured bacterium	77133
+ASV_2301	uncultured Streptococcus sp.	83427
+ASV_2302	uncultured prokaryote	198431
+ASV_2303	Bos taurus	9913
+ASV_2304	Achromobacter insolitus	217204
+ASV_2305	uncultured bacterium	77133
+ASV_2306	Hydrogenophaga sp.	1904254
+ASV_2307	uncultured bacterium	77133
+ASV_2308	uncultured Cycloclasticus sp.	172194
+ASV_2309	uncultured prokaryote	198431
+ASV_2310	Enterobacteriaceae bacterium	1849603
+ASV_2311	Pseudomonas fragi	296
+ASV_2312	uncultured bacterium	77133
+ASV_2313	uncultured bacterium	77133
+ASV_2314	uncultured bacterium	77133
+ASV_2315	Bos taurus	9913
+ASV_2316	uncultured bacterium	77133
+ASV_2317	Macolor macularis	1099943
+ASV_2319	uncultured Porphyromonadaceae bacterium	348578
+ASV_2320	uncultured bacterium	77133
+ASV_2321	uncultured Planctomycetota bacterium	120965
+ASV_2322	uncultured Oscillospiraceae bacterium	707003
+ASV_2323	Achromobacter sp.	134375
+ASV_2324	uncultured bacterium	77133
+ASV_2325	uncultured Limnohabitans sp.	768543
+ASV_2326	Moraxella cuniculi	34061
+ASV_2327	
+ASV_2328	uncultured Magnetococcus sp.	304587
+ASV_2329	
+ASV_2330	
+ASV_2331	uncultured Alphaproteobacteria bacterium	91750
+ASV_2332	uncultured Alphaproteobacteria bacterium	91750
+ASV_2333	
+ASV_2334	
+ASV_2335	uncultured Verrucomicrobia bacterium	156588
+ASV_2336	uncultured bacterium	77133
+ASV_2337	uncultured bacterium	77133
+ASV_2338	uncultured bacterium	77133
+ASV_2339	uncultured bacterium	77133
+ASV_2340	uncultured archaeon	115547
+ASV_2341	Bos taurus	9913
+ASV_2342	uncultured bacterium	77133
+ASV_2343	uncultured bacterium	77133
+ASV_2344	uncultured bacterium	77133
+ASV_2345	uncultured bacterium	77133
+ASV_2346	uncultured prokaryote	198431
+ASV_2347	uncultured bacterium	77133
+ASV_2348	uncultured bacterium	77133
+ASV_2349	uncultured bacterium	77133
+ASV_2350	Mannheimia sp.	2081794
+ASV_2351	uncultured bacterium	77133
+ASV_2352	uncultured marine bacterium	56765
+ASV_2354	
+ASV_2355	Polaromonas jejuensis	457502
+ASV_2356	uncultured bacterium	77133
+ASV_2357	uncultured Gammaproteobacteria bacterium	86473
+ASV_2358	uncultured bacterium	77133
+ASV_2359	uncultured bacterium	77133
+ASV_2360	uncultured bacterium	77133
+ASV_2361	Achromobacter insolitus	217204
+ASV_2362	Bos taurus	9913
+ASV_2363	uncultured bacterium	77133
+ASV_2364	Moraxella sp. ZY201224	2904122
+ASV_2365	uncultured bacterium	77133
+ASV_2366	uncultured rumen bacterium	136703
+ASV_2367	uncultured prokaryote	198431
+ASV_2368	Bos taurus	9913
+ASV_2369	Bos taurus	9913
+ASV_2370	Bos taurus	9913
+ASV_2371	Bos taurus	9913
+ASV_2372	Bos taurus	9913
+ASV_2373	uncultured rumen bacterium	136703
+ASV_2374	uncultured bacterium	77133
+ASV_2375	
+ASV_2376	Bradyrhizobium sp. PSBB068	2715960
+ASV_2377	uncultured bacterium	77133
+ASV_2378	uncultured rumen bacterium	136703
+ASV_2379	uncultured bacterium	77133
+ASV_2380	uncultured Acidobacteriales bacterium	190530
+ASV_2381	uncultured bacterium	77133
+ASV_2382	uncultured rumen bacterium	136703
+ASV_2383	Acinetobacter harbinensis	1353941
+ASV_2384	uncultured bacterium	77133
+ASV_2386	
+ASV_2387	Ruminococcus sp.	41978
+ASV_2388	uncultured bacterium	77133
+ASV_2389	uncultured bacterium	77133
+ASV_2390	Acidaminococcus intestini	187327
+ASV_2391	uncultured Flexibacter sp.	158757
+ASV_2392	Carnobacterium sp. Ri2Ps_4925	1360002
+ASV_2393	uncultured bacterium	77133
+ASV_2394	uncultured Chitinophagaceae bacterium	866510
+ASV_2395	uncultured organism	155900
+ASV_2396	uncultured bacterium	77133
+ASV_2397	uncultured bacterium	77133
+ASV_2398	Bos taurus	9913
+ASV_2399	Bos taurus	9913
+ASV_2400	
+ASV_2401	Shewanella baltica	62322
+ASV_2402	uncultured bacterium	77133
+ASV_2403	Comamonadaceae bacterium Se3Pw_3534	1363907
+ASV_2404	uncultured rumen bacterium	136703
+ASV_2405	Devosia sp. Ri3Pt_4249	1361938
+ASV_2406	marine bacterium enrichment culture clone M09-G5-S7	1339917
+ASV_2407	uncultured rumen bacterium	136703
+ASV_2408	uncultured bacterium	77133
+ASV_2409	uncultured bacterium	77133
+ASV_2411	Bos taurus	9913
+ASV_2412	Planoglabratella opercularis	109238
+ASV_2413	
+ASV_2414	uncultured Planctomycetota bacterium	120965
+ASV_2415	uncultured prokaryote	198431
+ASV_2416	uncultured microorganism	358574
+ASV_2417	Meleagris gallopavo	9103
+ASV_2418	uncultured bacterium	77133
+ASV_2419	uncultured bacterium	77133
+ASV_2420	uncultured proteobacterium	153809
+ASV_2421	uncultured beta proteobacterium	86027
+ASV_2422	uncultured bacterium	77133
+ASV_2423	uncultured Cellvibrio sp.	174586
+ASV_2424	Bos taurus	9913
+ASV_2425	Bos taurus	9913
+ASV_2426	Bos taurus	9913
+ASV_2427	uncultured bacterium	77133
+ASV_2428	Moraxella sp. feline oral taxon 350	1577430
+ASV_2429	uncultured bacterium	77133
+ASV_2430	Methyloversatilis sp.	2569862
+ASV_2431	uncultured bacterium	77133
+ASV_2432	uncultured rumen bacterium	136703
+ASV_2434	uncultured prokaryote	198431
+ASV_2435	uncultured rumen bacterium	136703
+ASV_2436	uncultured bacterium	77133
+ASV_2437	uncultured rumen bacterium	136703
+ASV_2438	
+ASV_2439	
+ASV_2440	Planomicrobium okeanokoites;Planomicrobium sp. REN14	244;2782551
+ASV_2441	uncultured bacterium	77133
+ASV_2442	uncultured bacterium	77133
+ASV_2443	uncultured bacterium	77133
+ASV_2444	uncultured bacterium	77133
+ASV_2445	Bos taurus	9913
+ASV_2446	Bos taurus	9913
+ASV_2447	uncultured bacterium	77133
+ASV_2448	uncultured bacterium	77133
+ASV_2449	uncultured bacterium	77133
+ASV_2450	uncultured prokaryote	198431
+ASV_2451	
+ASV_2452	Acinetobacter marinus	281375
+ASV_2453	uncultured bacterium	77133
+ASV_2454	uncultured bacterium	77133
+ASV_2455	Rhizobiales bacterium Se3Ps_2752	1363504
+ASV_2456	Bos taurus	9913
+ASV_2457	uncultured bacterium	77133
+ASV_2458	uncultured bacterium	77133
+ASV_2459	
+ASV_2460	uncultured bacterium	77133
+ASV_2461	Moraxella sp. ZY201224	2904122
+ASV_2462	uncultured rumen bacterium	136703
+ASV_2463	
+ASV_2464	bacterium AC3007	1451591
+ASV_2465	uncultured rumen bacterium	136703
+ASV_2466	uncultured bacterium	77133
+ASV_2467	uncultured bacterium	77133
+ASV_2468	uncultured bacterium	77133
+ASV_2469	
+ASV_2470	Taeniura meyeni	651724
+ASV_2471	Aracana aurita	1206982
+ASV_2472	uncultured rumen bacterium	136703
+ASV_2473	uncultured bacterium	77133
+ASV_2474	uncultured bacterium	77133
+ASV_2475	uncultured Actinomycetes bacterium	152507
+ASV_2476	uncultured rumen bacterium	136703
+ASV_2477	Bos taurus	9913
+ASV_2478	uncultured bacterium	77133
+ASV_2479	uncultured bacterium	77133
+ASV_2480	uncultured bacterium	77133
+ASV_2481	Mesomycoplasma bovoculi M165/69	743966
+ASV_2482	Mesomycoplasma bovoculi M165/69	743966
+ASV_2483	uncultured rumen bacterium	136703
+ASV_2484	Taonella mepensis	1155801
+ASV_2485	Polynucleobacter sp.	2029855
+ASV_2486	uncultured bacterium	77133
+ASV_2487	uncultured Actinomycetes bacterium	152507
+ASV_2488	uncultured beta proteobacterium	86027
+ASV_2489	Brevundimonas denitrificans	1443434
+ASV_2490	uncultured bacterium;uncultured Gemmiger sp.	77133;1623490
+ASV_2491	uncultured Actinobacteridae bacterium	197512
+ASV_2492	
+ASV_2493	Acinetobacter marinus	281375
+ASV_2494	uncultured bacterium	77133
+ASV_2495	uncultured bacterium	77133
+ASV_2496	uncultured rumen bacterium	136703
+ASV_2497	
+ASV_2498	Moraxella sp. ZY201224	2904122
+ASV_2499	Bos taurus	9913
+ASV_2500	uncultured Planctomycetota bacterium	120965
+ASV_2501	uncultured Gammaproteobacteria bacterium	86473
+ASV_2502	uncultured Gammaproteobacteria bacterium	86473
+ASV_2503	uncultured bacterium	77133
+ASV_2504	uncultured bacterium	77133
+ASV_2505	Bos taurus	9913
+ASV_2506	
+ASV_2507	
+ASV_2508	Brevundimonas denitrificans	1443434
+ASV_2509	Bos taurus	9913
+ASV_2510	uncultured prokaryote	198431
+ASV_2511	Sphingorhabdus sp.	1902408
+ASV_2512	Erythrobacteraceae bacterium Ri2Ps_5137	1360181
+ASV_2513	uncultured bacterium	77133
+ASV_2514	uncultured bacterium	77133
+ASV_2515	uncultured prokaryote	198431
+ASV_2516	uncultured bacterium	77133
+ASV_2517	uncultured bacterium	77133
+ASV_2518	uncultured Oscillospiraceae bacterium	707003
+ASV_2519	uncultured bacterium	77133
+ASV_2520	
+ASV_2521	uncultured bacterium	77133
+ASV_2522	Psychrobacter sp.	56811
+ASV_2524	uncultured bacterium	77133
+ASV_2525	
+ASV_2526	Bacteroides fragilis	817
+ASV_2527	uncultured bacterium	77133
+ASV_2528	uncultured bacterium	77133
+ASV_2529	Bos taurus	9913
+ASV_2530	Blautia sp.	1955243
+ASV_2531	Hypostomus gymnorhynchus	168219
+ASV_2532	
+ASV_2533	uncultured bacterium	77133
+ASV_2534	uncultured Hydrogenophaga sp.	199683
+ASV_2535	uncultured bacterium	77133
+ASV_2536	Pseudomonas helmanticensis	1471381
+ASV_2537	uncultured archaeon	115547
+ASV_2538	uncultured prokaryote	198431
+ASV_2539	Bos taurus	9913
+ASV_2540	uncultured bacterium	77133
+ASV_2541	
+ASV_2542	uncultured bacterium	77133
+ASV_2543	uncultured bacterium	77133
+ASV_2544	Bos taurus	9913
+ASV_2545	uncultured bacterium	77133
+ASV_2546	uncultured bacterium	77133
+ASV_2547	uncultured Acetitomaculum sp.	2033018
+ASV_2548	uncultured bacterium	77133
+ASV_2549	uncultured Gammaproteobacteria bacterium	86473
+ASV_2550	uncultured bacterium	77133
+ASV_2551	Psychrobacter alimentarius	261164
+ASV_2552	uncultured bacterium	77133
+ASV_2553	uncultured bacterium	77133
+ASV_2555	uncultured bacterium	77133
+ASV_2556	uncultured bacterium	77133
+ASV_2557	Sebastes auriculatus	72057
+ASV_2559	uncultured prokaryote	198431
+ASV_2560	Moraxella sp. ZY201224	2904122
+ASV_2561	Clupea harengus	7950
+ASV_2562	Haemophilus parainfluenzae	729
+ASV_2563	
+ASV_2564	uncultured prokaryote	198431
+ASV_2565	uncultured bacterium	77133
+ASV_2566	Bos taurus	9913
+ASV_2567	uncultured bacterium	77133
+ASV_2568	uncultured bacterium	77133
+ASV_2569	Heniochus monoceros	466131
+ASV_2570	Pimephales promelas	90988
+ASV_2571	uncultured bacterium	77133
+ASV_2572	uncultured bacterium	77133
+ASV_2573	uncultured bacterium	77133
+ASV_2574	Bos taurus	9913
+ASV_2575	Pseudoalteromonas sp.	53249
+ASV_2576	Porphyrobacter sp.	1113
+ASV_2577	Novosphingobium sp. Se1Ps_1972	1362335
+ASV_2578	uncultured Fibrobacter sp.	261512
+ASV_2579	uncultured bacterium	77133
+ASV_2580	uncultured marine organism	360281
+ASV_2581	Bos taurus	9913
+ASV_2582	Bos taurus	9913
+ASV_2583	uncultured bacterium	77133
+ASV_2584	
+ASV_2585	uncultured bacterium	77133
+ASV_2586	Meleagris gallopavo	9103
+ASV_2587	Photobacterium sp.	660
+ASV_2588	uncultured bacterium	77133
+ASV_2589	uncultured bacterium	77133
+ASV_2590	uncultured bacterium	77133
+ASV_2591	uncultured bacterium	77133
+ASV_2592	uncultured bacterium	77133
+ASV_2593	uncultured rumen bacterium	136703
+ASV_2594	Hydrogenophaga sp. Ri2Pw_6039	1360735
+ASV_2595	Stenotrophomonas sp.	69392
+ASV_2596	
+ASV_2597	Bos taurus	9913
+ASV_2598	Candidatus Devosia euplotis	223181
+ASV_2599	uncultured Actinomycetes bacterium	152507
+ASV_2600	Bos taurus	9913
+ASV_2601	Leisingera sp. SW631	2614907
+ASV_2602	Bos taurus	9913
+ASV_2603	Acinetobacter sp.	472
+ASV_2604	uncultured bacterium	77133
+ASV_2605	uncultured bacterium	77133
+ASV_2606	uncultured bacterium	77133
+ASV_2607	Methylobacterium sp.	409
+ASV_2608	uncultured bacterium	77133
+ASV_2609	Bos taurus	9913
+ASV_2610	Bos taurus	9913
+ASV_2611	Bos taurus	9913
+ASV_2612	
+ASV_2613	
+ASV_2614	uncultured bacterium	77133
+ASV_2615	uncultured Methylobacillus sp.	281697
+ASV_2616	uncultured bacterium	77133
+ASV_2617	
+ASV_2618	uncultured bacterium	77133
+ASV_2619	uncultured bacterium	77133
+ASV_2620	uncultured bacterium	77133
+ASV_2621	uncultured bacterium	77133
+ASV_2622	uncultured bacterium	77133
+ASV_2623	uncultured bacterium	77133
+ASV_2624	uncultured bacterium	77133
+ASV_2626	Vibrio sp.	678
+ASV_2627	uncultured bacterium	77133
+ASV_2628	uncultured bacterium	77133
+ASV_2629	Latilactobacillus graminis	60519
+ASV_2630	
+ASV_2631	uncultured bacterium	77133
+ASV_2632	
+ASV_2633	Potamotrygon motoro	86373
+ASV_2634	uncultured bacterium	77133
+ASV_2635	Magnetospirillum moscoviense	1437059
+ASV_2636	uncultured bacterium	77133
+ASV_2637	uncultured Pseudomonas sp.	114707
+ASV_2638	Pseudomonas sp.	306
+ASV_2639	uncultured bacterium	77133
+ASV_2640	Paracoccus sp. (in: a-proteobacteria)	267
+ASV_2641	Bos taurus	9913
+ASV_2642	uncultured Bacteriovoracaceae bacterium	625924
+ASV_2643	uncultured bacterium	77133
+ASV_2644	uncultured bacterium	77133
+ASV_2645	Bos taurus	9913
+ASV_2646	Bos taurus	9913
+ASV_2647	Bos taurus	9913
+ASV_2649	uncultured Eubacteriales bacterium	172733
+ASV_2650	
+ASV_2651	uncultured bacterium	77133
+ASV_2652	uncultured bacterium	77133
+ASV_2653	uncultured euryarchaeote	114243
+ASV_2654	uncultured bacterium	77133
+ASV_2655	uncultured bacterium	77133
+ASV_2656	uncultured bacterium	77133
+ASV_2657	uncultured rumen bacterium	136703
+ASV_2658	bacterium	1869227
+ASV_2659	
+ASV_2660	uncultured bacterium	77133
+ASV_2661	Notamacropus eugenii	9315
+ASV_2662	
+ASV_2663	
+ASV_2664	uncultured bacterium	77133
+ASV_2665	uncultured bacterium	77133
+ASV_2666	Mesomycoplasma bovoculi M165/69	743966
+ASV_2667	uncultured Planctomycetales bacterium	100371
+ASV_2668	
+ASV_2669	
+ASV_2670	uncultured bacterium	77133
+ASV_2671	uncultured bacterium	77133
+ASV_2672	Psychrobacillus sp.	1871623
+ASV_2673	uncultured bacterium	77133
+ASV_2674	uncultured Actinomycetes bacterium	152507
+ASV_2675	uncultured prokaryote	198431
+ASV_2676	Bos taurus	9913
+ASV_2677	Lactococcus plantarum	1365
+ASV_2678	Psychrobacter sp.	56811
+ASV_2679	Acinetobacter sp. ACMS25	1540122
+ASV_2680	Polynucleobacter difficilis	556054
+ASV_2681	uncultured bacterium	77133
+ASV_2682	uncultured bacterium	77133
+ASV_2683	uncultured rumen bacterium	136703
+ASV_2684	uncultured Sphingomonas sp.	158754
+ASV_2685	uncultured Treponema sp.	162155
+ASV_2686	uncultured Prevotella sp.	159272
+ASV_2687	Streptococcus lutetiensis	150055
+ASV_2688	Mycoplasmopsis bovirhinis	29553
+ASV_2689	uncultured Lachnospiraceae bacterium	297314
+ASV_2690	uncultured diatom	137771
+ASV_2691	
+ASV_2693	
+ASV_2694	uncultured bacterium	77133
+ASV_2695	uncultured bacterium	77133
+ASV_2696	Bos taurus	9913
+ASV_2697	uncultured organism	155900
+ASV_2698	uncultured bacterium	77133
+ASV_2699	
+ASV_2700	uncultured bacterium	77133
+ASV_2701	uncultured Kingella sp.	159270
+ASV_2702	
+ASV_2703	uncultured bacterium	77133
+ASV_2704	uncultured bacterium	77133
+ASV_2705	
+ASV_2706	
+ASV_2707	Bos taurus	9913
+ASV_2708	Bos taurus	9913
+ASV_2709	
+ASV_2710	
+ASV_2711	uncultured bacterium	77133
+ASV_2712	Pseudomonas fragi	296
+ASV_2713	uncultured bacterium	77133
+ASV_2714	Bos taurus	9913
+ASV_2715	uncultured bacterium	77133
+ASV_2716	uncultured prokaryote	198431
+ASV_2717	Piscinibacter sp. Se1Pw_2999	1362419
+ASV_2718	Hydrogenophaga sp.	1904254
+ASV_2719	uncultured Bacteroidetes bacterium	152509
+ASV_2720	
+ASV_2721	uncultured bacterium	77133
+ASV_2722	uncultured bacterium	77133
+ASV_2723	uncultured Oscillospiraceae bacterium	707003
+ASV_2724	uncultured bacterium	77133
+ASV_2725	
+ASV_2726	uncultured rumen bacterium	136703
+ASV_2727	uncultured bacterium	77133
+ASV_2728	uncultured Acinetobacter sp.	165433
+ASV_2729	uncultured bacterium	77133
+ASV_2730	uncultured Bacteroidales bacterium	194843
+ASV_2731	Homo sapiens	9606
+ASV_2732	
+ASV_2733	uncultured bacterium	77133
+ASV_2734	uncultured bacterium	77133
+ASV_2735	uncultured bacterium	77133
+ASV_2736	
+ASV_2737	Massilia sp.	1882437
+ASV_2738	uncultured rumen bacterium	136703
+ASV_2739	Acidaminococcus fermentans	905
+ASV_2741	uncultured Candidatus Saccharibacteria bacterium	179883
+ASV_2742	Bos taurus	9913
+ASV_2743	Bos taurus	9913
+ASV_2744	uncultured bacterium	77133
+ASV_2745	uncultured Actinomycetales bacterium	239730
+ASV_2746	uncultured bacterium	77133
+ASV_2747	Homo sapiens	9606
+ASV_2748	Bos taurus	9913
+ASV_2749	uncultured bacterium	77133
+ASV_2750	uncultured rumen bacterium	136703
+ASV_2751	uncultured bacterium	77133
+ASV_2752	uncultured bacterium	77133
+ASV_2753	uncultured bacterium	77133
+ASV_2754	uncultured bacterium	77133
+ASV_2755	uncultured bacterium	77133
+ASV_2756	Bradyrhizobium sp. PSBB068	2715960
+ASV_2757	uncultured bacterium	77133
+ASV_2758	Acanthurus olivaceus	238053
+ASV_2759	Moraxella cuniculi	34061
+ASV_2760	uncultured bacterium	77133
+ASV_2761	uncultured bacterium	77133
+ASV_2762	
+ASV_2763	uncultured bacterium	77133
+ASV_2764	uncultured Lachnospiraceae bacterium	297314
+ASV_2765	uncultured Candidatus Gracilibacteria bacterium	363504
+ASV_2766	uncultured bacterium	77133
+ASV_2767	uncultured bacterium	77133
+ASV_2768	
+ASV_2769	Moraxella caviae	34060
+ASV_2770	
+ASV_2771	Bos taurus	9913
+ASV_2772	uncultured bacterium	77133
+ASV_2773	bacterium FD2005	1451763
+ASV_2774	Pimephales promelas	90988
+ASV_2775	Sediminicoccus rosea	1225128
+ASV_2776	uncultured bacterium	77133
+ASV_2777	
+ASV_2778	uncultured bacterium	77133
+ASV_2779	uncultured bacterium	77133
+ASV_2780	Rhodobacteraceae bacterium Ri3Pw_6389	1362494
+ASV_2781	uncultured Rhodobium sp.	259936
+ASV_2782	uncultured bacterium	77133
+ASV_2783	uncultured prokaryote	198431
+ASV_2784	Mesomycoplasma bovoculi M165/69	743966
+ASV_2785	Pseudoxanthomonas suwonensis	314722
+ASV_2786	uncultured bacterium	77133
+ASV_2787	Butyrivibrio fibrisolvens	831
+ASV_2788	uncultured marine bacterium	56765
+ASV_2789	uncultured Geobacter sp.	186741
+ASV_2790	
+ASV_2791	uncultured prokaryote	198431
+ASV_2792	Mesomycoplasma dispar	86660
+ASV_2793	Homo sapiens	9606
+ASV_2794	uncultured diatom	137771
+ASV_2795	uncultured bacterium	77133
+ASV_2796	uncultured bacterium	77133
+ASV_2797	uncultured bacterium	77133
+ASV_2798	uncultured bacterium	77133
+ASV_2799	
+ASV_2800	uncultured bacterium	77133
+ASV_2801	uncultured bacterium	77133
+ASV_2802	Bos taurus	9913
+ASV_2803	Bos taurus	9913
+ASV_2804	Bos taurus	9913
+ASV_2805	uncultured Bacteroidales bacterium	194843
+ASV_2806	uncultured bacterium	77133
+ASV_2807	uncultured bacterium	77133
+ASV_2808	Bos taurus	9913
+ASV_2809	Pseudoalteromonas tunicata	314281
+ASV_2810	uncultured prokaryote	198431
+ASV_2811	uncultured bacterium	77133
+ASV_2812	bacterium MC2017	1451978
+ASV_2813	uncultured organism	155900
+ASV_2814	Bos taurus	9913
+ASV_2815	Bos taurus	9913
+ASV_2816	Bos taurus	9913
+ASV_2817	Mesomycoplasma bovoculi M165/69	743966
+ASV_2818	uncultured bacterium Contig11	1393376
+ASV_2819	uncultured bacterium	77133
+ASV_2820	uncultured bacterium	77133
+ASV_2821	bacterium MC2013	1451975
+ASV_2822	uncultured Neisseriaceae bacterium	208548
+ASV_2823	uncultured bacterium	77133
+ASV_2824	Sphingomonadaceae bacterium Ri2Pw_6011	1360717
+ASV_2825	uncultured bacterium	77133
+ASV_2826	Pseudomonas poae	200451
+ASV_2827	uncultured bacterium	77133
+ASV_2828	uncultured Desulfobacter sp.	240139
+ASV_2829	uncultured bacterium	77133
+ASV_2830	
+ASV_2831	uncultured Psychrobacter sp.	259303
+ASV_2832	uncultured bacterium	77133
+ASV_2833	uncultured bacterium	77133
+ASV_2834	uncultured bacterium	77133
+ASV_2835	uncultured prokaryote	198431
+ASV_2836	uncultured Fibrobacter sp.	261512
+ASV_2837	uncultured rumen bacterium	136703
+ASV_2838	uncultured Planctomycetota bacterium	120965
+ASV_2839	uncultured bacterium	77133
+ASV_2840	uncultured rumen bacterium	136703
+ASV_2841	uncultured bacterium	77133
+ASV_2842	uncultured bacterium	77133
+ASV_2843	uncultured prokaryote	198431
+ASV_2844	uncultured marine bacterium	56765
+ASV_2845	uncultured rumen bacterium	136703
+ASV_2846	
+ASV_2847	uncultured bacterium	77133
+ASV_2848	Bos taurus	9913
+ASV_2849	Bos taurus	9913
+ASV_2850	uncultured Planctomycetota bacterium	120965
+ASV_2851	Psychrobacter sp.	56811
+ASV_2852	uncultured Sulfuricurvum sp.	430693
+ASV_2853	uncultured prokaryote	198431
+ASV_2854	uncultured bacterium	77133
+ASV_2855	Moraxella bovis	476
+ASV_2856	Sphingomonas yantingensis	1241761
+ASV_2857	Rhodobacter sp.	1062
+ASV_2858	Bos taurus	9913
+ASV_2859	
+ASV_2860	uncultured bacterium	77133
+ASV_2861	uncultured bacterium	77133
+ASV_2862	uncultured rumen bacterium	136703
+ASV_2863	
+ASV_2864	uncultured bacterium	77133
+ASV_2865	uncultured bacterium	77133
+ASV_2866	
+ASV_2867	uncultured bacterium	77133
+ASV_2868	uncultured bacterium	77133
+ASV_2869	uncultured bacterium	77133
+ASV_2870	uncultured bacterium	77133
+ASV_2871	Deefgea piscis	2739061
+ASV_2872	uncultured bacterium	77133
+ASV_2873	uncultured bacterium	77133
+ASV_2874	uncultured bacterium	77133
+ASV_2875	
+ASV_2876	uncultured bacterium	77133
+ASV_2877	uncultured prokaryote	198431
+ASV_2878	uncultured bacterium	77133
+ASV_2879	Streptococcus sp.	1306
+ASV_2880	uncultured bacterium	77133
+ASV_2881	uncultured bacterium	77133
+ASV_2882	uncultured bacterium	77133
+ASV_2883	uncultured bacterium	77133
+ASV_2884	uncultured delta proteobacterium	34034
+ASV_2885	uncultured bacterium	77133
+ASV_2886	uncultured bacterium	77133
+ASV_2887	uncultured bacterium	77133
+ASV_2888	Bos taurus	9913
+ASV_2889	Bos taurus	9913
+ASV_2890	uncultured bacterium	77133
+ASV_2891	uncultured bacterium	77133
+ASV_2892	uncultured bacterium	77133
+ASV_2893	Bos taurus	9913
+ASV_2894	uncultured bacterium	77133
+ASV_2895	uncultured bacterium	77133
+ASV_2896	
+ASV_2897	Meleagris gallopavo	9103
+ASV_2898	bacterium XPD1004	1452257
+ASV_2899	uncultured bacterium	77133
+ASV_2900	uncultured bacterium	77133
+ASV_2901	uncultured bacterium	77133
+ASV_2902	Brevundimonas sp.	1871086
+ASV_2903	Psychrobacter sp.	56811
+ASV_2904	uncultured Ilumatobacter sp.	879968
+ASV_2905	uncultured archaeon	115547
+ASV_2906	uncultured bacterium	77133
+ASV_2907	uncultured bacterium	77133
+ASV_2908	uncultured bacterium	77133
+ASV_2909	uncultured bacterium	77133
+ASV_2910	uncultured prokaryote	198431
+ASV_2911	Bradyrhizobium sp. PSBB068	2715960
+ASV_2912	uncultured bacterium	77133
+ASV_2913	Bradyrhizobium sp. PSBB068	2715960
+ASV_2914	uncultured bacterium	77133
+ASV_2915	
+ASV_2916	
+ASV_2917	Polycyclovorans algicola	616992
+ASV_2918	Pseudomonas poae	200451
+ASV_2919	uncultured bacterium	77133
+ASV_2920	
+ASV_2921	uncultured bacterium	77133
+ASV_2922	uncultured bacterium	77133
+ASV_2923	uncultured bacterium	77133
+ASV_2924	uncultured prokaryote	198431
+ASV_2925	uncultured bacterium	77133
+ASV_2926	uncultured rumen bacterium	136703
+ASV_2927	uncultured bacterium	77133
+ASV_2928	uncultured bacterium	77133
+ASV_2929	Homo sapiens	9606
+ASV_2930	uncultured prokaryote	198431
+ASV_2932	
+ASV_2933	uncultured prokaryote	198431
+ASV_2934	uncultured bacterium	77133
+ASV_2935	Alphaproteobacteria bacterium SJR-60A	1785867
+ASV_2936	uncultured bacterium	77133
+ASV_2937	uncultured rumen bacterium	136703
+ASV_2938	uncultured fungus	175245
+ASV_2939	uncultured prokaryote	198431
+ASV_2940	Bos taurus	9913
+ASV_2941	uncultured Bacteroides sp.	162156
+ASV_2942	Pseudictyota dubia	2749911
+ASV_2943	uncultured Planctomycetota bacterium	120965
+ASV_2945	Planoglabratella opercularis	109238
+ASV_2946	
+ASV_2947	Platygobio gracilis	67554
+ASV_2948	uncultured bacterium	77133
+ASV_2949	uncultured bacterium	77133
+ASV_2950	uncultured bacterium	77133
+ASV_2951	uncultured Xanthomonadaceae bacterium	211441
+ASV_2952	uncultured beta proteobacterium	86027
+ASV_2953	uncultured bacterium	77133
+ASV_2954	uncultured bacterium	77133
+ASV_2955	Halomonas sp.	1486246
+ASV_2956	Bos taurus	9913
+ASV_2957	Mesomycoplasma bovoculi M165/69	743966
+ASV_2958	uncultured bacterium	77133
+ASV_2959	uncultured rumen bacterium	136703
+ASV_2960	uncultured Flavobacterium sp.	165435
+ASV_2961	uncultured bacterium	77133
+ASV_2962	uncultured bacterium	77133
+ASV_2963	uncultured bacterium	77133
+ASV_2964	uncultured bacterium	77133
+ASV_2965	uncultured bacterium	77133
+ASV_2966	uncultured bacterium	77133
+ASV_2967	uncultured delta proteobacterium	34034
+ASV_2968	Bos taurus	9913
+ASV_2969	uncultured bacterium	77133
+ASV_2970	uncultured Coprobacillus sp.	512292
+ASV_2971	uncultured bacterium	77133
+ASV_2972	uncultured bacterium	77133
+ASV_2973	Paracoccaceae bacterium	1904441
+ASV_2974	
+ASV_2975	uncultured Planctomycetota bacterium	120965
+ASV_2976	uncultured rumen bacterium	136703
+ASV_2977	uncultured rumen bacterium	136703
+ASV_2978	uncultured bacterium	77133
+ASV_2979	uncultured bacterium	77133
+ASV_2980	uncultured Sulfurospirillum sp.	197506
+ASV_2981	uncultured Actinobacteridae bacterium	197512
+ASV_2982	Bos taurus	9913
+ASV_2983	uncultured bacterium	77133
+ASV_2984	uncultured Planctomycetota bacterium	120965
+ASV_2985	uncultured Eubacteriales bacterium	172733
+ASV_2986	uncultured bacterium	77133
+ASV_2987	uncultured Cellvibrio sp.	174586
+ASV_2988	uncultured bacterium	77133
+ASV_2989	
+ASV_2990	uncultured bacterium	77133
+ASV_2991	uncultured bacterium	77133
+ASV_2992	uncultured bacterium	77133
+ASV_2993	uncultured bacterium	77133
+ASV_2994	uncultured soil bacterium	164851
+ASV_2995	uncultured prokaryote	198431
+ASV_2996	uncultured Acidobacteria bacterium	171953
+ASV_2997	Glabratella patelliformis	109231
+ASV_2998	Mesomycoplasma bovoculi M165/69	743966
+ASV_2999	Bos taurus	9913
+ASV_3000	
+ASV_3002	uncultured bacterium	77133
+ASV_3003	Phocaeicola dorei	357276
+ASV_3004	uncultured prokaryote	198431
+ASV_3005	uncultured prokaryote	198431
+ASV_3006	uncultured bacterium	77133
+ASV_3007	Pedobacter planticolens	2679964
+ASV_3008	uncultured bacterium	77133
+ASV_3009	uncultured bacterium	77133
+ASV_3010	Methylobacterium sp.	409
+ASV_3011	Virgulinella fragilis	243198
+ASV_3012	uncultured bacterium	77133
+ASV_3013	uncultured rumen bacterium	136703
+ASV_3014	Alysiella crassa	153491
+ASV_3015	uncultured rumen bacterium	136703
+ASV_3016	uncultured marine bacterium	56765
+ASV_3017	Sphingomonas paucimobilis	13689
+ASV_3018	uncultured prokaryote	198431
+ASV_3019	
+ASV_3020	
+ASV_3021	Methylorubrum extorquens	408
+ASV_3022	uncultured bacterium	77133
+ASV_3023	Bos taurus	9913
+ASV_3024	Bos taurus	9913
+ASV_3025	uncultured bacterium	77133
+ASV_3026	
+ASV_3027	uncultured bacterium	77133
+ASV_3028	uncultured bacterium	77133
+ASV_3029	uncultured bacterium	77133
+ASV_3030	uncultured prokaryote	198431
+ASV_3031	uncultured bacterium	77133
+ASV_3032	uncultured bacterium	77133
+ASV_3033	uncultured Afipia sp.	218203
+ASV_3034	uncultured Firmicutes bacterium	344338
+ASV_3035	uncultured bacterium	77133
+ASV_3036	
+ASV_3037	uncultured bacterium	77133
+ASV_3038	uncultured Planctomycetota bacterium	120965
+ASV_3039	
+ASV_3040	uncultured bacterium	77133
+ASV_3041	Bordetella parapertussis	519
+ASV_3042	
+ASV_3043	
+ASV_3044	Mesomycoplasma bovoculi M165/69	743966
+ASV_3045	Bos taurus	9913
+ASV_3046	
+ASV_3047	uncultured prokaryote	198431
+ASV_3048	uncultured bacterium	77133
+ASV_3049	uncultured Moraxella sp.	263769
+ASV_3050	Bos taurus	9913
+ASV_3051	uncultured bacterium	77133
+ASV_3052	uncultured rumen bacterium	136703
+ASV_3053	Pedobacter sp.	1411316
+ASV_3054	uncultured bacterium	77133
+ASV_3055	uncultured bacterium	77133
+ASV_3056	uncultured beta proteobacterium	86027
+ASV_3057	Bos taurus	9913
+ASV_3058	uncultured bacterium	77133
+ASV_3059	uncultured Anaeroplasma sp.	538969
+ASV_3060	
+ASV_3061	uncultured bacterium	77133
+ASV_3062	uncultured prokaryote	198431
+ASV_3063	uncultured bacterium	77133
+ASV_3064	uncultured bacterium	77133
+ASV_3065	uncultured bacterium	77133
+ASV_3066	uncultured bacterium	77133
+ASV_3067	uncultured bacterium	77133
+ASV_3068	Bos taurus	9913
+ASV_3069	
+ASV_3070	bacterium XBD1002	1452227
+ASV_3071	uncultured bacterium	77133
+ASV_3072	Pedobacter sp.	1411316
+ASV_3073	uncultured bacterium	77133
+ASV_3074	uncultured bacterium	77133
+ASV_3075	Bos taurus	9913
+ASV_3076	uncultured bacterium	77133
+ASV_3077	uncultured bacterium	77133
+ASV_3078	uncultured bacterium	77133
+ASV_3079	uncultured bacterium	77133
+ASV_3080	uncultured bacterium	77133
+ASV_3081	uncultured bacterium	77133
+ASV_3082	uncultured bacterium	77133
+ASV_3083	Spongiibacter sp.	2024860
+ASV_3084	Bos taurus	9913
+ASV_3085	uncultured bacterium	77133
+ASV_3086	Mannheimia varigena	85404
+ASV_3087	uncultured bacterium	77133
+ASV_3088	uncultured bacterium	77133
+ASV_3089	uncultured bacterium	77133
+ASV_3090	uncultured bacterium	77133
+ASV_3091	uncultured bacterium	77133
+ASV_3092	uncultured rumen bacterium	136703
+ASV_3093	uncultured rumen bacterium	136703
+ASV_3094	uncultured prokaryote	198431
+ASV_3095	uncultured prokaryote	198431
+ASV_3096	uncultured diatom	137771
+ASV_3097	uncultured bacterium	77133
+ASV_3098	uncultured bacterium	77133
+ASV_3099	uncultured bacterium	77133
+ASV_3100	Giraffa reticulata	409609
+ASV_3101	Bos taurus	9913
+ASV_3102	uncultured rumen bacterium	136703
+ASV_3103	uncultured bacterium	77133
+ASV_3104	uncultured bacterium	77133
+ASV_3105	uncultured bacterium	77133
+ASV_3106	Rheinheimera sp.	1869214
+ASV_3107	uncultured Oscillospiraceae bacterium	707003
+ASV_3108	Mallotus villosus	30960
+ASV_3109	uncultured bacterium	77133
+ASV_3110	uncultured bacterium	77133
+ASV_3111	uncultured prokaryote	198431
+ASV_3112	uncultured bacterium	77133
+ASV_3113	Hydrogenophaga sp.	1904254
+ASV_3114	Sphingomonas sediminicola	386874
+ASV_3116	uncultured Methanoregula sp.	1005933
+ASV_3117	uncultured bacterium	77133
+ASV_3118	Globicatella sp.	62321
+ASV_3119	uncultured rumen bacterium	136703
+ASV_3120	uncultured bacterium	77133
+ASV_3121	uncultured bacterium	77133
+ASV_3122	uncultured bacterium	77133
+ASV_3123	Bos taurus	9913
+ASV_3124	uncultured prokaryote	198431
+ASV_3125	Butyrivibrio hungatei	185008
+ASV_3126	
+ASV_3127	uncultured rumen bacterium	136703
+ASV_3129	Paracoccus sp. (in: a-proteobacteria)	267
+ASV_3130	Phyllobacteriaceae bacterium	1871068
+ASV_3131	uncultured prokaryote	198431
+ASV_3132	uncultured bacterium	77133
+ASV_3133	
+ASV_3134	uncultured rumen bacterium	136703
+ASV_3135	uncultured bacterium	77133
+ASV_3136	uncultured bacterium	77133
+ASV_3137	Selenomonas sp.	2053611
+ASV_3138	uncultured bacterium	77133
+ASV_3139	uncultured bacterium	77133
+ASV_3140	uncultured bacterium	77133
+ASV_3141	Bos taurus	9913
+ASV_3142	Meleagris gallopavo	9103
+ASV_3143	uncultured bacterium	77133
+ASV_3144	Bos taurus	9913
+ASV_3145	uncultured organism	155900
+ASV_3146	Sphingomonadaceae bacterium Ri2Pw_6011	1360717
+ASV_3147	uncultured prokaryote	198431
+ASV_3148	uncultured Prevotellaceae bacterium	370804
+ASV_3149	Bos taurus	9913
+ASV_3150	Bos taurus	9913
+ASV_3151	
+ASV_3152	
+ASV_3153	uncultured Pseudomonas sp.	114707
+ASV_3154	uncultured bacterium	77133
+ASV_3155	uncultured bacterium	77133
+ASV_3156	uncultured bacterium	77133
+ASV_3157	uncultured bacterium	77133
+ASV_3158	Megasphaera massiliensis	1232428
+ASV_3159	uncultured organism	155900
+ASV_3160	uncultured bacterium	77133
+ASV_3161	uncultured bacterium	77133
+ASV_3162	uncultured Porphyromonas sp.	159274
+ASV_3163	uncultured bacterium	77133
+ASV_3164	uncultured prokaryote	198431
+ASV_3165	uncultured bacterium	77133
+ASV_3166	uncultured bacterium	77133
+ASV_3167	uncultured Bacteroidetes bacterium	152509
+ASV_3168	Dasyatis say	543940
+ASV_3169	uncultured bacterium	77133
+ASV_3170	
+ASV_3171	uncultured bacterium	77133
+ASV_3172	uncultured bacterium	77133
+ASV_3173	
+ASV_3174	uncultured bacterium	77133
+ASV_3175	uncultured bacterium	77133
+ASV_3176	
+ASV_3177	Pseudoflavonifractor sp.	1980281
+ASV_3178	Bos taurus	9913
+ASV_3179	uncultured organism	155900
+ASV_3180	uncultured bacterium	77133
+ASV_3181	uncultured bacterium	77133
+ASV_3182	uncultured bacterium	77133
+ASV_3183	Mannheimia varigena	85404
+ASV_3184	uncultured bacterium	77133
+ASV_3185	uncultured bacterium	77133
+ASV_3186	uncultured bacterium	77133
+ASV_3187	uncultured bacterium	77133
+ASV_3188	Mesomycoplasma bovoculi M165/69	743966
+ASV_3189	Mesomycoplasma bovoculi M165/69	743966
+ASV_3190	uncultured Gemmatimonadetes bacterium	203437
+ASV_3191	uncultured prokaryote	198431
+ASV_3192	Abiotrophia defectiva	46125
+ASV_3193	Ruthenibacterium lactatiformans	1550024
+ASV_3194	uncultured bacterium	77133
+ASV_3195	Bos taurus	9913
+ASV_3196	uncultured Clostridium sp.	59620
+ASV_3197	uncultured prokaryote	198431
+ASV_3198	Vibrio harveyi	669
+ASV_3199	uncultured bacterium	77133
+ASV_3200	uncultured prokaryote	198431
+ASV_3201	uncultured prokaryote	198431
+ASV_3202	uncultured bacterium	77133
+ASV_3203	uncultured rumen bacterium	136703
+ASV_3204	uncultured Nitrospirae bacterium	170969
+ASV_3205	uncultured bacterium	77133
+ASV_3206	uncultured prokaryote	198431
+ASV_3207	uncultured bacterium	77133
+ASV_3208	uncultured rumen bacterium	136703
+ASV_3209	uncultured prokaryote	198431
+ASV_3210	Lysobacter arseniciresistens	1385522
+ASV_3211	
+ASV_3212	uncultured bacterium	77133
+ASV_3213	Bos taurus	9913
+ASV_3214	uncultured bacterium	77133
+ASV_3215	uncultured prokaryote	198431
+ASV_3216	
+ASV_3217	
+ASV_3218	
+ASV_3219	Streptococcus pasteurianus	197614
+ASV_3220	uncultured Candidatus Xiphinematobacter sp.	1331729
+ASV_3221	uncultured Thiobacillus sp.	189996
+ASV_3222	uncultured bacterium	77133
+ASV_3223	uncultured Prevotella sp.	159272
+ASV_3224	Bos taurus	9913
+ASV_3225	uncultured bacterium	77133
+ASV_3226	uncultured bacterium	77133
+ASV_3227	uncultured bacterium	77133
+ASV_3228	Mesomycoplasma bovoculi M165/69	743966
+ASV_3229	Bos taurus	9913
+ASV_3230	
+ASV_3231	uncultured Niastella sp.	501927
+ASV_3232	
+ASV_3233	uncultured bacterium	77133
+ASV_3234	uncultured bacterium	77133
+ASV_3235	Bacillus sp. (in: firmicutes)	1409
+ASV_3236	
+ASV_3237	
+ASV_3238	
+ASV_3239	Mesomycoplasma bovoculi M165/69	743966
+ASV_3240	uncultured bacterium	77133
+ASV_3241	uncultured Streptococcus sp.	83427
+ASV_3242	uncultured rumen bacterium	136703
+ASV_3243	Pseudomonas baetica	674054
+ASV_3244	uncultured bacterium	77133
+ASV_3246	uncultured bacterium	77133
+ASV_3247	uncultured bacterium	77133
+ASV_3248	uncultured bacterium	77133
+ASV_3249	Homo sapiens	9606
+ASV_3250	uncultured prokaryote	198431
+ASV_3251	uncultured rumen bacterium	136703
+ASV_3252	Bos taurus	9913
+ASV_3253	Bos taurus	9913
+ASV_3254	Bos taurus	9913
+ASV_3255	uncultured prokaryote	198431
+ASV_3256	uncultured bacterium	77133
+ASV_3257	Nannochloropsis limnetica	120807
+ASV_3258	Bos taurus	9913
+ASV_3259	
+ASV_3260	uncultured bacterium	77133
+ASV_3261	uncultured bacterium	77133
+ASV_3262	uncultured bacterium	77133
+ASV_3263	Bos taurus	9913
+ASV_3264	uncultured bacterium	77133
+ASV_3265	uncultured bacterium	77133
+ASV_3266	uncultured Rhodobacteraceae bacterium	157276
+ASV_3268	Bos taurus	9913
+ASV_3269	uncultured bacterium	77133
+ASV_3270	Caulobacter sp.	78
+ASV_3271	delta proteobacterium SCGC AAA166-C09;delta proteobacterium SCGC AAA166-N08	1010313;1010315
+ASV_3272	uncultured prokaryote	198431
+ASV_3273	bacterium ND2007	1452051
+ASV_3274	
+ASV_3275	Halobacteriovorax marinus	97084
+ASV_3276	uncultured rumen bacterium	136703
+ASV_3277	uncultured bacterium	77133
+ASV_3278	uncultured bacterium	77133
+ASV_3279	uncultured bacterium	77133
+ASV_3280	uncultured bacterium	77133
+ASV_3281	uncultured bacterium	77133
+ASV_3282	uncultured rumen bacterium	136703
+ASV_3283	Bos taurus	9913
+ASV_3284	uncultured rumen bacterium	136703
+ASV_3285	uncultured bacterium	77133
+ASV_3286	uncultured bacterium	77133
+ASV_3287	uncultured bacterium	77133
+ASV_3288	uncultured bacterium	77133
+ASV_3289	uncultured bacterium	77133
+ASV_3290	Mesomycoplasma bovoculi M165/69	743966
+ASV_3291	uncultured Lysobacter sp.	271060
+ASV_3292	uncultured bacterium	77133
+ASV_3293	Planomicrobium okeanokoites;Planomicrobium sp. REN14	244;2782551
+ASV_3294	uncultured Algimonas sp.	1547920
+ASV_3295	uncultured bacterium	77133
+ASV_3296	
+ASV_3297	uncultured bacterium	77133
+ASV_3298	uncultured bacterium	77133
+ASV_3299	uncultured Comamonadaceae bacterium	165437
+ASV_3300	
+ASV_3301	uncultured Succinivibrio sp.	540749
+ASV_3302	uncultured bacterium	77133
+ASV_3303	Bos taurus	9913
+ASV_3304	uncultured bacterium	77133
+ASV_3305	
+ASV_3307	Enterobacter sp.	42895
+ASV_3308	uncultured bacterium	77133
+ASV_3309	Dolichospermum planctonicum NRERC-105;Dolichospermum planctonicum NRERC-106	2283156;2283157
+ASV_3310	uncultured bacterium	77133
+ASV_3311	uncultured Gammaproteobacteria bacterium	86473
+ASV_3312	Pseudorhodoplanes sinuspersici	1235591
+ASV_3313	uncultured bacterium	77133
+ASV_3314	Fibrobacter sp.	35828
+ASV_3315	uncultured prokaryote	198431
+ASV_3316	uncultured bacterium	77133
+ASV_3317	uncultured bacterium	77133
+ASV_3318	uncultured bacterium	77133
+ASV_3319	uncultured prokaryote	198431
+ASV_3320	uncultured bacterium	77133
+ASV_3321	uncultured prokaryote	198431
+ASV_3322	uncultured bacterium	77133
+ASV_3323	Sphingomonas sp. Ri3Pt_4437	1362560
+ASV_3324	uncultured rumen bacterium	136703
+ASV_3325	uncultured prokaryote	198431
+ASV_3326	uncultured bacterium	77133
+ASV_3327	uncultured bacterium;uncultured Gammaproteobacteria bacterium	77133;86473
+ASV_3328	Bos taurus	9913
+ASV_3329	uncultured Actinobacteridae bacterium	197512
+ASV_3330	
+ASV_3331	uncultured rumen bacterium	136703
+ASV_3332	uncultured bacterium	77133
+ASV_3333	uncultured bacterium	77133
+ASV_3334	uncultured bacterium	77133
+ASV_3335	uncultured soil bacterium	164851
+ASV_3336	uncultured rumen bacterium	136703
+ASV_3337	uncultured bacterium	77133
+ASV_3338	uncultured bacterium	77133
+ASV_3339	uncultured bacterium	77133
+ASV_3340	uncultured Thalassospira sp.	404382
+ASV_3341	uncultured prokaryote	198431
+ASV_3342	bacterium NE2001	1452072
+ASV_3343	uncultured Cellvibrio sp.	174586
+ASV_3344	uncultured bacterium	77133
+ASV_3345	uncultured bacterium	77133
+ASV_3346	uncultured bacterium	77133
+ASV_3347	Roseococcus sp. Se3Pw_3495	1364735
+ASV_3348	uncultured rumen bacterium	136703
+ASV_3349	uncultured bacterium	77133
+ASV_3350	
+ASV_3351	
+ASV_3352	uncultured bacterium	77133
+ASV_3353	uncultured bacterium	77133
+ASV_3354	uncultured Planctomycetota bacterium	120965
+ASV_3355	uncultured prokaryote	198431
+ASV_3356	
+ASV_3357	
+ASV_3358	Wielerella bovis	2917790
+ASV_3359	uncultured bacterium	77133
+ASV_3360	uncultured bacterium	77133
+ASV_3361	uncultured bacterium	77133
+ASV_3362	uncultured prokaryote	198431
+ASV_3363	uncultured prokaryote	198431
+ASV_3364	uncultured bacterium	77133
+ASV_3365	uncultured bacterium	77133
+ASV_3366	uncultured Fibrobacter sp.	261512
+ASV_3367	
+ASV_3368	
+ASV_3369	
+ASV_3370	alpha proteobacterium DG1532	1337809
+ASV_3371	uncultured Gammaproteobacteria bacterium	86473
+ASV_3372	Pseudictyota dubia	2749911
+ASV_3373	uncultured prokaryote	198431
+ASV_3374	uncultured prokaryote	198431
+ASV_3375	uncultured bacterium	77133
+ASV_3376	uncultured bacterium	77133
+ASV_3377	uncultured organism	155900
+ASV_3378	Oliverpabstia intestinalis	2606633
+ASV_3379	uncultured bacterium	77133
+ASV_3380	Flavobacterium sp.	239
+ASV_3381	uncultured bacterium	77133
+ASV_3382	uncultured bacterium	77133
+ASV_3383	Enterococcus faecium T110	1344042
+ASV_3384	uncultured bacterium	77133
+ASV_3385	uncultured bacterium	77133
+ASV_3386	uncultured bacterium	77133
+ASV_3387	uncultured bacterium	77133
+ASV_3388	uncultured bacterium	77133
+ASV_3389	uncultured bacterium	77133
+ASV_3390	
+ASV_3391	uncultured bacterium	77133
+ASV_3392	Brevundimonas sp.	1871086
+ASV_3393	uncultured Prevotellaceae bacterium	370804
+ASV_3394	uncultured bacterium	77133
+ASV_3395	uncultured prokaryote	198431
+ASV_3396	uncultured archaeon	115547
+ASV_3397	Novosphingobium sp. Se3Pw_3413	1363325
+ASV_3398	uncultured bacterium	77133
+ASV_3399	uncultured bacterium	77133
+ASV_3400	uncultured prokaryote	198431
+ASV_3401	uncultured bacterium	77133
+ASV_3402	uncultured bacterium	77133
+ASV_3403	uncultured marine organism	360281
+ASV_3404	uncultured bacterium	77133
+ASV_3405	uncultured bacterium	77133
+ASV_3406	uncultured bacterium	77133
+ASV_3407	uncultured Streptococcus sp.	83427
+ASV_3408	uncultured marine bacterium	56765
+ASV_3409	Sebastes caurinus	72063
+ASV_3410	uncultured bacterium	77133
+ASV_3411	uncultured beta proteobacterium	86027
+ASV_3412	Pseudobutyrivibrio xylanivorans	185007
+ASV_3413	Mannheimia bovis	2770636
+ASV_3414	
+ASV_3415	uncultured bacterium	77133
+ASV_3416	Pseudoalteromonas sp.	53249
+ASV_3417	uncultured bacterium	77133
+ASV_3418	uncultured bacterium	77133
+ASV_3419	uncultured Bacteroidetes bacterium	152509
+ASV_3420	uncultured prokaryote	198431
+ASV_3421	Homo sapiens	9606
+ASV_3422	uncultured bacterium	77133
+ASV_3423	
+ASV_3424	uncultured bacterium	77133
+ASV_3425	uncultured bacterium	77133
+ASV_3426	uncultured Pirellulaceae bacterium	2706754
+ASV_3427	uncultured bacterium	77133
+ASV_3428	uncultured bacterium	77133
+ASV_3429	uncultured bacterium	77133
+ASV_3430	Bos taurus	9913
+ASV_3431	
+ASV_3432	uncultured Planctomycetaceae bacterium	100233
+ASV_3433	uncultured bacterium	77133
+ASV_3434	uncultured bacterium	77133
+ASV_3435	uncultured bacterium	77133
+ASV_3436	uncultured bacterium	77133
+ASV_3437	uncultured soil bacterium	164851
+ASV_3438	uncultured Prevotellaceae bacterium	370804
+ASV_3439	uncultured bacterium	77133
+ASV_3440	Bos taurus	9913
+ASV_3442	Pseudobutyrivibrio xylanivorans	185007
+ASV_3443	uncultured bacterium	77133
+ASV_3444	uncultured bacterium	77133
+ASV_3445	bacterium FE2016	1451782
+ASV_3446	uncultured Lactococcus sp.	167973
+ASV_3447	uncultured bacterium	77133
+ASV_3448	Planoglabratella opercularis	109238
+ASV_3449	uncultured bacterium	77133
+ASV_3450	uncultured beta proteobacterium	86027
+ASV_3451	uncultured bacterium	77133
+ASV_3452	
+ASV_3453	Acidaminococcus intestini	187327
+ASV_3454	
+ASV_3455	uncultured bacterium	77133
+ASV_3456	uncultured bacterium	77133
+ASV_3457	uncultured bacterium	77133
+ASV_3458	uncultured Oscillospiraceae bacterium	707003
+ASV_3459	uncultured prokaryote	198431
+ASV_3460	uncultured Candidatus Saccharibacteria bacterium	179883
+ASV_3461	uncultured bacterium	77133
+ASV_3462	
+ASV_3463	uncultured bacterium	77133
+ASV_3464	
+ASV_3465	
+ASV_3466	uncultured bacterium	77133
+ASV_3467	uncultured Planctomycetota bacterium	120965
+ASV_3468	uncultured bacterium	77133
+ASV_3469	uncultured bacterium	77133
+ASV_3470	uncultured rumen bacterium	136703
+ASV_3471	Sulfurimonas lithotrophica	2590022
+ASV_3472	uncultured bacterium	77133
+ASV_3473	Mesomycoplasma dispar	86660
+ASV_3474	
+ASV_3475	Enterococcus cecorum	44008
+ASV_3476	
+ASV_3477	
+ASV_3478	uncultured bacterium	77133
+ASV_3479	uncultured Stenotrophomonas sp.	165438
+ASV_3480	Novosphingobium sp.	1874826
+ASV_3481	Pseudomonas anguilliseptica	53406
+ASV_3482	Bos taurus	9913
+ASV_3483	uncultured bacterium	77133
+ASV_3484	
+ASV_3485	uncultured bacterium	77133
+ASV_3486	uncultured bacterium	77133
+ASV_3487	uncultured prokaryote	198431
+ASV_3488	uncultured bacterium	77133
+ASV_3489	uncultured prokaryote	198431
+ASV_3490	uncultured fungus	175245
+ASV_3491	uncultured bacterium	77133
+ASV_3492	uncultured bacterium	77133
+ASV_3493	uncultured bacterium	77133
+ASV_3494	uncultured bacterium	77133
+ASV_3495	uncultured bacterium	77133
+ASV_3496	uncultured bacterium	77133
+ASV_3497	uncultured bacterium	77133
+ASV_3498	uncultured bacterium	77133
+ASV_3500	uncultured bacterium	77133
+ASV_3501	uncultured Nitrospira sp.	157176
+ASV_3502	uncultured bacterium	77133
+ASV_3503	uncultured bacterium	77133
+ASV_3504	uncultured bacterium	77133
+ASV_3505	uncultured bacterium	77133
+ASV_3506	uncultured Fibrobacter sp.	261512
+ASV_3507	uncultured bacterium	77133
+ASV_3508	Arcobacter sp.	1872629
+ASV_3509	Rhizobium pusense	648995
+ASV_3510	uncultured bacterium	77133
+ASV_3511	uncultured bacterium	77133
+ASV_3512	uncultured Alloprevotella sp.	1283315
+ASV_3513	uncultured prokaryote	198431
+ASV_3514	
+ASV_3515	uncultured marine microorganism	415540
+ASV_3516	uncultured bacterium	77133
+ASV_3517	uncultured bacterium	77133
+ASV_3518	uncultured marine bacterium	56765
+ASV_3519	uncultured prokaryote	198431
+ASV_3520	uncultured Planctomycetota bacterium	120965
+ASV_3521	
+ASV_3522	Mannheimia granulomatis	85402
+ASV_3523	uncultured bacterium	77133
+ASV_3524	uncultured bacterium	77133
+ASV_3525	Mesomycoplasma bovoculi M165/69	743966
+ASV_3526	Sphingomonas sp. VITPRS9	1298733
+ASV_3527	Shewanella amazonensis	60478
+ASV_3528	uncultured bacterium	77133
+ASV_3529	uncultured bacterium	77133
+ASV_3530	uncultured bacterium	77133
+ASV_3531	uncultured bacterium	77133
+ASV_3532	uncultured marine bacterium	56765
+ASV_3533	uncultured bacterium	77133
+ASV_3534	
+ASV_3535	
+ASV_3536	Fusobacterium sp.	68766
+ASV_3537	uncultured bacterium	77133
+ASV_3538	uncultured bacterium	77133
+ASV_3539	uncultured bacterium	77133
+ASV_3540	uncultured bacterium	77133
+ASV_3541	uncultured bacterium	77133
+ASV_3542	uncultured bacterium	77133
+ASV_3543	uncultured bacterium	77133
+ASV_3544	uncultured Pseudobdellovibrionaceae bacterium	269677
+ASV_3545	Sphingomonadaceae bacterium Se1Pw_3572	1363578
+ASV_3546	uncultured prokaryote	198431
+ASV_3547	uncultured Lachnospiraceae bacterium	297314
+ASV_3548	Luteimonas sp.	1873125
+ASV_3549	uncultured bacterium	77133
+ASV_3550	
+ASV_3551	
+ASV_3552	Asinibacterium sp. ZJ6106	1612199
+ASV_3553	uncultured bacterium	77133
+ASV_3554	unidentified	32644
+ASV_3555	Homo sapiens	9606
+ASV_3556	uncultured bacterium	77133
+ASV_3557	uncultured proteobacterium	153809
+ASV_3559	uncultured bacterium	77133
+ASV_3560	uncultured bacterium	77133
+ASV_3561	
+ASV_3562	uncultured bacterium	77133
+ASV_3563	Aquilonastra yairi	426450
+ASV_3564	uncultured bacterium	77133
+ASV_3565	uncultured bacterium	77133
+ASV_3566	Bos taurus	9913
+ASV_3567	uncultured bacterium	77133
+ASV_3568	
+ASV_3569	uncultured bacterium	77133
+ASV_3570	uncultured bacterium	77133
+ASV_3571	uncultured bacterium	77133
+ASV_3572	uncultured rumen bacterium	136703
+ASV_3573	Bos taurus	9913
+ASV_3574	uncultured bacterium	77133
+ASV_3575	
+ASV_3576	
+ASV_3577	uncultured bacterium	77133
+ASV_3578	uncultured Bacteroidetes bacterium	152509
+ASV_3579	uncultured bacterium	77133
+ASV_3580	Erythrobacter sanguineus	198312
+ASV_3581	uncultured bacterium	77133
+ASV_3582	uncultured bacterium	77133
+ASV_3583	uncultured prokaryote	198431
+ASV_3584	Moraxella bovis	476
+ASV_3585	
+ASV_3586	Acinetobacter sp.	472
+ASV_3587	uncultured bacterium	77133
+ASV_3588	
+ASV_3589	uncultured bacterium	77133
+ASV_3590	uncultured Oscillospiraceae bacterium	707003
+ASV_3591	Roseomonas sp.	1869190
+ASV_3592	uncultured microorganism	358574
+ASV_3593	uncultured bacterium	77133
+ASV_3594	uncultured bacterium	77133
+ASV_3595	uncultured bacterium	77133
+ASV_3596	uncultured bacterium	77133
+ASV_3597	uncultured prokaryote	198431
+ASV_3598	uncultured bacterium	77133
+ASV_3599	uncultured bacterium	77133
+ASV_3600	uncultured bacterium	77133
+ASV_3601	uncultured bacterium	77133
+ASV_3603	Bibersteinia trehalosi	47735
+ASV_3604	uncultured bacterium	77133
+ASV_3605	uncultured rumen bacterium	136703
+ASV_3606	
+ASV_3607	uncultured bacterium	77133
+ASV_3608	uncultured Planctomycetota bacterium	120965
+ASV_3609	uncultured bacterium	77133
+ASV_3610	uncultured marine bacterium	56765
+ASV_3611	Brevundimonas vancanneytii	1325724
+ASV_3612	
+ASV_3613	
+ASV_3614	uncultured Gammaproteobacteria bacterium	86473
+ASV_3615	uncultured Arcobacter sp.	165434
+ASV_3616	
+ASV_3617	uncultured bacterium	77133
+ASV_3618	uncultured Candidatus Saccharibacteria bacterium	179883
+ASV_3619	
+ASV_3620	uncultured bacterium	77133
+ASV_3621	Mesomycoplasma bovoculi M165/69	743966
+ASV_3622	
+ASV_3623	
+ASV_3625	
+ASV_3626	uncultured Acidobacteria bacterium	171953
+ASV_3627	uncultured bacterium	77133
+ASV_3628	uncultured Alphaproteobacteria bacterium	91750
+ASV_3629	uncultured Verrucomicrobiales bacterium	100234
+ASV_3630	
+ASV_3631	
+ASV_3632	uncultured bacterium	77133
+ASV_3634	uncultured bacterium	77133
+ASV_3635	
+ASV_3636	uncultured bacterium	77133
+ASV_3637	uncultured bacterium	77133
+ASV_3638	Mesomycoplasma bovoculi M165/69	743966
+ASV_3639	uncultured bacterium	77133
+ASV_3640	uncultured bacterium	77133
+ASV_3641	uncultured bacterium	77133
+ASV_3642	uncultured bacterium	77133
+ASV_3643	uncultured fungus	175245
+ASV_3644	Tetraselmis cordiformis	426497
+ASV_3645	uncultured bacterium	77133
+ASV_3646	uncultured bacterium	77133
+ASV_3647	uncultured rumen bacterium	136703
+ASV_3648	uncultured cyanobacterium	1211
+ASV_3649	uncultured bacterium	77133
+ASV_3650	uncultured bacterium	77133
+ASV_3651	uncultured bacterium	77133
+ASV_3652	uncultured Devosia sp.	211434
+ASV_3653	
+ASV_3654	
+ASV_3655	uncultured prokaryote	198431
+ASV_3656	uncultured bacterium	77133
+ASV_3657	uncultured bacterium	77133
+ASV_3658	
+ASV_3659	uncultured bacterium	77133
+ASV_3660	
+ASV_3661	uncultured rumen bacterium	136703
+ASV_3662	
+ASV_3663	uncultured bacterium	77133
+ASV_3664	uncultured bacterium	77133
+ASV_3665	uncultured bacterium	77133
+ASV_3666	
+ASV_3667	uncultured prokaryote	198431
+ASV_3668	uncultured marine bacterium	56765
+ASV_3669	uncultured Chlamydiae bacterium	305355
+ASV_3670	uncultured prokaryote	198431
+ASV_3671	uncultured bacterium	77133
+ASV_3672	uncultured archaeon	115547
+ASV_3673	uncultured prokaryote	198431
+ASV_3674	uncultured bacterium	77133
+ASV_3675	uncultured bacterium	77133
+ASV_3676	uncultured bacterium	77133
+ASV_3677	uncultured bacterium	77133
+ASV_3678	uncultured Sphingobacteriales bacterium	212696
+ASV_3679	uncultured Candidatus Gracilibacteria bacterium	363504
+ASV_3680	uncultured bacterium	77133
+ASV_3681	
+ASV_3682	
+ASV_3683	uncultured bacterium	77133
+ASV_3684	
+ASV_3685	uncultured bacterium	77133
+ASV_3686	uncultured bacterium	77133
+ASV_3687	uncultured bacterium	77133
+ASV_3688	Novosphingobium sp. Se1Ps_1972	1362335
+ASV_3689	uncultured bacterium	77133
+ASV_3690	uncultured Lachnospiraceae bacterium	297314
+ASV_3691	uncultured bacterium	77133
+ASV_3692	uncultured bacterium	77133
+ASV_3693	uncultured bacterium	77133
+ASV_3694	uncultured bacterium	77133
+ASV_3695	uncultured Rhodobacteraceae bacterium	157276
+ASV_3696	uncultured bacterium	77133
+ASV_3697	uncultured Lachnospiraceae bacterium	297314
+ASV_3698	uncultured prokaryote	198431
+ASV_3699	uncultured bacterium	77133
+ASV_3700	Parasphingorhabdus litoris	394733
+ASV_3701	uncultured bacterium	77133
+ASV_3702	Anoxybacillus rupiensis	311460
+ASV_3703	uncultured Bacteroidetes bacterium	152509
+ASV_3704	uncultured bacterium	77133
+ASV_3705	uncultured bacterium	77133
+ASV_3706	uncultured prokaryote	198431
+ASV_3707	uncultured bacterium	77133
+ASV_3708	Emticicia paludis	1681837
+ASV_3709	uncultured bacterium	77133
+ASV_3710	uncultured bacterium	77133
+ASV_3711	uncultured bacterium	77133
+ASV_3712	Novosphingobium sp. Se1Ps_1972	1362335
+ASV_3713	
+ASV_3714	uncultured rumen bacterium	136703
+ASV_3715	
+ASV_3716	Virgulinella fragilis	243198
+ASV_3717	uncultured prokaryote	198431
+ASV_3718	uncultured bacterium	77133
+ASV_3719	Vibrio sp.	678
+ASV_3720	
+ASV_3721	
+ASV_3722	
+ASV_3723	uncultured bacterium	77133
+ASV_3724	uncultured bacterium	77133
+ASV_3725	uncultured organism	155900
+ASV_3726	uncultured prokaryote	198431
+ASV_3727	uncultured rumen bacterium	136703
+ASV_3729	uncultured prokaryote	198431
+ASV_3731	uncultured prokaryote	198431
+ASV_3732	uncultured organism	155900
+ASV_3733	bacterium AE2015	1451644
+ASV_3734	uncultured prokaryote	198431
+ASV_3735	uncultured bacterium	77133
+ASV_3736	uncultured bacterium	77133
+ASV_3737	uncultured bacterium	77133
+ASV_3738	uncultured bacterium	77133
+ASV_3739	Streptococcus pyogenes	1314
+ASV_3740	Acinetobacter sp.	472
+ASV_3741	Psychrobacter glacincola	56810
+ASV_3742	uncultured bacterium	77133
+ASV_3743	uncultured Verrucomicrobia bacterium	156588
+ASV_3744	uncultured bacterium	77133
+ASV_3745	
+ASV_3746	uncultured bacterium	77133
+ASV_3747	uncultured bacterium	77133
+ASV_3748	uncultured bacterium	77133
+ASV_3749	uncultured Gemmata sp.	459262
+ASV_3750	
+ASV_3751	uncultured bacterium	77133
+ASV_3752	
+ASV_3753	uncultured bacterium	77133
+ASV_3755	Maritimibacter alkaliphilus	404236
+ASV_3756	uncultured Legionellaceae bacterium	293331
+ASV_3757	uncultured bacterium	77133
+ASV_3758	uncultured bacterium	77133
+ASV_3759	uncultured bacterium	77133
+ASV_3760	uncultured bacterium	77133
+ASV_3761	uncultured prokaryote	198431
+ASV_3762	uncultured bacterium	77133
+ASV_3763	uncultured bacterium	77133
+ASV_3764	uncultured bacterium	77133
+ASV_3765	uncultured bacterium	77133
+ASV_3766	uncultured bacterium	77133
+ASV_3767	uncultured bacterium	77133
+ASV_3768	uncultured bacterium	77133
+ASV_3769	uncultured bacterium	77133
+ASV_3770	
+ASV_3771	Rhabdochlamydiaceae bacterium	2047756
+ASV_3772	Neisseria sp.	192066
+ASV_3773	uncultured bacterium	77133
+ASV_3774	uncultured prokaryote	198431
+ASV_3775	uncultured rumen bacterium	136703
+ASV_3776	uncultured bacterium	77133
+ASV_3777	uncultured Gammaproteobacteria bacterium	86473
+ASV_3778	uncultured prokaryote	198431
+ASV_3779	uncultured rumen archaeon	591163
+ASV_3780	
+ASV_3781	uncultured prokaryote	198431
+ASV_3782	uncultured bacterium	77133
+ASV_3783	uncultured bacterium	77133
+ASV_3784	
+ASV_3786	uncultured bacterium	77133
+ASV_3787	uncultured bacterium	77133
+ASV_3788	uncultured anaerobic ammonium-oxidizing bacterium	265882
+ASV_3789	uncultured rumen bacterium	136703
+ASV_3790	Homo sapiens	9606
+ASV_3791	Mesomycoplasma bovoculi M165/69	743966
+ASV_3792	Bos taurus	9913
+ASV_3793	uncultured bacterium	77133
+ASV_3794	
+ASV_3795	uncultured Gammaproteobacteria bacterium	86473
+ASV_3796	uncultured bacterium	77133
+ASV_3797	uncultured bacterium	77133
+ASV_3798	bacterium VCD2007	1452154
+ASV_3799	uncultured bacterium	77133
+ASV_3800	Pectobacterium sp.	1913084
+ASV_3801	uncultured bacterium	77133
+ASV_3802	uncultured Lachnospiraceae bacterium	297314
+ASV_3803	uncultured Firmicutes bacterium	344338
+ASV_3804	uncultured bacterium	77133
+ASV_3805	uncultured Gammaproteobacteria bacterium	86473
+ASV_3806	uncultured bacterium	77133
+ASV_3807	uncultured rumen bacterium	136703
+ASV_3808	uncultured bacterium	77133
+ASV_3809	uncultured bacterium	77133
+ASV_3810	uncultured prokaryote	198431
+ASV_3811	uncultured Firmicutes bacterium	344338
+ASV_3812	uncultured prokaryote	198431
+ASV_3813	uncultured organism	155900
+ASV_3814	uncultured bacterium	77133
+ASV_3815	uncultured bacterium	77133
+ASV_3816	uncultured bacterium	77133
+ASV_3817	Hyphomicrobium sp.	82
+ASV_3818	delta proteobacterium FM3-D12	1530564
+ASV_3819	uncultured bacterium	77133
+ASV_3820	uncultured bacterium	77133
+ASV_3821	uncultured bacterium	77133
+ASV_3822	
+ASV_3823	uncultured bacterium	77133
+ASV_3824	uncultured Bacteroides sp.	162156
+ASV_3825	gamma proteobacterium GE09	1006488
+ASV_3827	
+ASV_3828	
+ASV_3829	uncultured bacterium	77133
+ASV_3830	uncultured bacterium	77133
+ASV_3831	uncultured bacterium	77133
+ASV_3832	uncultured bacterium	77133
+ASV_3833	uncultured bacterium	77133
+ASV_3835	uncultured bacterium	77133
+ASV_3836	uncultured prokaryote	198431
+ASV_3837	uncultured bacterium	77133
+ASV_3838	
+ASV_3839	bacterium ND2012	1452055
+ASV_3840	uncultured bacterium	77133
+ASV_3841	uncultured Eubacteriales bacterium	172733
+ASV_3842	uncultured bacterium	77133
+ASV_3843	uncultured bacterium	77133
+ASV_3844	uncultured hydrocarbon seep bacterium BPC066	96977
+ASV_3845	
+ASV_3847	uncultured prokaryote	198431
+ASV_3848	uncultured bacterium	77133
+ASV_3849	Stegostoma fasciatum	378071
+ASV_3850	uncultured rumen bacterium	136703
+ASV_3851	uncultured bacterium	77133
+ASV_3852	uncultured ammonia-oxidizing bacterium	933470
+ASV_3853	uncultured delta proteobacterium	34034
+ASV_3854	
+ASV_3855	uncultured Gammaproteobacteria bacterium	86473
+ASV_3856	Sphingomonadaceae bacterium Ri2Ps_5140	1360184
+ASV_3857	uncultured bacterium	77133
+ASV_3858	uncultured Gammaproteobacteria bacterium	86473
+ASV_3859	bacterium MA2020	1451915
+ASV_3860	uncultured bacterium	77133
+ASV_3861	uncultured bacterium	77133
+ASV_3862	
+ASV_3865	uncultured bacterium	77133
+ASV_3866	uncultured prokaryote	198431
+ASV_3867	uncultured bacterium	77133
+ASV_3868	uncultured Desulfovibrio sp.	167968
+ASV_3869	uncultured Fibrobacter sp.	261512
+ASV_3870	uncultured Fibrobacter sp.	261512
+ASV_3871	Moraxella canis	90239
+ASV_3872	uncultured bacterium	77133
+ASV_3873	uncultured bacterium	77133
+ASV_3874	uncultured bacterium	77133
+ASV_3875	uncultured bacterium	77133
+ASV_3876	uncultured bacterium	77133
+ASV_3877	uncultured Gammaproteobacteria bacterium	86473
+ASV_3878	uncultured bacterium	77133
+ASV_3879	uncultured bacterium	77133
+ASV_3880	uncultured bacterium	77133
+ASV_3881	uncultured delta proteobacterium	34034
+ASV_3882	uncultured bacterium	77133
+ASV_3883	uncultured Bacteroidetes bacterium	152509
+ASV_3884	uncultured bacterium	77133
+ASV_3885	uncultured bacterium	77133
+ASV_3886	
+ASV_3887	uncultured Frisingicoccus sp.	1918629
+ASV_3888	
+ASV_3889	uncultured bacterium	77133
+ASV_3890	Moraxella bovis	476
+ASV_3891	
+ASV_3892	uncultured Parcubacteria group bacterium	221218
+ASV_3893	
+ASV_3894	
+ASV_3895	uncultured prokaryote	198431
+ASV_3896	
+ASV_3897	uncultured Clostridia bacterium	244328
+ASV_3898	
+ASV_3899	uncultured bacterium	77133
+ASV_3901	Vibrio fortis	212667
+ASV_3902	
+ASV_3903	uncultured rumen bacterium	136703
+ASV_3904	uncultured bacterium	77133
+ASV_3905	Mesomycoplasma bovoculi M165/69	743966
+ASV_3906	uncultured rumen bacterium	136703
+ASV_3907	uncultured rumen bacterium	136703
+ASV_3908	uncultured prokaryote	198431
+ASV_3909	uncultured bacterium	77133
+ASV_3910	uncultured bacterium	77133
+ASV_3911	uncultured bacterium	77133
+ASV_3912	
+ASV_3913	uncultured bacterium	77133
+ASV_3914	uncultured bacterium	77133
+ASV_3915	uncultured prokaryote	198431
+ASV_3916	uncultured bacterium	77133
+ASV_3917	uncultured bacterium	77133
+ASV_3918	uncultured bacterium	77133
+ASV_3919	uncultured rumen bacterium	136703
+ASV_3920	uncultured prokaryote	198431
+ASV_3921	uncultured prokaryote	198431
+ASV_3922	uncultured bacterium	77133
+ASV_3923	uncultured bacterium	77133
+ASV_3924	uncultured bacterium	77133
+ASV_3925	uncultured prokaryote	198431
+ASV_3926	uncultured bacterium	77133
+ASV_3927	uncultured rumen bacterium	136703
+ASV_3928	uncultured bacterium	77133
+ASV_3929	uncultured bacterium	77133
+ASV_3930	uncultured bacterium	77133
+ASV_3931	uncultured bacterium	77133
+ASV_3932	uncultured bacterium	77133
+ASV_3933	uncultured bacterium	77133
+ASV_3934	uncultured bacterium	77133
+ASV_3935	uncultured bacterium	77133
+ASV_3936	uncultured bacterium	77133
+ASV_3937	
+ASV_3938	
+ASV_3939	
+ASV_3940	uncultured bacterium	77133
+ASV_3941	uncultured marine bacterium	56765
+ASV_3942	uncultured bacterium	77133
+ASV_3943	Psychrobacter pacificensis	112002
+ASV_3944	
+ASV_3945	uncultured bacterium	77133
+ASV_3946	uncultured Gemmata sp.	459262
+ASV_3947	uncultured bacterium	77133
+ASV_3948	uncultured bacterium	77133
+ASV_3949	uncultured bacterium	77133
+ASV_3950	uncultured bacterium	77133
+ASV_3951	uncultured bacterium	77133
+ASV_3952	uncultured prokaryote	198431
+ASV_3953	uncultured bacterium	77133
+ASV_3954	uncultured bacterium	77133
+ASV_3955	uncultured prokaryote	198431
+ASV_3956	uncultured bacterium	77133
+ASV_3957	
+ASV_3958	uncultured bacterium	77133
+ASV_3959	Pseudomonas fulva	47880
+ASV_3960	uncultured rumen bacterium	136703
+ASV_3961	uncultured beta proteobacterium	86027
+ASV_3962	uncultured rumen bacterium	136703
+ASV_3963	uncultured rumen bacterium	136703
+ASV_3964	uncultured bacterium	77133
+ASV_3965	uncultured bacterium	77133
+ASV_3966	uncultured Christensenellaceae bacterium	1229255
+ASV_3967	uncultured Anaerovorax sp.;uncultured Clostridiales Family XIII bacterium	427146;543366
+ASV_3968	uncultured Rikenellaceae bacterium	331634
+ASV_3969	Marinobacter sp.	50741
+ASV_3970	uncultured bacterium	77133
+ASV_3971	Pseudobutyrivibrio xylanivorans	185007
+ASV_3972	uncultured bacterium	77133
+ASV_3973	uncultured bacterium	77133
+ASV_3974	uncultured bacterium	77133
+ASV_3975	uncultured bacterium	77133
+ASV_3976	uncultured Bacteroidetes bacterium	152509
+ASV_3977	uncultured bacterium	77133
+ASV_3978	uncultured bacterium	77133
+ASV_3979	Sphingomonadaceae bacterium Se1Pw_3572	1363578
+ASV_3980	uncultured bacterium	77133
+ASV_3981	uncultured prokaryote	198431
+ASV_3983	Bacteroides fragilis	817
+ASV_3984	uncultured bacterium;uncultured Ruminococcus sp.	77133;165186
+ASV_3985	uncultured bacterium	77133
+ASV_3986	uncultured candidate division SR1 bacterium	221237
+ASV_3988	uncultured bacterium	77133
+ASV_3989	uncultured bacterium	77133
+ASV_3990	uncultured Oscillospiraceae bacterium	707003
+ASV_3991	
+ASV_3992	uncultured bacterium	77133
+ASV_3993	uncultured bacterium	77133
+ASV_3994	
+ASV_3995	
+ASV_3996	uncultured Eubacteriales bacterium	172733
+ASV_3997	uncultured prokaryote	198431
+ASV_3998	Pseudobutyrivibrio xylanivorans	185007
+ASV_3999	uncultured bacterium	77133
+ASV_4000	
+ASV_4001	
+ASV_4002	uncultured bacterium	77133
+ASV_4003	uncultured prokaryote	198431
+ASV_4004	Sphingomonadaceae bacterium Se1Pw_3572	1363578
+ASV_4005	
+ASV_4006	uncultured bacterium	77133
+ASV_4007	Sulfurimonas crateris	2574727
+ASV_4008	uncultured bacterium	77133
+ASV_4009	uncultured prokaryote	198431
+ASV_4010	uncultured bacterium	77133
+ASV_4011	
+ASV_4012	uncultured bacterium	77133
+ASV_4013	uncultured bacterium	77133
+ASV_4014	uncultured bacterium	77133
+ASV_4015	Clostridium porci	2605778
+ASV_4016	uncultured bacterium	77133
+ASV_4017	
+ASV_4018	uncultured bacterium	77133
+ASV_4019	uncultured bacterium	77133
+ASV_4020	uncultured Spongiibacter sp.	870896
+ASV_4021	uncultured bacterium	77133
+ASV_4022	uncultured bacterium	77133
+ASV_4023	uncultured bacterium;uncultured Lachnospiraceae bacterium	77133;297314
+ASV_4024	uncultured bacterium	77133
+ASV_4025	uncultured prokaryote	198431
+ASV_4026	uncultured bacterium	77133
+ASV_4027	uncultured bacterium	77133
+ASV_4028	uncultured bacterium	77133
+ASV_4029	
+ASV_4030	uncultured prokaryote	198431
+ASV_4031	uncultured prokaryote	198431
+ASV_4032	Archaster typicus	136937
+ASV_4033	uncultured bacterium	77133
+ASV_4034	uncultured bacterium	77133
+ASV_4035	uncultured bacterium	77133
+ASV_4036	uncultured Sporichthyaceae bacterium	293301
+ASV_4037	uncultured Alphaproteobacteria bacterium	91750
+ASV_4038	uncultured bacterium	77133
+ASV_4039	
+ASV_4040	uncultured bacterium	77133
+ASV_4041	uncultured bacterium	77133
+ASV_4042	
+ASV_4043	Halomonas qiaohouensis	1329370
+ASV_4044	Alysiella crassa	153491
+ASV_4045	Novosphingobium sp.	1874826
+ASV_4046	
+ASV_4047	uncultured bacterium	77133
+ASV_4048	uncultured Acidobacteria bacterium	171953
+ASV_4049	
+ASV_4050	uncultured bacterium	77133
+ASV_4051	bacterium VCD1014	1452147
+ASV_4052	uncultured bacterium	77133
+ASV_4053	uncultured bacterium	77133
+ASV_4054	uncultured bacterium	77133
+ASV_4055	
+ASV_4056	uncultured bacterium	77133
+ASV_4057	Lactococcus plantarum	1365
+ASV_4058	uncultured bacterium	77133
+ASV_4060	uncultured bacterium	77133
+ASV_4061	uncultured bacterium	77133
+ASV_4062	uncultured rumen bacterium	136703
+ASV_4063	uncultured bacterium	77133
+ASV_4064	uncultured rumen bacterium	136703
+ASV_4065	uncultured rumen bacterium	136703
+ASV_4066	uncultured bacterium	77133
+ASV_4068	Mesomycoplasma bovoculi M165/69	743966
+ASV_4069	
+ASV_4070	uncultured bacterium	77133
+ASV_4071	bacterium;rumen bacterium	1869227;2267272
+ASV_4072	uncultured bacterium	77133
+ASV_4073	Fibrobacter sp.	35828
+ASV_4074	
+ASV_4075	uncultured Lachnospiraceae bacterium	297314
+ASV_4076	Psychrobacter sp.	56811
+ASV_4077	uncultured prokaryote	198431
+ASV_4078	uncultured bacterium	77133
+ASV_4079	Psychrobacter phenylpyruvicus	29432
+ASV_4080	uncultured prokaryote	198431
+ASV_4081	uncultured Bacteroides sp.	162156
+ASV_4082	uncultured prokaryote	198431
+ASV_4083	
+ASV_4084	
+ASV_4085	uncultured bacterium	77133
+ASV_4086	uncultured Gammaproteobacteria bacterium	86473
+ASV_4087	
+ASV_4088	Kosakonia radicincitans	283686
+ASV_4089	
+ASV_4090	uncultured bacterium	77133
+ASV_4091	uncultured prokaryote	198431
+ASV_4092	uncultured bacterium	77133
+ASV_4093	Brevundimonas denitrificans	1443434
+ASV_4094	uncultured Verrucomicrobia bacterium	156588
+ASV_4095	uncultured bacterium	77133
+ASV_4096	
+ASV_4097	uncultured bacterium	77133
+ASV_4098	Euglena sp. Bibong100404-2	682658
+ASV_4099	Pedobacter cryotolerans	2571270
+ASV_4100	Dolichospermum planctonicum NRERC-105;Dolichospermum planctonicum NRERC-106	2283156;2283157
+ASV_4101	
+ASV_4102	uncultured archaeon	115547
+ASV_4103	uncultured bacterium	77133
+ASV_4104	uncultured Bacteroidetes bacterium	152509
+ASV_4105	uncultured bacterium	77133
+ASV_4106	uncultured prokaryote	198431
+ASV_4107	uncultured bacterium	77133
+ASV_4108	uncultured prokaryote	198431
+ASV_4109	uncultured prokaryote	198431
+ASV_4110	uncultured archaeon	115547
+ASV_4111	uncultured bacterium	77133
+ASV_4112	uncultured bacterium	77133
+ASV_4113	uncultured bacterium	77133
+ASV_4114	uncultured bacterium	77133
+ASV_4115	uncultured bacterium	77133
+ASV_4116	uncultured bacterium	77133
+ASV_4117	
+ASV_4118	uncultured bacterium	77133
+ASV_4119	
+ASV_4120	uncultured bacterium	77133
+ASV_4121	uncultured Verrucomicrobia bacterium	156588
+ASV_4122	uncultured bacterium	77133
+ASV_4123	uncultured prokaryote	198431
+ASV_4124	uncultured bacterium	77133
+ASV_4125	uncultured bacterium	77133
+ASV_4126	uncultured bacterium	77133
+ASV_4127	uncultured bacterium	77133
+ASV_4128	uncultured prokaryote	198431
+ASV_4129	uncultured bacterium	77133
+ASV_4130	Aliikangiella marina	1712262
+ASV_4131	uncultured bacterium	77133
+ASV_4132	uncultured bacterium	77133
+ASV_4133	uncultured Planctomycetota bacterium	120965
+ASV_4134	uncultured beta proteobacterium	86027
+ASV_4135	uncultured bacterium	77133
+ASV_4136	uncultured bacterium	77133
+ASV_4137	uncultured bacterium	77133
+ASV_4138	uncultured bacterium	77133
+ASV_4139	uncultured bacterium	77133
+ASV_4140	uncultured bacterium	77133
+ASV_4142	uncultured bacterium	77133
+ASV_4143	uncultured bacterium	77133
+ASV_4144	Pylodictis olivaris	75288
+ASV_4145	uncultured bacterium	77133
+ASV_4146	Vibrio agarilyticus	2726741
+ASV_4147	uncultured bacterium	77133
+ASV_4148	uncultured bacterium	77133
+ASV_4149	uncultured bacterium	77133
+ASV_4150	uncultured prokaryote	198431
+ASV_4152	uncultured bacterium	77133
+ASV_4153	
+ASV_4154	Thalassiosira pseudonana	35128
+ASV_4155	
+ASV_4156	uncultured euryarchaeote	114243
+ASV_4157	uncultured bacterium	77133
+ASV_4158	uncultured bacterium	77133
+ASV_4159	uncultured prokaryote	198431
+ASV_4160	uncultured rumen bacterium	136703
+ASV_4161	
+ASV_4162	Planctomycetota bacterium	2026780
+ASV_4163	uncultured bacterium	77133
+ASV_4164	uncultured cyanobacterium	1211
+ASV_4165	
+ASV_4166	
+ASV_4167	uncultured Cocleimonas sp.	1051587
+ASV_4168	
+ASV_4169	Blautia obeum	40520
+ASV_4170	uncultured delta proteobacterium	34034
+ASV_4171	
+ASV_4172	uncultured marine microorganism	415540
+ASV_4173	uncultured bacterium	77133
+ASV_4174	uncultured bacterium	77133
+ASV_4175	Ramphastos toco albogularis	322705
+ASV_4176	
+ASV_4177	uncultured bacterium	77133
+ASV_4178	uncultured bacterium	77133
+ASV_4179	uncultured bacterium	77133
+ASV_4180	uncultured bacterium	77133
+ASV_4181	uncultured Firmicutes bacterium	344338
+ASV_4182	uncultured bacterium	77133
+ASV_4183	uncultured bacterium	77133
+ASV_4184	Alysiella crassa	153491
+ASV_4185	uncultured prokaryote	198431
+ASV_4186	Butyrivibrio proteoclasticus	43305
+ASV_4187	Sphingomonas sp. URHD0038	1703061
+ASV_4188	uncultured Mogibacterium sp.	278065
+ASV_4189	
+ASV_4190	
+ASV_4191	
+ASV_4192	
+ASV_4193	uncultured bacterium	77133
+ASV_4194	
+ASV_4195	uncultured bacterium	77133
+ASV_4196	
+ASV_4197	uncultured bacterium	77133
+ASV_4198	uncultured bacterium	77133
+ASV_4199	uncultured bacterium	77133
+ASV_4200	uncultured prokaryote	198431
+ASV_4201	uncultured organism	155900
+ASV_4202	Eurypyga helias	54383
+ASV_4203	Moraxella canis	90239
+ASV_4204	uncultured bacterium	77133
+ASV_4205	uncultured prokaryote	198431
+ASV_4206	uncultured prokaryote	198431
+ASV_4207	uncultured Planctomycetota bacterium	120965
+ASV_4208	
+ASV_4209	uncultured bacterium	77133
+ASV_4210	uncultured Planctomycetota bacterium	120965
+ASV_4211	uncultured bacterium	77133
+ASV_4212	uncultured bacterium	77133
+ASV_4213	uncultured Ruminococcus sp.	165186
+ASV_4214	uncultured bacterium	77133
+ASV_4215	uncultured bacterium	77133
+ASV_4216	uncultured Planctomycetota bacterium	120965
+ASV_4217	
+ASV_4218	
+ASV_4219	Pseudorhodobacter wandonensis	1120568
+ASV_4220	uncultured prokaryote	198431
+ASV_4221	uncultured bacterium	77133
+ASV_4222	
+ASV_4223	uncultured bacterium	77133
+ASV_4224	uncultured bacterium	77133
+ASV_4225	
+ASV_4226	uncultured rumen bacterium	136703
+ASV_4227	uncultured prokaryote	198431
+ASV_4228	uncultured prokaryote	198431
+ASV_4229	
+ASV_4230	uncultured bacterium	77133
+ASV_4231	uncultured bacterium	77133
+ASV_4233	uncultured bacterium	77133
+ASV_4234	uncultured bacterium	77133
+ASV_4235	uncultured bacterium;Clostridium sp. SL-2013-71	77133;1365468
+ASV_4236	
+ASV_4237	uncultured prokaryote	198431
+ASV_4238	uncultured bacterium	77133
+ASV_4239	uncultured bacterium	77133
+ASV_4240	uncultured bacterium	77133
+ASV_4241	Rhodobacteraceae bacterium HJS1	1517561
+ASV_4242	
+ASV_4243	uncultured bacterium	77133
+ASV_4244	uncultured Planctomycetaceae bacterium	100233
+ASV_4245	uncultured cyanobacterium	1211
+ASV_4246	uncultured bacterium	77133
+ASV_4247	uncultured bacterium	77133
+ASV_4248	
+ASV_4249	uncultured rumen bacterium	136703
+ASV_4250	uncultured bacterium	77133
+ASV_4251	uncultured bacterium	77133
+ASV_4252	uncultured bacterium	77133
+ASV_4253	uncultured Ahrensia sp.	1001867
+ASV_4254	
+ASV_4255	uncultured Firmicutes bacterium	344338
+ASV_4256	uncultured delta proteobacterium	34034
+ASV_4257	
+ASV_4258	uncultured marine bacterium	56765
+ASV_4259	uncultured bacterium	77133
+ASV_4260	uncultured bacterium	77133
+ASV_4261	uncultured rumen bacterium	136703
+ASV_4262	Felis catus	9685
+ASV_4263	uncultured bacterium	77133
+ASV_4264	uncultured bacterium	77133
+ASV_4265	
+ASV_4266	uncultured Bacteroides sp.	162156
+ASV_4267	uncultured bacterium	77133
+ASV_4268	uncultured Rikenellaceae bacterium	331634
+ASV_4269	Caryophanon sp. ChST10.6	1035299
+ASV_4270	uncultured bacterium	77133
+ASV_4271	uncultured bacterium	77133
+ASV_4272	uncultured bacterium	77133
+ASV_4273	uncultured bacterium	77133
+ASV_4274	uncultured bacterium	77133
+ASV_4275	uncultured bacterium	77133
+ASV_4276	
+ASV_4277	uncultured bacterium	77133
+ASV_4278	uncultured Alphaproteobacteria bacterium	91750
+ASV_4279	
+ASV_4280	
+ASV_4281	uncultured Actinomycetes bacterium	152507
+ASV_4282	uncultured bacterium	77133
+ASV_4283	uncultured bacterium	77133
+ASV_4284	uncultured bacterium	77133
+ASV_4285	uncultured bacterium	77133
+ASV_4286	uncultured bacterium	77133
+ASV_4287	uncultured prokaryote	198431
+ASV_4288	uncultured prokaryote	198431
+ASV_4290	uncultured bacterium	77133
+ASV_4291	uncultured bacterium	77133
+ASV_4292	uncultured prokaryote	198431
+ASV_4293	uncultured prokaryote	198431
+ASV_4294	Mucilaginibacter glaciei	2772109
+ASV_4295	uncultured prokaryote	198431
+ASV_4296	uncultured prokaryote	198431
+ASV_4297	uncultured bacterium	77133
+ASV_4298	
+ASV_4299	
+ASV_4300	uncultured bacterium	77133
+ASV_4301	uncultured bacterium	77133
+ASV_4302	
+ASV_4303	Vibrio ponticus	265668
+ASV_4304	uncultured bacterium	77133
+ASV_4305	uncultured bacterium	77133
+ASV_4306	uncultured bacterium	77133
+ASV_4307	uncultured rumen bacterium	136703
+ASV_4308	uncultured rumen bacterium	136703
+ASV_4309	uncultured Actinomycetes bacterium	152507
+ASV_4310	
+ASV_4311	uncultured beta proteobacterium	86027
+ASV_4314	Bradyrhizobium sp. PSBB068	2715960
+ASV_4315	
+ASV_4316	
+ASV_4317	uncultured bacterium	77133
+ASV_4318	uncultured bacterium	77133
+ASV_4319	uncultured bacterium	77133
+ASV_4320	uncultured bacterium	77133
+ASV_4321	uncultured Ruminococcus sp.	165186
+ASV_4322	uncultured bacterium	77133
+ASV_4323	
+ASV_4324	
+ASV_4325	uncultured bacterium	77133
+ASV_4326	uncultured rumen bacterium	136703
+ASV_4327	uncultured rumen bacterium	136703
+ASV_4329	uncultured rumen bacterium	136703
+ASV_4330	uncultured prokaryote	198431
+ASV_4331	uncultured bacterium	77133
+ASV_4333	Eionea flava	1397109
+ASV_4334	uncultured organism	155900
+ASV_4335	uncultured prokaryote	198431
+ASV_4336	Macrococcus sp.	1871621
+ASV_4337	uncultured bacterium	77133
+ASV_4338	uncultured Bacteroidales bacterium	194843
+ASV_4339	Moraxella sp. 0408225;Moraxella sp. HP14	765835;1324047
+ASV_4340	uncultured bacterium	77133
+ASV_4341	
+ASV_4342	
+ASV_4343	uncultured Nitrospirae bacterium	170969
+ASV_4344	uncultured bacterium	77133
+ASV_4345	uncultured bacterium	77133
+ASV_4346	uncultured bacterium	77133
+ASV_4347	uncultured bacterium	77133
+ASV_4348	uncultured Geobacter sp.	186741
+ASV_4349	uncultured rumen bacterium	136703
+ASV_4350	uncultured bacterium	77133
+ASV_4351	Homo sapiens	9606
+ASV_4352	uncultured organism	155900
+ASV_4353	uncultured prokaryote	198431
+ASV_4354	
+ASV_4355	uncultured prokaryote	198431
+ASV_4356	uncultured bacterium	77133
+ASV_4357	uncultured bacterium	77133
+ASV_4358	uncultured bacterium	77133
+ASV_4360	uncultured bacterium	77133
+ASV_4361	
+ASV_4362	uncultured bacterium	77133
+ASV_4363	uncultured bacterium	77133
+ASV_4364	uncultured bacterium	77133
+ASV_4365	
+ASV_4366	
+ASV_4367	uncultured bacterium	77133
+ASV_4368	uncultured prokaryote	198431
+ASV_4369	Devosia sp. Ri2Pt_4059	1360469
+ASV_4370	
+ASV_4371	uncultured prokaryote	198431
+ASV_4372	uncultured bacterium	77133
+ASV_4373	uncultured Luteimonas sp.	453144
+ASV_4374	
+ASV_4375	Cocleimonas sp.	2126031
+ASV_4376	uncultured Methanobrevibacter sp.	253161
+ASV_4377	uncultured ammonia-oxidizing bacterium	933470
+ASV_4378	
+ASV_4379	Moraxella bovis	476
+ASV_4380	uncultured bacterium	77133
+ASV_4381	uncultured prokaryote	198431
+ASV_4382	Stenotrophomonas sp.	69392
+ASV_4383	uncultured delta proteobacterium	34034
+ASV_4384	
+ASV_4385	
+ASV_4386	uncultured bacterium	77133
+ASV_4387	uncultured bacterium	77133
+ASV_4388	uncultured Fibrobacter sp.	261512
+ASV_4389	uncultured bacterium	77133
+ASV_4390	uncultured bacterium	77133
+ASV_4391	uncultured prokaryote	198431
+ASV_4392	
+ASV_4393	uncultured bacterium	77133
+ASV_4394	uncultured bacterium	77133
+ASV_4395	uncultured prokaryote	198431
+ASV_4396	uncultured bacterium	77133
+ASV_4397	uncultured phototrophic eukaryote	172788
+ASV_4398	uncultured bacterium	77133
+ASV_4399	
+ASV_4400	uncultured prokaryote	198431
+ASV_4402	uncultured bacterium	77133
+ASV_4403	Bradyrhizobium sp. PSBB068	2715960
+ASV_4404	uncultured bacterium	77133
+ASV_4405	uncultured bacterium	77133
+ASV_4406	uncultured bacterium	77133
+ASV_4407	uncultured bacterium	77133
+ASV_4408	uncultured bacterium	77133
+ASV_4409	uncultured bacterium	77133
+ASV_4410	Francisella adeliensis	2007306
+ASV_4413	uncultured bacterium	77133
+ASV_4414	Fluviispira sanaruensis	2493639
+ASV_4415	
+ASV_4416	uncultured prokaryote	198431
+ASV_4417	
+ASV_4418	Shewanella sp.	50422
+ASV_4419	uncultured bacterium	77133
+ASV_4420	uncultured bacterium	77133
+ASV_4421	uncultured bacterium	77133
+ASV_4422	uncultured bacterium	77133
+ASV_4423	uncultured bacterium	77133
+ASV_4424	Moraxella oblonga	200413
+ASV_4426	uncultured rumen bacterium	136703
+ASV_4427	
+ASV_4428	uncultured bacterium	77133
+ASV_4429	
+ASV_4430	uncultured bacterium	77133
+ASV_4431	
+ASV_4432	uncultured bacterium	77133
+ASV_4433	
+ASV_4434	uncultured bacterium	77133
+ASV_4435	
+ASV_4436	uncultured bacterium	77133
+ASV_4438	Phenylobacterium sp.	1871053
+ASV_4439	uncultured bacterium	77133
+ASV_4440	uncultured bacterium	77133
+ASV_4441	uncultured bacterium	77133
+ASV_4442	uncultured rumen bacterium	136703
+ASV_4443	uncultured marine bacterium	56765
+ASV_4444	Cottus asper	214916
+ASV_4445	uncultured Turicibacter sp.	297316
+ASV_4446	
+ASV_4447	uncultured bacterium	77133
+ASV_4448	uncultured Fibrobacter sp.	261512
+ASV_4449	uncultured Alphaproteobacteria bacterium	91750
+ASV_4450	
+ASV_4451	uncultured bacterium	77133
+ASV_4452	
+ASV_4453	uncultured bacterium	77133
+ASV_4454	uncultured bacterium	77133
+ASV_4455	Vibrio cholerae	666
+ASV_4456	uncultured bacterium	77133
+ASV_4458	uncultured bacterium	77133
+ASV_4459	
+ASV_4460	uncultured bacterium	77133
+ASV_4461	uncultured bacterium	77133
+ASV_4462	uncultured bacterium	77133
+ASV_4463	uncultured Dethiobacter sp.	683409
+ASV_4464	uncultured prokaryote	198431
+ASV_4465	uncultured rumen bacterium	136703
+ASV_4466	uncultured prokaryote	198431
+ASV_4467	uncultured Bacteroides sp.	162156
+ASV_4468	uncultured Parvibacter sp.	1806076
+ASV_4469	uncultured marine bacterium	56765
+ASV_4470	uncultured prokaryote	198431
+ASV_4471	uncultured prokaryote	198431
+ASV_4473	
+ASV_4474	uncultured bacterium	77133
+ASV_4475	uncultured prokaryote	198431
+ASV_4476	Spongiibacter tropicus	454602
+ASV_4477	uncultured bacterium	77133
+ASV_4478	uncultured bacterium	77133
+ASV_4479	uncultured bacterium	77133
+ASV_4480	Notamacropus parma	413582
+ASV_4481	uncultured bacterium	77133
+ASV_4482	
+ASV_4483	Sphingomonas sp.	28214
+ASV_4484	uncultured bacterium	77133
+ASV_4485	uncultured bacterium	77133
+ASV_4486	uncultured bacterium	77133
+ASV_4487	uncultured prokaryote	198431
+ASV_4488	uncultured bacterium	77133
+ASV_4489	uncultured bacterium	77133
+ASV_4490	uncultured bacterium	77133
+ASV_4492	uncultured prokaryote	198431
+ASV_4493	uncultured bacterium	77133
+ASV_4494	uncultured rumen bacterium	136703
+ASV_4495	uncultured bacterium	77133
+ASV_4497	uncultured Parcubacteria group bacterium	221218
+ASV_4498	uncultured bacterium	77133
+ASV_4500	
+ASV_4501	
+ASV_4502	uncultured Candidatus Saccharibacteria bacterium	179883
+ASV_4503	uncultured bacterium	77133
+ASV_4504	
+ASV_4505	uncultured Planctomycetota bacterium	120965
+ASV_4506	uncultured prokaryote	198431
+ASV_4507	uncultured Gammaproteobacteria bacterium	86473
+ASV_4508	uncultured bacterium	77133
+ASV_4509	
+ASV_4510	uncultured bacterium	77133
+ASV_4512	uncultured bacterium	77133
+ASV_4514	
+ASV_4515	uncultured bacterium	77133
+ASV_4516	uncultured Acidobacteriales bacterium	190530
+ASV_4517	uncultured Planctomycetota bacterium	120965
+ASV_4518	
+ASV_4519	
+ASV_4520	uncultured bacterium	77133
+ASV_4521	uncultured bacterium	77133
+ASV_4522	uncultured rumen bacterium	136703
+ASV_4523	uncultured bacterium	77133
+ASV_4524	uncultured bacterium	77133
+ASV_4525	uncultured bacterium	77133
+ASV_4526	uncultured bacterium	77133
+ASV_4527	
+ASV_4531	
+ASV_4532	uncultured bacterium	77133
+ASV_4533	uncultured bacterium	77133
+ASV_4534	uncultured bacterium	77133
+ASV_4535	
+ASV_4536	
+ASV_4537	uncultured deep-sea bacterium	759664
+ASV_4538	uncultured prokaryote	198431
+ASV_4539	uncultured bacterium	77133
+ASV_4540	uncultured rumen bacterium	136703
+ASV_4541	
+ASV_4542	uncultured bacterium	77133
+ASV_4543	uncultured Gammaproteobacteria bacterium	86473
+ASV_4544	uncultured Anaerobacillus sp.	1321266
+ASV_4545	uncultured Magnetococcus sp.	304587
+ASV_4546	Sulfitobacter marinus	394264
+ASV_4547	
+ASV_4548	
+ASV_4549	Fusobacterium perfoetens	852
+ASV_4551	
+ASV_4552	uncultured bacterium	77133
+ASV_4553	uncultured marine bacterium	56765
+ASV_4554	Meleagris gallopavo	9103
+ASV_4555	uncultured rumen bacterium	136703
+ASV_4556	uncultured prokaryote	198431
+ASV_4557	uncultured bacterium	77133
+ASV_4558	uncultured bacterium	77133
+ASV_4559	
+ASV_4560	uncultured Actinomycetes bacterium	152507
+ASV_4561	uncultured bacterium	77133
+ASV_4562	uncultured bacterium	77133
+ASV_4563	Candidatus Uabimicrobium amorphum	2596890
+ASV_4564	
+ASV_4565	uncultured Firmicutes bacterium	344338
+ASV_4566	uncultured bacterium	77133
+ASV_4567	uncultured Rhodospirillales bacterium	296830
+ASV_4568	
+ASV_4569	uncultured bacterium	77133
+ASV_4570	uncultured bacterium	77133
+ASV_4571	uncultured bacterium	77133
+ASV_4572	uncultured bacterium	77133
+ASV_4573	uncultured prokaryote	198431
+ASV_4575	uncultured prokaryote	198431
+ASV_4576	uncultured bacterium	77133
+ASV_4577	uncultured bacterium	77133
+ASV_4578	
+ASV_4579	Phocaeicola sp. KGMB11183	3016083
+ASV_4580	uncultured bacterium	77133
+ASV_4581	uncultured delta proteobacterium	34034
+ASV_4582	uncultured bacterium	77133
+ASV_4583	
+ASV_4584	uncultured Chloroflexi bacterium;uncultured Acidobacteria bacterium	166587;171953
+ASV_4585	uncultured Fibrobacter sp.	261512
+ASV_4586	uncultured bacterium	77133
+ASV_4587	uncultured bacterium	77133
+ASV_4588	uncultured bacterium	77133
+ASV_4589	uncultured bacterium	77133
+ASV_4591	uncultured bacterium	77133
+ASV_4592	uncultured rumen bacterium	136703
+ASV_4593	
+ASV_4594	uncultured bacterium	77133
+ASV_4595	uncultured Planctomyces sp.	179110
+ASV_4596	uncultured Planctomycetaceae bacterium	100233
+ASV_4597	uncultured Gammaproteobacteria bacterium	86473
+ASV_4598	uncultured bacterium	77133
+ASV_4599	uncultured Anaerobranca sp.	332348
+ASV_4600	uncultured bacterium	77133
+ASV_4601	uncultured bacterium	77133
+ASV_4602	uncultured bacterium	77133
+ASV_4603	uncultured bacterium	77133
+ASV_4604	uncultured bacterium	77133
+ASV_4605	uncultured prokaryote	198431
+ASV_4606	uncultured Oscillospiraceae bacterium	707003
+ASV_4607	
+ASV_4608	
+ASV_4609	
+ASV_4610	uncultured bacterium	77133
+ASV_4611	Skeletonema pseudocostatum	41457
+ASV_4612	uncultured bacterium	77133
+ASV_4613	uncultured Acidobacterium sp.	114706
+ASV_4614	uncultured bacterium	77133
+ASV_4615	uncultured phototrophic eukaryote	172788
+ASV_4616	uncultured bacterium	77133
+ASV_4617	uncultured bacterium	77133
+ASV_4618	uncultured bacterium	77133
+ASV_4619	uncultured Vicinamibacter sp.	2790950
+ASV_4620	uncultured bacterium	77133
+ASV_4621	uncultured bacterium	77133
+ASV_4622	
+ASV_4623	uncultured bacterium	77133
+ASV_4624	
+ASV_4625	
+ASV_4626	
+ASV_4627	
+ASV_4628	uncultured rumen bacterium	136703
+ASV_4629	uncultured rumen bacterium	136703
+ASV_4630	uncultured bacterium	77133
+ASV_4631	uncultured bacterium	77133
+ASV_4632	uncultured Lachnospiraceae bacterium	297314
+ASV_4633	uncultured bacterium	77133
+ASV_4634	uncultured Rickettsiales bacterium	219660
+ASV_4635	uncultured bacterium	77133
+ASV_4636	
+ASV_4637	
+ASV_4639	
+ASV_4640	uncultured prokaryote	198431
+ASV_4641	uncultured bacterium	77133
+ASV_4642	uncultured Gammaproteobacteria bacterium;uncultured Xanthomonadales bacterium	86473;412058
+ASV_4643	
+ASV_4644	Kangiella sp. MMH2-2	1255261
+ASV_4645	uncultured rumen bacterium	136703
+ASV_4646	uncultured Arcobacter sp.	165434
+ASV_4647	uncultured Vibrio sp.	114054
+ASV_4648	
+ASV_4649	uncultured bacterium	77133
+ASV_4650	
+ASV_4651	uncultured bacterium	77133
+ASV_4652	uncultured organism	155900
+ASV_4653	uncultured bacterium	77133
+ASV_4654	uncultured Gammaproteobacteria bacterium	86473
+ASV_4655	
+ASV_4656	Novosphingobium sp.	1874826
+ASV_4657	Paenibacillus sp.	58172
+ASV_4658	Mesomycoplasma dispar	86660
+ASV_4659	
+ASV_4660	uncultured bacterium	77133
+ASV_4661	uncultured bacterium	77133
+ASV_4662	Phocaeicola massiliensis	204516
+ASV_4663	uncultured bacterium	77133
+ASV_4664	uncultured rumen bacterium	136703
+ASV_4665	uncultured bacterium	77133
+ASV_4666	uncultured prokaryote	198431
+ASV_4667	
+ASV_4668	
+ASV_4669	
+ASV_4670	
+ASV_4671	uncultured bacterium	77133
+ASV_4672	uncultured bacterium	77133
+ASV_4673	
+ASV_4674	uncultured bacterium	77133
+ASV_4675	uncultured prokaryote	198431
+ASV_4676	
+ASV_4677	uncultured bacterium	77133
+ASV_4678	uncultured bacterium	77133
+ASV_4679	uncultured bacterium	77133
+ASV_4680	uncultured bacterium	77133
+ASV_4681	uncultured bacterium	77133
+ASV_4682	uncultured bacterium	77133
+ASV_4683	uncultured bacterium	77133
+ASV_4684	uncultured Acidobacteria bacterium	171953
+ASV_4686	uncultured prokaryote	198431
+ASV_4687	uncultured bacterium	77133
+ASV_4688	uncultured bacterium	77133
+ASV_4689	uncultured bacterium	77133
+ASV_4690	uncultured bacterium	77133
+ASV_4691	uncultured bacterium	77133
+ASV_4692	uncultured Prevotellaceae bacterium	370804
+ASV_4693	uncultured prokaryote	198431
+ASV_4694	
+ASV_4695	
+ASV_4696	
+ASV_4697	uncultured Rhodobacteraceae bacterium	157276
+ASV_4698	uncultured bacterium	77133
+ASV_4699	uncultured bacterium	77133
+ASV_4700	uncultured bacterium	77133
+ASV_4701	uncultured bacterium	77133
+ASV_4703	uncultured bacterium	77133
+ASV_4704	uncultured archaeon	115547
+ASV_4705	uncultured bacterium	77133
+ASV_4706	uncultured bacterium	77133
+ASV_4707	uncultured rumen bacterium	136703
+ASV_4708	uncultured bacterium	77133
+ASV_4710	uncultured rumen bacterium	136703
+ASV_4711	uncultured prokaryote	198431
+ASV_4712	uncultured bacterium	77133
+ASV_4713	uncultured bacterium	77133
+ASV_4714	uncultured bacterium	77133
+ASV_4715	uncultured bacterium	77133
+ASV_4716	uncultured organism	155900
+ASV_4717	uncultured bacterium	77133
+ASV_4718	
+ASV_4719	
+ASV_4720	uncultured bacterium	77133
+ASV_4721	
+ASV_4722	
+ASV_4723	uncultured bacterium	77133
+ASV_4724	uncultured prokaryote	198431
+ASV_4725	uncultured Candidatus Gracilibacteria bacterium	363504
+ASV_4726	
+ASV_4727	uncultured bacterium	77133
+ASV_4728	uncultured bacterium	77133
+ASV_4729	uncultured bacterium	77133
+ASV_4730	uncultured bacterium	77133
+ASV_4731	uncultured rumen bacterium	136703
+ASV_4732	uncultured Planctomycetota bacterium	120965
+ASV_4733	uncultured bacterium	77133
+ASV_4734	uncultured Planctomycetota bacterium	120965
+ASV_4735	uncultured rumen bacterium	136703
+ASV_4736	
+ASV_4737	uncultured bacterium	77133
+ASV_4738	uncultured bacterium	77133
+ASV_4739	uncultured bacterium	77133
+ASV_4740	uncultured archaeon	115547
+ASV_4741	uncultured prokaryote	198431
+ASV_4742	uncultured rumen bacterium	136703
+ASV_4743	uncultured Lachnospiraceae bacterium	297314
+ASV_4744	uncultured prokaryote	198431
+ASV_4745	Pseudobacteriovorax antillogorgiicola	1513793
+ASV_4746	
+ASV_4747	Halomonas sp.	1486246
+ASV_4748	
+ASV_4749	Planctomycetota bacterium	2026780
+ASV_4750	uncultured bacterium	77133
+ASV_4753	uncultured bacterium	77133
+ASV_4754	uncultured bacterium	77133
+ASV_4755	bacterium MD3002	1452002
+ASV_4756	uncultured bacterium	77133
+ASV_4758	uncultured bacterium	77133
+ASV_4759	uncultured bacterium	77133
+ASV_4760	uncultured bacterium	77133
+ASV_4762	
+ASV_4763	
+ASV_4765	
+ASV_4766	uncultured Nitrospira sp.	157176
+ASV_4767	uncultured bacterium	77133
+ASV_4768	uncultured prokaryote	198431
+ASV_4769	uncultured prokaryote	198431
+ASV_4770	uncultured bacterium	77133
+ASV_4771	uncultured bacterium	77133
+ASV_4772	uncultured bacterium	77133
+ASV_4773	uncultured bacterium	77133
+ASV_4775	
+ASV_4776	
+ASV_4777	
+ASV_4778	uncultured bacterium	77133
+ASV_4779	uncultured Actinomycetes bacterium	152507
+ASV_4780	
+ASV_4781	Acinetobacter marinus	281375
+ASV_4782	Musa acuminata;Musa laterita;Musa siamensis	4641;574488;574497
+ASV_4783	uncultured rumen bacterium	136703
+ASV_4784	uncultured bacterium	77133
+ASV_4785	
+ASV_4786	uncultured bacterium	77133
+ASV_4787	
+ASV_4788	
+ASV_4789	uncultured Oscillospiraceae bacterium	707003
+ASV_4790	uncultured bacterium	77133
+ASV_4791	uncultured marine cyanobacterium	215611
+ASV_4792	uncultured bacterium	77133
+ASV_4793	uncultured prokaryote	198431
+ASV_4794	uncultured prokaryote	198431
+ASV_4795	uncultured bacterium	77133
+ASV_4796	uncultured bacterium	77133
+ASV_4797	
+ASV_4798	uncultured bacterium	77133
+ASV_4799	uncultured bacterium	77133
+ASV_4800	uncultured bacterium	77133
+ASV_4801	uncultured bacterium	77133
+ASV_4802	Pseudobdellovibrio exovorus	453816
+ASV_4803	uncultured bacterium	77133
+ASV_4804	uncultured bacterium	77133
+ASV_4805	uncultured prokaryote	198431
+ASV_4806	
+ASV_4808	uncultured bacterium	77133
+ASV_4809	Photobacterium atrarenae	865757
+ASV_4810	Homo sapiens	9606
+ASV_4811	uncultured rumen bacterium	136703
+ASV_4812	
+ASV_4813	uncultured Tepidisphaera sp.	1771358
+ASV_4814	
+ASV_4815	uncultured bacterium;uncultured Gemmiger sp.	77133;1623490
+ASV_4816	uncultured bacterium	77133
+ASV_4817	uncultured bacterium	77133
+ASV_4818	uncultured bacterium	77133
+ASV_4820	uncultured bacterium	77133
+ASV_4822	uncultured marine bacterium	56765
+ASV_4823	uncultured bacterium	77133
+ASV_4824	uncultured bacterium	77133
+ASV_4825	uncultured bacterium	77133
+ASV_4826	
+ASV_4827	uncultured bacterium	77133
+ASV_4828	
+ASV_4829	uncultured bacterium	77133
+ASV_4830	uncultured bacterium	77133
+ASV_4831	uncultured bacterium	77133
+ASV_4832	uncultured bacterium	77133
+ASV_4833	
+ASV_4834	uncultured bacterium	77133
+ASV_4835	uncultured bacterium	77133
+ASV_4836	
+ASV_4837	uncultured bacterium	77133
+ASV_4838	uncultured Magnetococcus sp.	304587
+ASV_4839	Anaerotignum lactatifermentans	160404
+ASV_4840	
+ASV_4842	Oribacterium sp. R33	1200529
+ASV_4843	
+ASV_4844	
+ASV_4845	uncultured prokaryote	198431
+ASV_4846	uncultured bacterium	77133
+ASV_4847	
+ASV_4848	uncultured bacterium	77133
+ASV_4849	uncultured Intestinimonas sp.	1689265
+ASV_4850	uncultured rumen bacterium	136703
+ASV_4851	
+ASV_4852	uncultured bacterium	77133
+ASV_4853	uncultured bacterium	77133
+ASV_4854	uncultured bacterium	77133
+ASV_4855	
+ASV_4856	uncultured bacterium	77133
+ASV_4857	Acidaminococcus intestini	187327
+ASV_4858	uncultured bacterium	77133
+ASV_4859	uncultured bacterium	77133
+ASV_4860	
+ASV_4861	uncultured rumen bacterium	136703
+ASV_4863	uncultured bacterium	77133
+ASV_4865	uncultured bacterium	77133
+ASV_4866	Algiphilus aromaticivorans DG1253	1415780
+ASV_4867	
+ASV_4868	uncultured Bacteroidales bacterium	194843
+ASV_4869	uncultured proteobacterium	153809
+ASV_4870	
+ASV_4871	uncultured bacterium	77133
+ASV_4872	
+ASV_4873	uncultured archaeon	115547
+ASV_4874	uncultured bacterium	77133
+ASV_4875	
+ASV_4876	uncultured bacterium	77133
+ASV_4878	uncultured proteobacterium	153809
+ASV_4879	
+ASV_4880	uncultured prokaryote	198431
+ASV_4881	
+ASV_4882	uncultured bacterium	77133
+ASV_4883	uncultured prokaryote	198431
+ASV_4884	uncultured bacterium	77133
+ASV_4885	
+ASV_4886	
+ASV_4887	
+ASV_4888	uncultured prokaryote	198431
+ASV_4889	uncultured bacterium	77133
+ASV_4891	uncultured prokaryote	198431
+ASV_4892	uncultured bacterium	77133
+ASV_4893	uncultured Actinomycetes bacterium	152507
+ASV_4894	uncultured prokaryote	198431
+ASV_4895	uncultured bacterium	77133
+ASV_4896	uncultured bacterium	77133
+ASV_4897	uncultured bacterium	77133
+ASV_4899	
+ASV_4900	
+ASV_4901	uncultured bacterium	77133
+ASV_4902	
+ASV_4903	uncultured bacterium	77133
+ASV_4904	
+ASV_4905	uncultured bacterium	77133
+ASV_4906	uncultured bacterium	77133
+ASV_4907	
+ASV_4908	uncultured deep-sea bacterium	759664
+ASV_4909	uncultured bacterium	77133
+ASV_4910	
+ASV_4912	uncultured bacterium	77133
+ASV_4913	uncultured bacterium	77133
+ASV_4914	uncultured bacterium	77133
+ASV_4915	uncultured bacterium	77133
+ASV_4916	uncultured bacterium	77133
+ASV_4917	uncultured bacterium	77133
+ASV_4918	uncultured Prosthecobacter sp.	522608
+ASV_4919	uncultured bacterium	77133
+ASV_4920	uncultured bacterium	77133
+ASV_4921	
+ASV_4922	
+ASV_4923	uncultured bacterium	77133
+ASV_4925	uncultured bacterium	77133
+ASV_4926	
+ASV_4927	uncultured Anaerobranca sp.	332348
+ASV_4929	uncultured prokaryote	198431
+ASV_4930	uncultured prokaryote	198431
+ASV_4931	uncultured bacterium	77133
+ASV_4932	uncultured prokaryote	198431
+ASV_4933	
+ASV_4934	uncultured bacterium	77133
+ASV_4935	uncultured bacterium	77133
+ASV_4936	
+ASV_4937	uncultured bacterium	77133
+ASV_4938	
+ASV_4939	
+ASV_4940	uncultured archaeon	115547
+ASV_4941	
+ASV_4942	uncultured bacterium	77133
+ASV_4944	uncultured bacterium	77133
+ASV_4945	
+ASV_4946	uncultured Flammeovirgaceae bacterium	585402
+ASV_4947	uncultured Clostridiales Family XIII bacterium	543366
+ASV_4948	uncultured bacterium	77133
+ASV_4949	uncultured Procabacteriaceae bacterium	1169646
+ASV_4951	
+ASV_4952	uncultured bacterium	77133
+ASV_4953	bacterium enrichment culture	207831
+ASV_4954	uncultured prokaryote	198431
+ASV_4955	Pseudoteredinibacter isoporae	570281
+ASV_4956	
+ASV_4957	
+ASV_4958	uncultured bacterium	77133
+ASV_4959	uncultured bacterium	77133
+ASV_4960	uncultured bacterium	77133
+ASV_4961	
+ASV_4962	uncultured bacterium	77133
+ASV_4963	uncultured Anaeroplasma sp.	538969
+ASV_4964	uncultured bacterium	77133
+ASV_4965	uncultured bacterium	77133
+ASV_4966	Reyranella aquatilis	2035356
+ASV_4967	uncultured Planctomycetota bacterium	120965
+ASV_4968	uncultured prokaryote	198431
+ASV_4969	uncultured bacterium	77133
+ASV_4971	uncultured bacterium	77133
+ASV_4972	Acinetobacter sp.	472
+ASV_4973	uncultured bacterium	77133
+ASV_4974	uncultured Firmicutes bacterium	344338
+ASV_4975	uncultured prokaryote	198431
+ASV_4976	
+ASV_4977	uncultured bacterium	77133
+ASV_4978	uncultured bacterium	77133
+ASV_4979	uncultured Gammaproteobacteria bacterium	86473
+ASV_4980	uncultured bacterium	77133
+ASV_4981	uncultured bacterium	77133
+ASV_4983	
+ASV_4984	uncultured rumen bacterium	136703
+ASV_4985	
+ASV_4986	uncultured Alteromonadales bacterium	293343
+ASV_4987	uncultured bacterium	77133
+ASV_4988	uncultured bacterium	77133
+ASV_4989	uncultured rumen bacterium	136703
+ASV_4991	
+ASV_4992	
+ASV_4993	
+ASV_4994	
+ASV_4995	Patiria miniata	46514
+ASV_4997	
+ASV_4998	uncultured prokaryote	198431
+ASV_4999	uncultured bacterium	77133
+ASV_5000	
+ASV_5001	uncultured soil bacterium	164851
+ASV_5002	uncultured bacterium	77133
+ASV_5004	
+ASV_5005	uncultured bacterium	77133
+ASV_5006	uncultured prokaryote	198431
+ASV_5007	
+ASV_5008	uncultured bacterium	77133
+ASV_5009	uncultured bacterium	77133
+ASV_5010	
+ASV_5012	Homo sapiens	9606
+ASV_5013	
+ASV_5014	
+ASV_5015	uncultured bacterium	77133
+ASV_5016	
+ASV_5017	uncultured bacterium	77133
+ASV_5018	uncultured bacterium	77133
+ASV_5019	uncultured bacterium	77133
+ASV_5020	Archaster typicus	136937
+ASV_5021	uncultured bacterium	77133
+ASV_5022	uncultured marine bacterium	56765
+ASV_5023	uncultured bacterium	77133
+ASV_5024	uncultured bacterium	77133
+ASV_5025	uncultured bacterium	77133
+ASV_5026	uncultured prokaryote	198431
+ASV_5027	uncultured Rhodobacteraceae bacterium	157276
+ASV_5029	
+ASV_5030	uncultured Planctomycetota bacterium	120965
+ASV_5031	uncultured bacterium	77133
+ASV_5032	
+ASV_5033	uncultured bacterium	77133
+ASV_5034	
+ASV_5035	
+ASV_5036	uncultured Solitalea sp.	1081862
+ASV_5037	uncultured bacterium	77133
+ASV_5038	
+ASV_5039	uncultured bacterium	77133
+ASV_5040	uncultured bacterium	77133
+ASV_5041	uncultured bacterium	77133
+ASV_5042	uncultured bacterium	77133
+ASV_5043	
+ASV_5044	uncultured Dehalococcoidia bacterium	498747
+ASV_5045	uncultured Pseudobdellovibrionaceae bacterium	269677
+ASV_5046	uncultured bacterium	77133
+ASV_5047	uncultured rumen bacterium	136703
+ASV_5048	uncultured bacterium	77133
+ASV_5049	Alysiella crassa	153491
+ASV_5050	uncultured bacterium	77133
+ASV_5052	
+ASV_5053	uncultured bacterium	77133
+ASV_5054	uncultured bacterium	77133
+ASV_5055	
+ASV_5056	uncultured bacterium	77133
+ASV_5057	uncultured bacterium	77133
+ASV_5058	uncultured bacterium	77133
+ASV_5059	uncultured bacterium	77133
+ASV_5060	uncultured prokaryote	198431
+ASV_5061	unidentified	32644
+ASV_5062	uncultured Planctomycetota bacterium	120965
+ASV_5063	uncultured bacterium	77133
+ASV_5064	uncultured bacterium	77133
+ASV_5065	uncultured bacterium	77133
+ASV_5066	uncultured marine bacterium	56765
+ASV_5067	uncultured bacterium	77133
+ASV_5068	Bradyrhizobium sp. PSBB068	2715960
+ASV_5070	Pseudomonas fragi	296
+ASV_5071	uncultured bacterium	77133
+ASV_5072	Achromobacter insolitus	217204
+ASV_5073	uncultured prokaryote	198431
+ASV_5074	uncultured bacterium	77133
+ASV_5075	uncultured prokaryote	198431
+ASV_5076	uncultured prokaryote	198431
+ASV_5077	
+ASV_5078	Enterococcus faecalis	1351
+ASV_5079	
+ASV_5080	
+ASV_5081	uncultured Clostridiales Family IV bacterium	1689141
+ASV_5082	uncultured Acidobacteriales bacterium	190530
+ASV_5083	Nitzschia ovalis	908985
+ASV_5084	uncultured prokaryote	198431
+ASV_5086	uncultured bacterium	77133
+ASV_5087	uncultured bacterium	77133
+ASV_5088	uncultured bacterium	77133
+ASV_5089	
+ASV_5090	uncultured prokaryote	198431
+ASV_5091	uncultured bacterium	77133
+ASV_5092	uncultured euryarchaeote	114243
+ASV_5094	uncultured prokaryote	198431
+ASV_5095	uncultured bacterium	77133
+ASV_5096	uncultured bacterium	77133
+ASV_5097	uncultured bacterium	77133
+ASV_5098	uncultured bacterium	77133
+ASV_5099	uncultured Rickettsiales bacterium	219660
+ASV_5100	
+ASV_5101	uncultured bacterium	77133
+ASV_5102	uncultured bacterium	77133
+ASV_5103	uncultured prokaryote	198431
+ASV_5104	
+ASV_5105	uncultured prokaryote	198431
+ASV_5106	uncultured bacterium	77133
+ASV_5107	uncultured Oligoflexaceae bacterium	1983275
+ASV_5108	
+ASV_5109	uncultured organism	155900
+ASV_5110	uncultured bacterium	77133
+ASV_5111	uncultured bacterium	77133
+ASV_5112	uncultured bacterium	77133
+ASV_5113	uncultured marine bacterium	56765
+ASV_5114	
+ASV_5115	uncultured bacterium	77133
+ASV_5116	uncultured rumen bacterium	136703
+ASV_5117	uncultured Acidobacteria bacterium	171953
+ASV_5118	
+ASV_5119	uncultured prokaryote	198431
+ASV_5120	uncultured prokaryote	198431
+ASV_5121	uncultured bacterium	77133
+ASV_5122	uncultured prokaryote	198431
+ASV_5123	
+ASV_5124	uncultured prokaryote	198431
+ASV_5125	uncultured bacterium	77133
+ASV_5126	uncultured bacterium	77133
+ASV_5127	uncultured prokaryote	198431
+ASV_5128	uncultured bacterium	77133
+ASV_5129	uncultured bacterium	77133
+ASV_5130	uncultured prokaryote	198431
+ASV_5131	uncultured bacterium	77133
+ASV_5132	uncultured bacterium	77133
+ASV_5133	uncultured Kangiella sp.	503838
+ASV_5134	uncultured bacterium	77133
+ASV_5135	
+ASV_5136	uncultured bacterium	77133
+ASV_5137	
+ASV_5139	
+ASV_5140	
+ASV_5141	uncultured bacterium	77133
+ASV_5142	
+ASV_5143	
+ASV_5144	uncultured bacterium	77133
+ASV_5145	uncultured bacterium	77133
+ASV_5146	
+ASV_5147	uncultured bacterium	77133
+ASV_5148	
+ASV_5149	uncultured Planctomycetia bacterium	411917
+ASV_5150	uncultured bacterium	77133
+ASV_5151	uncultured Bacteroidetes bacterium	152509
+ASV_5152	uncultured bacterium	77133
+ASV_5153	uncultured Oscillospiraceae bacterium	707003
+ASV_5154	uncultured Bacteroidales bacterium	194843
+ASV_5156	uncultured Gammaproteobacteria bacterium	86473
+ASV_5157	uncultured bacterium	77133
+ASV_5158	uncultured bacterium	77133
+ASV_5159	uncultured bacterium	77133
+ASV_5160	uncultured bacterium	77133
+ASV_5161	
+ASV_5162	uncultured bacterium	77133
+ASV_5163	marine bacterium r52	577347
+ASV_5164	uncultured bacterium	77133
+ASV_5165	uncultured bacterium	77133
+ASV_5166	uncultured bacterium	77133
+ASV_5167	uncultured prokaryote	198431
+ASV_5168	uncultured rumen bacterium	136703
+ASV_5169	uncultured bacterium	77133
+ASV_5170	uncultured bacterium	77133
+ASV_5171	uncultured bacterium	77133
+ASV_5172	uncultured bacterium	77133
+ASV_5173	uncultured bacterium	77133
+ASV_5174	uncultured bacterium	77133
+ASV_5175	uncultured bacterium	77133
+ASV_5176	
+ASV_5177	
+ASV_5178	
+ASV_5179	uncultured rumen bacterium	136703
+ASV_5180	uncultured bacterium	77133
+ASV_5182	uncultured Bacteroidetes bacterium	152509
+ASV_5183	
+ASV_5184	uncultured Solirubrobacter sp.	211446
+ASV_5185	
+ASV_5186	
+ASV_5188	uncultured bacterium	77133
+ASV_5189	uncultured bacterium S3	90629
+ASV_5190	
+ASV_5191	uncultured prokaryote	198431
+ASV_5192	uncultured prokaryote	198431
+ASV_5193	
+ASV_5194	
+ASV_5195	uncultured bacterium	77133
+ASV_5196	uncultured bacterium	77133
+ASV_5197	uncultured prokaryote	198431
+ASV_5198	uncultured bacterium	77133
+ASV_5199	
+ASV_5200	uncultured bacterium	77133
+ASV_5201	
+ASV_5202	uncultured rumen bacterium	136703
+ASV_5203	uncultured bacterium	77133
+ASV_5204	Moraxella bovis	476
+ASV_5205	uncultured bacterium	77133
+ASV_5206	
+ASV_5207	uncultured bacterium	77133
+ASV_5209	
+ASV_5210	uncultured rumen bacterium	136703
+ASV_5211	uncultured bacterium	77133
+ASV_5212	uncultured bacterium	77133
+ASV_5214	uncultured bacterium	77133
+ASV_5216	uncultured bacterium	77133
+ASV_5217	uncultured Desulfobacteraceae bacterium	218296
+ASV_5218	
+ASV_5219	uncultured rumen bacterium	136703
+ASV_5220	uncultured bacterium	77133
+ASV_5222	
+ASV_5223	uncultured bacterium	77133
+ASV_5224	
+ASV_5225	uncultured bacterium	77133
+ASV_5226	uncultured bacterium	77133
+ASV_5228	uncultured bacterium	77133
+ASV_5229	uncultured bacterium	77133
+ASV_5230	uncultured prokaryote	198431
+ASV_5231	uncultured bacterium	77133
+ASV_5232	
+ASV_5233	uncultured bacterium	77133
+ASV_5234	
+ASV_5235	uncultured prokaryote	198431
+ASV_5236	uncultured Oligoflexales bacterium	2735263
+ASV_5237	uncultured bacterium	77133
+ASV_5238	
+ASV_5239	uncultured bacterium	77133
+ASV_5240	
+ASV_5241	uncultured Bacteroidetes bacterium	152509
+ASV_5242	uncultured bacterium	77133
+ASV_5243	uncultured bacterium	77133
+ASV_5246	uncultured bacterium	77133
+ASV_5247	uncultured bacterium	77133
+ASV_5248	uncultured rumen bacterium	136703
+ASV_5249	uncultured bacterium	77133
+ASV_5250	uncultured prokaryote	198431
+ASV_5251	uncultured prokaryote	198431
+ASV_5252	uncultured bacterium	77133
+ASV_5253	uncultured bacterium	77133
+ASV_5254	uncultured bacterium	77133
+ASV_5255	uncultured bacterium	77133
